@@ -1,19 +1,1546 @@
 configuration:
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
+  min_stars: 50
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+  - category: "web-frameworks"
+    title: "Web Frameworks"
+    subtitle: "General purpose web frameworks to build web applications and REST APIs."
+  - category: "serverless"
+    title: "Serverless"
+  - category: "http-clients"
+    title: "HTTP Clients"
+  - category: "servers"
+    title: "Servers"
+  - category: "auth"
+    title: "Authorization & Authentication"
+  - category: "html-processing"
+    title: "HTML Processing"
+  - category: "url-utils"
+    title: "URL Utilities"
+  - category: "templating"
+    title: "Templating"
+  - category: "django-utils"
+    title: "Django Utilities"
+  - category: "flask-utils"
+    title: "Flask Utilities"
+  - category: "fastapi-utils"
+    title: "FastAPI Utilities"
+  - category: "pyramid-utils"
+    title: "Pyramid Utilities"
+  - category: "openapi-utils"
+    title: "OpenAPI Utilities"
+  - category: "graphql"
+    title: "GraphQL Utilities"
+  - category: "websocket"
+    title: "Websocket Utilities"
+  - category: "rpc"
+    title: "RPC Utilities"
+  - category: "cms"
+    title: "Content Management Systems"
+  - category: "testing"
+    title: "Web Testing"
+  - category: "forms"
+    title: "Web Forms"
+  - category: "markdown"
+    title: "Markdown"
+  - category: "third-party-apis"
+    title: "Third-party Web APIs"
+  - category: "email"
+    title: "Email"
+  - category: "web-scraping"
+    title: "Web Scraping & Crawling"
+    subtitle: "Libraries for web scraping, crawling, downloading, and mining as well as libraries."
+  - category: "static-site"
+    title: "Static Site"
+  - category: "monitoring"
+    title: "REST API Monitoring"
+  - category: "web-ui"
+    title: "Web UI"
+  - category: "admin-ui"
+    title: "Admin UI"
 
 labels:
-  # - label: "python"
-  #   image: "https://www.python.org/static/favicon.ico"
-  #   description: "Best-of list with Python projects"
+  - label: "flask"
+    image: "https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png"
+    description: "Flask related project"
+  - label: "django"
+    image: "https://static.djangoproject.com/img/icon-touch.e4872c4da341.png"
+    description: "Django related project"
+  - label: "fastapi"
+    image: "https://fastapi.tiangolo.com/img/favicon.png"
+    description: "FastAPI related project"
+  - label: "pyramid"
+    image: "https://trypyramid.com/img/pyramid-16x16.png"
+    description: "Pyramid related project"
+  - label: "openapi"
+    image: "https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png"
+    description: "OpenAPI related project"
+  - label: "graphql"
+    image: "https://graphql.org/img/logo.svg"
+    description: "GraphQL related project"
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  - name: flask-admin
+    github_id: flask-admin/flask-admin
+    category: admin-ui
+    labels: ["flask"]
+    conda_id: conda-forge/flask-admin
+    pypi_id: flask-admin
+  - name: django-debug-toolbar
+    github_id: jazzband/django-debug-toolbar
+    category: admin-ui
+    conda_id: conda-forge/django-debug-toolbar
+    pypi_id: django-debug-toolbar
+  - name: django-jet
+    github_id: geex-arts/django-jet
+    category: admin-ui
+    labels: ["django"]
+    pypi_id: django-jet
+  - name: xadmin
+    github_id: sshwsfc/xadmin
+    category: admin-ui
+    license: BSD-3-Clause
+    pypi_id: xadmin2
+  - name: fastapi-admin
+    github_id: long2ice/fastapi-admin
+    category: admin-ui
+    labels: ["fastapi"]
+    pypi_id: fastapi-admin
+  - name: oauthlib
+    github_id: oauthlib/oauthlib
+    category: auth
+    conda_id: conda-forge/oauthlib
+    pypi_id: oauthlib
+  - name: django-allauth
+    github_id: pennersr/django-allauth
+    category: auth
+    labels: ["django"]
+    conda_id: conda-forge/django-allauth
+    pypi_id: django-allauth
+  - name: pyjwt
+    github_id: jpadilla/pyjwt
+    category: auth
+    conda_id: conda-forge/pyjwt
+    pypi_id: pyjwt
+  - name: authlib
+    github_id: lepture/authlib
+    category: auth
+    conda_id: conda-forge/authlib
+    pypi_id: authlib
+  - name: flask-login
+    github_id: maxcountryman/flask-login
+    category: auth
+    labels: ["flask"]
+    conda_id: conda-forge/flask-login
+    pypi_id: flask-login
+  - name: flask-jwt-extended
+    github_id: vimalloc/flask-jwt-extended
+    category: auth
+    labels: ["flask"]
+    conda_id: conda-forge/flask-jwt-extended
+    pypi_id: flask-jwt-extended
+  - name: python-social-auth
+    github_id: omab/python-social-auth
+    category: auth
+    pypi_id: python-social-auth
+  - name: django-oauth-toolkit
+    github_id: jazzband/django-oauth-toolkit
+    category: auth
+    labels: ["django"]
+    pypi_id: django-oauth-toolkit
+  - name: django-guardian
+    github_id: django-guardian/django-guardian
+    category: auth
+    labels: ["django"]
+    conda_id: conda-forge/django-guardian
+    pypi_id: django-guardian
+  - name: rauth
+    github_id: litl/rauth
+    category: auth
+    pypi_id: rauth
+  - name: python-oauth2
+    github_id: joestump/python-oauth2
+    category: auth
+    conda_id: conda-forge/python-oauth2
+    pypi_id: python-oauth2
+  - name: djoser
+    github_id: sunscrapers/djoser
+    category: auth
+    labels: ["django"]
+    pypi_id: djoser
+  - name: flask-dance
+    github_id: singingwolfboy/flask-dance
+    category: auth
+    labels: ["flask"]
+    conda_id: conda-forge/flask-dance
+    pypi_id: flask-dance
+  - name: django-rest-framework-jwt
+    github_id: jpadilla/django-rest-framework-jwt
+    category: auth
+    pypi_id: djangorestframework-jwt
+  - name: authomatic
+    github_id: authomatic/authomatic
+    category: auth
+    pypi_id: authomatic
+  - name: velruse
+    github_id: bbangert/velruse
+    category: auth
+    pypi_id: velruse
+  - name: python-jwt
+    github_id: davedoesdev/python-jwt
+    category: auth
+    pypi_id: python-jwt
+  - name: django-rules
+    github_id: dfunckt/django-rules
+    category: auth
+    labels: ["django"]
+    pypi_id: rules
+  - name: fastapi_login
+    github_id: MushroomMaula/fastapi_login
+    category: auth
+    labels: ["fastapi"]
+    pypi_id: fastapi_login
+  - name: flask_simplelogin
+    github_id: flask-extensions/flask_simplelogin
+    category: auth
+    labels: ["flask"]
+    pypi_id: flask_simplelogin
+  - name: fastapi-jwt-auth
+    github_id: IndominusByte/fastapi-jwt-auth
+    category: auth
+    labels: ["fastapi"]
+    pypi_id: fastapi-jwt-auth
+  - name: pyramid_jwt
+    github_id: wichert/pyramid_jwt
+    category: auth
+    labels: ["pyramid"]
+    pypi_id: pyramid_jwt
+  - name: apex
+    github_id: cd34/apex
+    category: auth
+    labels: ["pyramid"]
+    pypi_id: apex
+  - name: wagtail
+    github_id: wagtail/wagtail
+    category: cms
+    labels: ["django"]
+    conda_id: conda-forge/wagtail
+    pypi_id: wagtail
+  - name: mezzanine
+    github_id: stephenmcd/mezzanine
+    category: cms
+    labels: ["django"]
+    pypi_id: mezzanine
+  - name: django-cms
+    github_id: django-cms/django-cms
+    category: cms
+    labels: ["django"]
+    pypi_id: django-cms
+  - name: lektor
+    github_id: lektor/lektor
+    category: cms
+    conda_id: conda-forge/lektor
+    pypi_id: lektor
+  - name: feincms
+    github_id: feincms/feincms
+    category: cms
+    labels: ["django"]
+    pypi_id: feincms
+  - name: Kotti
+    github_id: Kotti/Kotti
+    license: "RPL"
+    category: cms
+  - name: channels
+    github_id: django/channels
+    category: django-utils
+    labels: ["django"]
+    conda_id: conda-forge/channels
+    pypi_id: channels
+  - name: django-storages
+    github_id: jschneier/django-storages
+    category: django-utils
+    labels: ["django"]
+    conda_id: conda-forge/django-storages
+    pypi_id: django-storages
+  - name: django-import-export
+    github_id: django-import-export/django-import-export
+    category: django-utils
+    labels: ["django"]
+    conda_id: conda-forge/django-import-export
+    pypi_id: django-import-export
+  - name: django-haystack
+    github_id: django-haystack/django-haystack
+    category: django-utils
+    labels: ["django"]
+    conda_id: conda-forge/django-haystack
+    pypi_id: django-haystack
+  - name: django-environ
+    github_id: joke2k/django-environ
+    category: django-utils
+    labels: ["django"]
+    conda_id: conda-forge/django-environ
+    pypi_id: django-environ
+  - name: django-pipeline
+    github_id: jazzband/django-pipeline
+    category: django-utils
+    labels: ["django"]
+    pypi_id: django-pipeline
+  - name: django-braces
+    github_id: brack3t/django-braces
+    category: django-utils
+    labels: ["django"]
+    conda_id: conda-forge/django-braces
+    pypi_id: django-braces
+  - name: django-taggit
+    github_id: jazzband/django-taggit
+    category: django-utils
+    labels: ["django"]
+    conda_id: conda-forge/django-taggit
+    pypi_id: django-taggit
+  - name: django-fsm
+    github_id: viewflow/django-fsm
+    category: django-utils
+    labels: ["django"]
+    conda_id: conda-forge/django-fsm
+    pypi_id: django-fsm
+  - name: django-compressor
+    github_id: django-compressor/django-compressor
+    category: django-utils
+    labels: ["django"]
+    pypi_id: django-compressor
+  - name: django-countries
+    github_id: SmileyChris/django-countries
+    category: django-utils
+    labels: ["django"]
+    pypi_id: django-countries
+  - name: django-stubs
+    github_id: typeddjango/django-stubs
+    category: django-utils
+    labels: ["django"]
+    pypi_id: django-stubs
+  - name: django-cacheops
+    github_id: Suor/django-cacheops
+    category: django-utils
+    labels: ["django"]
+    pypi_id: django-cacheops
+  - name: django-activity-stream
+    github_id: justquick/django-activity-stream
+    category: django-utils
+    labels: ["django"]
+    pypi_id: django-activity-stream
+  - name: django-bootstrap3
+    github_id: zostera/django-bootstrap3
+    category: django-utils
+    labels: ["django"]
+    conda_id: conda-forge/django-bootstrap3
+    pypi_id: django-bootstrap3
+  - name: django-shop
+    github_id: awesto/django-shop
+    category: django-utils
+    labels: ["django"]
+    pypi_id: django-shop
+  - name: django-blog-zinnia
+    github_id: Fantomas42/django-blog-zinnia
+    category: django-utils
+    labels: ["django"]
+    pypi_id: django-blog-zinnia
+  - name: django-bootstrap4
+    github_id: zostera/django-bootstrap4
+    category: django-utils
+    labels: ["django"]
+    conda_id: conda-forge/django-bootstrap4
+    pypi_id: django-bootstrap4
+  - name: django-push-notifications
+    github_id: jazzband/django-push-notifications
+    category: django-utils
+    labels: ["django"]
+    pypi_id: django-push-notifications
+  - name: django-cache-machine
+    github_id: django-cache-machine/django-cache-machine
+    category: django-utils
+    labels: ["django"]
+    pypi_id: django-cache-machine
+  - name: viewflow
+    github_id: viewflow/viewflow
+    category: django-utils
+    labels: ["django"]
+    pypi_id: django-viewflow
+  - name: merchant
+    github_id: agiliq/merchant
+    category: django-utils
+    labels: ["django"]
+    pypi_id: django-merchant
+  - name: django-split-settings
+    github_id: sobolevn/django-split-settings
+    category: django-utils
+    labels: ["django"]
+    pypi_id: django-split-settings
+  - name: dnspython
+    github_id: rthalley/dnspython
+    category: others
+    conda_id: conda-forge/dnspython
+    pypi_id: dnspython
+  - name: aiodns
+    github_id: saghul/aiodns
+    category: others
+    conda_id: conda-forge/aiodns
+    pypi_id: aiodns
+  - name: yagmail
+    github_id: kootenpv/yagmail
+    category: email
+    pypi_id: yagmail
+  - name: modoboa
+    github_id: modoboa/modoboa
+    category: email
+    pypi_id: modoboa
+  - name: flanker
+    github_id: mailgun/flanker
+    category: email
+    pypi_id: flanker
+  - name: pyramid_mailer
+    github_id: Pylons/pyramid_mailer
+    category: email
+    labels: ["pyramid"]
+    pypi_id: pyramid_mailer
+  - name: mailer
+    github_id: marrow/mailer
+    category: email
+    conda_id: conda-forge/mailer
+    pypi_id: mailer
+  - name: gmail
+    github_id: charlierguo/gmail
+    category: email
+    pypi_id: gmail
+  - name: offlineimap
+    github_id: OfflineIMAP/offlineimap
+    category: email
+    pypi_id: offlineimap
+  - name: fastapi-mail
+    github_id: sabuhish/fastapi-mail
+    category: email
+    labels: ["fastapi"]
+    pypi_id: fastapi-mail
+  - name: fastapi-sqlalchemy
+    github_id: mfreeborn/fastapi-sqlalchemy
+    category: fastapi-utils
+    labels: ["fastapi"]
+    pypi_id: fastapi-sqlalchemy
+  - name: fastapi-plugins
+    github_id: madkote/fastapi-plugins
+    category: fastapi-utils
+    labels: ["fastapi"]
+    pypi_id: fastapi-plugins
+  - name: starlette_exporter
+    github_id: stephenhillier/starlette_exporter
+    category: fastapi-utils
+    labels: ["fastapi"]
+    pypi_id: starlette_exporter
+  - name: fastapi_contrib
+    github_id: identixone/fastapi_contrib
+    category: fastapi-utils
+    labels: ["fastapi"]
+    pypi_id: fastapi_contrib
+  - name: fastapi-utils
+    github_id: dmontagu/fastapi-utils
+    category: fastapi-utils
+    labels: ["fastapi"]
+    pypi_id: fastapi-utils
+  - name: fastapi-versioning
+    github_id: DeanWay/fastapi-versioning
+    category: fastapi-utils
+    labels: ["fastapi"]
+    pypi_id: fastapi-versioning
+  - name: slowapi
+    github_id: laurents/slowapi
+    category: fastapi-utils
+    labels: ["fastapi"]
+    pypi_id: slowapi
+  - name: Flask-Migrate
+    github_id: miguelgrinberg/Flask-Migrate
+    category: flask-utils
+    labels: ["flask"]
+    conda_id: conda-forge/flask-migrate
+    pypi_id: flask-migrate
+  - name: flask-sqlalchemy
+    github_id: pallets/flask-sqlalchemy
+    category: flask-utils
+    labels: ["flask"]
+    conda_id: conda-forge/flask-sqlalchemy
+    pypi_id: flask-sqlalchemy
+  - name: flask-babel
+    github_id: python-babel/flask-babel
+    category: flask-utils
+    labels: ["flask"]
+    conda_id: conda-forge/flask-babel
+    pypi_id: flask-babel
+  - name: flask-api
+    github_id: flask-api/flask-api
+    category: flask-utils
+    labels: ["flask"]
+    pypi_id: flask-api
+  - name: flask-assets
+    github_id: miracle2k/flask-assets
+    category: flask-utils
+    labels: ["flask"]
+    conda_id: conda-forge/flask-assets
+    pypi_id: flask-assets
+  - name: Flask-Moment
+    github_id: miguelgrinberg/Flask-Moment
+    category: flask-utils
+    labels: ["flask"]
+    conda_id: conda-forge/flask-moment
+    pypi_id: flask-moment
+  - name: flask-bootstrap
+    github_id: esbullington/flask-bootstrap
+    category: flask-utils
+    labels: ["flask"]
+    conda_id: conda-forge/flask-bootstrap
+    pypi_id: flask-bootstrap
+  - name: flask-ask
+    github_id: johnwheeler/flask-ask
+    category: flask-utils
+    labels: ["flask"]
+    pypi_id: flask-ask
+  - name: flask-seasurf
+    github_id: maxcountryman/flask-seasurf
+    category: flask-utils
+    labels: ["flask"]
+    conda_id: conda-forge/flask-seasurf
+    pypi_id: flask-seasurf
+  - name: Frozen-Flask
+    github_id: Frozen-Flask/Frozen-Flask
+    category: flask-utils
+    labels: ["flask"]
+    conda_id: conda-forge/frozen-flask
+    pypi_id: frozen-flask
+  - name: flask-talisman
+    github_id: GoogleCloudPlatform/flask-talisman
+    category: flask-utils
+    labels: ["flask"]
+    pypi_id: flask-talisman
+  - name: flask_injector
+    github_id: alecthomas/flask_injector
+    category: flask-utils
+    labels: ["flask"]
+    pypi_id: flask_injector
+  - name: flask-rebar
+    github_id: plangrid/flask-rebar
+    category: flask-utils
+    labels: ["flask", "openapi"]
+    pypi_id: flask-rebar
+  - name: safrs
+    github_id: thomaxxl/safrs
+    category: flask-utils
+    labels: ["flask", "openapi"]
+    pypi_id: safrs
+  - name: flask-profiler
+    github_id: muatik/flask-profiler
+    category: flask-utils
+    labels: ["flask"]
+    pypi_id: flask-profiler
+  - name: flask_pydantic
+    github_id: bauerji/flask_pydantic
+    category: flask-utils
+    labels: ["flask"]
+    pypi_id: flask_pydantic
+  - name: flask-file-upload
+    github_id: joegasewicz/flask-file-upload
+    category: flask-utils
+    labels: ["flask"]
+    pypi_id: flask-file-upload
+  - name: flask-msearch
+    github_id: honmaple/flask-msearch
+    category: flask-utils
+    labels: ["flask"]
+    pypi_id: flask-msearch
+  - name: django-crispy-forms
+    github_id: django-crispy-forms/django-crispy-forms
+    category: forms
+    labels: ["django"]
+    conda_id: conda-forge/django-crispy-forms
+    pypi_id: django-crispy-forms
+  - name: wtforms
+    github_id: wtforms/wtforms
+    category: forms
+    conda_id: conda-forge/wtforms
+    pypi_id: wtforms
+  - name: deform
+    github_id: Pylons/deform
+    category: forms
+    license: BSD-3-Clause
+    pypi_id: deform
+  - name: graphene
+    github_id: graphql-python/graphene
+    category: graphql
+    labels: ["graphql"]
+    conda_id: conda-forge/graphene
+    pypi_id: graphene
+  - name: graphene-django
+    github_id: graphql-python/graphene-django
+    category: graphql
+    labels: ["django", "graphql"]
+    conda_id: conda-forge/graphene-django
+    pypi_id: graphene-django
+  - name: ariadne
+    github_id: mirumee/ariadne
+    labels: ["graphql"]
+    category: graphql
+    pypi_id: ariadne
+  - name: flask-graphql
+    github_id: graphql-python/flask-graphql
+    category: graphql
+    labels: ["flask", "graphql"]
+    conda_id: conda-forge/flask-graphql
+    pypi_id: flask-graphql
+  - name: lxml
+    github_id: lxml/lxml
+    category: html-processing
+    conda_id: conda-forge/lxml
+    pypi_id: lxml
+  - name: bleach
+    github_id: mozilla/bleach
+    category: html-processing
+    conda_id: conda-forge/bleach
+    pypi_id: bleach
+  - name: markupsafe
+    github_id: pallets/markupsafe
+    category: html-processing
+    conda_id: conda-forge/markupsafe
+    pypi_id: markupsafe
+  - name: html5lib-python
+    github_id: html5lib/html5lib-python
+    category: html-processing
+    pypi_id: html5lib
+  - name: requests
+    github_id: psf/requests
+    category: http-clients
+    conda_id: conda-forge/requests
+    pypi_id: requests
+  - name: aiohttp
+    github_id: aio-libs/aiohttp
+    category: http-clients
+    conda_id: conda-forge/aiohttp
+    pypi_id: aiohttp
+  - name: urllib3
+    github_id: urllib3/urllib3
+    category: http-clients
+    conda_id: conda-forge/urllib3
+    pypi_id: urllib3
+  - name: httpie
+    github_id: httpie/httpie
+    category: http-clients
+    conda_id: conda-forge/httpie
+    pypi_id: httpie
+  - name: httpx
+    github_id: encode/httpx
+    category: http-clients
+    conda_id: conda-forge/httpx
+    pypi_id: httpx
+  - name: httplib2
+    github_id: httplib2/httplib2
+    category: http-clients
+    conda_id: conda-forge/httplib2
+    pypi_id: httplib2
+  - name: requests-futures
+    github_id: ross/requests-futures
+    category: http-clients
+    conda_id: conda-forge/requests-futures
+    pypi_id: requests-futures
+  - name: httptools
+    github_id: MagicStack/httptools
+    category: http-clients
+    conda_id: conda-forge/httptools
+    pypi_id: httptools
+  - name: grequests
+    github_id: spyoungtech/grequests
+    category: http-clients
+    conda_id: conda-forge/grequests
+    pypi_id: grequests
+  - name: httpcore
+    github_id: encode/httpcore
+    category: http-clients
+    conda_id: conda-forge/httpcore
+    pypi_id: httpcore
+  - name: treq
+    github_id: twisted/treq
+    category: http-clients
+    conda_id: conda-forge/treq
+    pypi_id: treq
+  - name: http-prompt
+    github_id: httpie/http-prompt
+    category: http-clients
+    pypi_id: http-prompt
+  - name: python-zeep
+    github_id: mvantellingen/python-zeep
+    category: http-clients
+    pypi_id: zeep
+  - name: httpstat
+    github_id: reorx/httpstat
+    category: http-clients
+    pypi_id: httpstat
+  - name: mistune
+    github_id: lepture/mistune
+    category: markdown
+    conda_id: conda-forge/mistune
+    pypi_id: mistune
+  - name: html2text
+    github_id: Alir3z4/html2text
+    category: markdown
+    pypi_id: html2text
+  - name: grip
+    github_id: joeyespo/grip
+    category: markdown
+    pypi_id: grip
+  - name: markdown-it-py
+    github_id: executablebooks/markdown-it-py
+    category: markdown
+    conda_id: conda-forge/markdown-it-py
+    pypi_id: markdown-it-py
+  - name: python-markdown2
+    github_id: trentm/python-markdown2
+    category: markdown
+    pypi_id: markdown2
+  - name: timing-asgi
+    github_id: steinnes/timing-asgi
+    category: monitoring
+    # labels: asgi
+    pypi_id: timing-asgi
+  - name: flask-state
+    github_id: yoobool/flask-state
+    category: monitoring
+    labels: ["flask"]
+    pypi_id: Flask-State
+  - name: connexion
+    github_id: zalando/connexion
+    category: openapi-utils
+    labels: ["openapi"]
+    conda_id: conda-forge/connexion
+    pypi_id: connexion
+  - name: apistar
+    github_id: encode/apistar
+    category: openapi-utils
+    labels: ["openapi"]
+    conda_id: conda-forge/apistar
+    pypi_id: apistar
+  - name: pyramid_swagger
+    github_id: striglia/pyramid_swagger
+    category: openapi-utils
+    labels: ["pyramid"]
+    pypi_id: pyramid_swagger
+  - name: pyramid_openapi3
+    github_id: Pylons/pyramid_openapi3
+    category: openapi-utils
+    labels: ["pyramid", "openapi"]
+    pypi_id: pyramid_openapi3
+  - name: openapi-python-client
+    github_id: triaxtec/openapi-python-client
+    category: openapi-utils
+    labels: ["openapi"]
+    pypi_id: openapi-python-client
+  - name: certbot
+    github_id: certbot/certbot
+    category: others
+    pypi_id: certbot
+  - name: scapy
+    github_id: secdev/scapy
+    category: others
+    conda_id: conda-forge/scapy
+    pypi_id: scapy
+  - name: httpbin
+    github_id: postmanlabs/httpbin
+    category: others
+    labels: ["flask"]
+    pypi_id: httpbin
+  - name: rdflib
+    github_id: RDFLib/rdflib
+    category: others
+    conda_id: conda-forge/rdflib
+    pypi_id: rdflib
+  - name: speedtest-cli
+    github_id: sivel/speedtest-cli
+    category: others
+    pypi_id: speedtest-cli
+  - name: impacket
+    github_id: SecureAuthCorp/impacket
+    category: others
+    pypi_id: impacket
+  - name: pynacl
+    github_id: pyca/pynacl
+    category: others
+    conda_id: conda-forge/pynacl
+    pypi_id: pynacl
+  - name: webassets
+    github_id: miracle2k/webassets
+    category: others
+    conda_id: conda-forge/webassets
+    pypi_id: webassets
+  - name: pwntools
+    github_id: Gallopsled/pwntools
+    category: others
+    pypi_id: pwntools
+  - name: Radicale
+    github_id: Kozea/Radicale
+    category: others
+    pypi_id: radicale
+  - name: pywebview
+    github_id: r0x0r/pywebview
+    category: others
+    pypi_id: pywebview
+  - name: webargs
+    github_id: marshmallow-code/webargs
+    category: others
+    conda_id: conda-forge/webargs
+    pypi_id: webargs
+  - name: weblate
+    github_id: WeblateOrg/weblate
+    category: others
+    pypi_id: weblate
+  - name: sslyze
+    github_id: nabla-c0d3/sslyze
+    category: others
+    pypi_id: sslyze
+  - name: python-user-agents
+    github_id: selwin/python-user-agents
+    category: others
+    pypi_id: user-agents
+  - name: aiortc
+    github_id: aiortc/aiortc
+    category: others
+    pypi_id: aiortc
+  - name: healthchecks
+    github_id: healthchecks/healthchecks
+    category: others
+  - name: maltrail
+    github_id: stamparm/maltrail
+    category: others
+  - name: urlwatch
+    github_id: thp/urlwatch
+    category: others
+    pypi_id: urlwatch
+  - name: cabot
+    github_id: arachnys/cabot
+    category: others
+  - name: sandman2
+    github_id: jeffknupp/sandman2
+    category: others
+    pypi_id: sandman2
+  - name: pyload
+    github_id: pyload/pyload
+    category: others
+    pypi_id: pyload-ng
+  - name: toapi
+    github_id: gaojiuli/toapi
+    category: others
+    pypi_id: toapi
+  - name: pyramid_services
+    github_id: mmerickel/pyramid_services
+    category: pyramid-utils
+    labels: ["pyramid"]
+    pypi_id: pyramid_services
+  - name: pyramid_celery
+    github_id: sontek/pyramid_celery
+    category: pyramid-utils
+    labels: ["pyramid"]
+    pypi_id: pyramid_celery
+  - name: rpyc
+    github_id: tomerfiliba-org/rpyc
+    category: rpc
+    conda_id: conda-forge/rpyc
+    pypi_id: rpyc
+  - name: fastapi-jsonrpc
+    github_id: smagafurov/fastapi-jsonrpc
+    category: rpc
+    labels: ["fastapi"]
+    pypi_id: fastapi-jsonrpc
+  - name: Zappa
+    github_id: Miserlou/Zappa
+    category: serverless
+    pypi_id: zappa
+  - name: chalice
+    github_id: aws/chalice
+    category: serverless
+    conda_id: conda-forge/chalice
+    pypi_id: chalice
+  - name: python-lambda
+    github_id: nficano/python-lambda
+    category: serverless
+    pypi_id: python-lambda
+  - name: tornado
+    github_id: tornadoweb/tornado
+    category: servers
+    conda_id: conda-forge/tornado
+    pypi_id: tornado
+  - name: gunicorn
+    github_id: benoitc/gunicorn
+    category: servers
+    conda_id: conda-forge/gunicorn
+    pypi_id: gunicorn
+  - name: uvicorn
+    github_id: encode/uvicorn
+    category: servers
+    conda_id: conda-forge/uvicorn
+    pypi_id: uvicorn
+  - name: asgiref
+    github_id: django/asgiref
+    category: servers
+    conda_id: conda-forge/asgiref
+    pypi_id: asgiref
+  - name: waitress
+    github_id: Pylons/waitress
+    category: servers
+    conda_id: conda-forge/waitress
+    pypi_id: waitress
+  - name: bjoern
+    github_id: jonashaag/bjoern
+    category: servers
+    conda_id: conda-forge/bjoern
+    pypi_id: bjoern
+  - name: django-devserver
+    github_id: dcramer/django-devserver
+    category: servers
+    labels: ["django"]
+    pypi_id: django-devserver
+  - name: mangum
+    github_id: jordaneremieff/mangum
+    category: servers
+    labels: ["fastapi"] #asgi
+    pypi_id: mangum
+  - name: whitenoise
+    github_id: evansd/whitenoise
+    category: static-site
+    conda_id: conda-forge/whitenoise
+    pypi_id: whitenoise
+  - name: pelican
+    github_id: getpelican/pelican
+    category: static-site
+    conda_id: conda-forge/pelican
+    pypi_id: pelican
+  - name: Cactus
+    github_id: eudicots/Cactus
+    category: static-site
+    labels: ["django"]
+    pypi_id: cactus
+  - name: hyde
+    github_id: hyde/hyde
+    category: static-site
+    pypi_id: hyde
+  - name: jinja
+    github_id: pallets/jinja
+    category: templating
+    conda_id: conda-forge/jinja2
+    pypi_id: jinja2
+  - name: pyramid_jinja2
+    github_id: Pylons/pyramid_jinja2
+    category: templating
+    labels: ["pyramid"]
+    pypi_id: pyramid_jinja2
+  - name: mitmproxy
+    github_id: mitmproxy/mitmproxy
+    category: testing
+    pypi_id: mitmproxy
+  - name: responses
+    github_id: getsentry/responses
+    category: testing
+    conda_id: conda-forge/responses
+    pypi_id: responses
+  - name: splinter
+    github_id: cobrateam/splinter
+    category: testing
+    pypi_id: splinter
+  - name: HTTPretty
+    github_id: gabrielfalcao/HTTPretty
+    category: testing
+    conda_id: conda-forge/httpretty
+    pypi_id: httpretty
+  - name: pytest-flask
+    github_id: pytest-dev/pytest-flask
+    category: testing
+    labels: ["flask"]
+    conda_id: conda-forge/pytest-flask
+    pypi_id: pytest-flask
+  - name: SeleniumBase
+    github_id: seleniumbase/SeleniumBase
+    category: testing
+    pypi_id: seleniumbase
+  - name: flask-debugtoolbar
+    github_id: flask-debugtoolbar/flask-debugtoolbar
+    category: testing
+    labels: ["flask"]
+    conda_id: conda-forge/flask-debugtoolbar
+    pypi_id: flask-debugtoolbar
+  - name: webtest
+    github_id: Pylons/webtest
+    category: testing
+    pypi_id: webtest
+  - name: django-test-plus
+    github_id: revsys/django-test-plus
+    category: testing
+    labels: ["django"]
+    conda_id: conda-forge/django-test-plus
+    pypi_id: django-test-plus
+  - name: pytest-splinter
+    github_id: pytest-dev/pytest-splinter
+    category: testing
+    pypi_id: pytest-splinter
+  - name: pyramid_debugtoolbar
+    github_id: Pylons/pyramid_debugtoolbar
+    category: testing
+    labels: ["pyramid"]
+    pypi_id: pyramid_debugtoolbar
+  - name: aioresponses
+    github_id: pnuckowski/aioresponses
+    category: testing
+    pypi_id: aioresponses
+  - name: httmock
+    github_id: patrys/httmock
+    category: testing
+    pypi_id: httmock
+  - name: gabbi
+    github_id: cdent/gabbi
+    category: testing
+    pypi_id: gabbi
+  - name: selene
+    github_id: yashaka/selene
+    category: testing
+    pypi_id: selene
+  - name: mixer
+    github_id: klen/mixer
+    category: testing
+    labels: ["flask", "django"]
+    license: BSD-3-Clause
+    pypi_id: mixer
+  - name: SeleniumLibrary
+    github_id: robotframework/SeleniumLibrary
+    category: testing
+    pypi_id: robotframework-seleniumlibrary
+  - name: pyresttest
+    github_id: svanoort/pyresttest
+    category: testing
+    conda_id: conda-forge/pyresttest
+    pypi_id: pyresttest
+  - name: requestium
+    github_id: tryolabs/requestium
+    category: testing
+    pypi_id: requestium
+  - name: wdb
+    github_id: Kozea/wdb
+    category: testing
+    pypi_id: wdb
+  - name: schemathesis
+    github_id: schemathesis/schemathesis
+    category: testing
+    labels: ["openapi", "graphql"]
+    pypi_id: schemathesis
+  - name: selenium-python-helium
+    github_id: mherrmann/selenium-python-helium
+    category: testing
+    pypi_id: helium
+  - name: aresponses
+    github_id: CircleUp/aresponses
+    category: testing
+    pypi_id: aresponses
+  - name: async-asgi-testclient
+    github_id: vinissimus/async-asgi-testclient
+    category: testing
+    # labels: asgi
+    pypi_id: async-asgi-testclient
+  - name: python-mocket
+    github_id: mindflayer/python-mocket
+    category: testing
+    pypi_id: mocket
+  - name: Astra
+    github_id: flipkart-incubator/Astra
+    category: testing
+  - name: discord.py
+    github_id: Rapptz/discord.py
+    category: third-party-apis
+    pypi_id: discord.py
+  - name: tweepy
+    github_id: tweepy/tweepy
+    category: third-party-apis
+    conda_id: conda-forge/tweepy
+    pypi_id: tweepy
+  - name: PyGithub
+    github_id: PyGithub/PyGithub
+    category: third-party-apis
+    conda_id: conda-forge/pygithub
+    pypi_id: pygithub
+  - name: python-telegram-bot
+    github_id: python-telegram-bot/python-telegram-bot
+    category: third-party-apis
+    conda_id: conda-forge/python-telegram-bot
+    pypi_id: python-telegram-bot
+  - name: Telethon
+    github_id: LonamiWebs/Telethon
+    category: third-party-apis
+    pypi_id: telethon
+  - name: praw
+    github_id: praw-dev/praw
+    category: third-party-apis
+    conda_id: conda-forge/praw
+    pypi_id: praw
+  - name: gspread
+    github_id: burnash/gspread
+    category: third-party-apis
+    conda_id: conda-forge/gspread
+    pypi_id: gspread
+  - name: spotipy
+    github_id: plamere/spotipy
+    category: third-party-apis
+    pypi_id: spotipy
+  - name: pyTelegramBotAPI
+    github_id: eternnoir/pyTelegramBotAPI
+    category: third-party-apis
+    pypi_id: pytelegrambotapi
+  - name: slacker
+    github_id: os/slacker
+    category: third-party-apis
+    conda_id: conda-forge/slacker
+    pypi_id: slacker
+  - name: Wikipedia
+    github_id: goldsmith/Wikipedia
+    category: third-party-apis
+    conda_id: conda-forge/wikipedia
+    pypi_id: wikipedia
+  - name: InstaPy
+    github_id: timgrossmann/InstaPy
+    category: third-party-apis
+    pypi_id: instapy
+  - name: twitter
+    github_id: sixohsix/twitter
+    category: third-party-apis
+    pypi_id: twitter
+  - name: tushare
+    github_id: waditu/tushare
+    category: third-party-apis
+    pypi_id: tushare
+  - name: pytube
+    github_id: pytube/pytube
+    category: third-party-apis
+    pypi_id: pytube
+  - name: facebook-sdk
+    github_id: mobolic/facebook-sdk
+    category: third-party-apis
+    pypi_id: facebook-sdk
+  - name: python-twitter
+    github_id: bear/python-twitter
+    category: third-party-apis
+    pypi_id: python-twitter
+  - name: thumbor
+    github_id: thumbor/thumbor
+    category: third-party-apis
+    pypi_id: thumbor
+  - name: twython
+    github_id: ryanmcgrath/twython
+    category: third-party-apis
+    conda_id: conda-forge/twython
+    pypi_id: twython
+  - name: wechatpy
+    github_id: wechatpy/wechatpy
+    category: third-party-apis
+    pypi_id: wechatpy
+  - name: instagram-scraper
+    github_id: arc298/instagram-scraper
+    category: third-party-apis
+    pypi_id: instagram-scraper
+  - name: python-instagram
+    github_id: facebookarchive/python-instagram
+    category: third-party-apis
+    pypi_id: python-instagram
+  - name: gmusicapi
+    github_id: simon-weber/gmusicapi
+    category: third-party-apis
+    pypi_id: gmusicapi
+  - name: coursera-dl
+    github_id: coursera-dl/coursera-dl
+    category: third-party-apis
+    conda_id: conda-forge/coursera-dl
+    pypi_id: coursera-dl
+  - name: igramscraper
+    github_id: realsirjoe/instagram-scraper
+    category: third-party-apis
+    pypi_id: igramscraper
+  - name: sherlock
+    github_id: sherlock-project/sherlock
+    category: third-party-apis
+    pypi_id: sherlock
+  - name: twitterscraper
+    github_id: taspinar/twitterscraper
+    category: third-party-apis
+    pypi_id: twitterscraper
+  - name: twitter-scraper
+    github_id: bisguzar/twitter-scraper
+    category: third-party-apis
+    pypi_id: twitter-scraper
+  - name: Django Facebook
+    github_id: tschellenbach/Django-facebook
+    category: third-party-apis
+    license: BSD-3-Clause
+    pypi_id: django-facebook
+  - name: telepot
+    github_id: nickoala/telepot
+    category: third-party-apis
+    pypi_id: telepot
+  - name: google-maps-services-python
+    github_id: googlemaps/google-maps-services-python
+    category: third-party-apis
+    pypi_id: googlemaps
+  - name: imdbpy
+    github_id: alberanid/imdbpy
+    category: third-party-apis
+    pypi_id: imdbpy
+  - name: instagram_private_api
+    github_id: ping/instagram_private_api
+    category: third-party-apis
+    pypi_id: instagram_private_api
+  - name: pyshorteners
+    github_id: ellisonleao/pyshorteners
+    category: third-party-apis
+    pypi_id: pyshorteners
+  - name: py-googletrans
+    github_id: ssut/py-googletrans
+    category: third-party-apis
+    pypi_id: googletrans
+  - name: notion-py
+    github_id: jamalex/notion-py
+    category: third-party-apis
+    pypi_id: notion
+  - name: scdl
+    github_id: flyingrub/scdl
+    category: third-party-apis
+  - name: python-slack-sdk
+    github_id: slackapi/python-slack-sdk
+    category: third-party-apis
+    pypi_id: slack-sdk
+  - name: GHunt
+    github_id: mxrch/GHunt
+    category: third-party-apis
+  - name: shortuuid
+    github_id: skorokithakis/shortuuid
+    category: url-utils
+    conda_id: conda-forge/shortuuid
+    pypi_id: shortuuid
+  - name: purl
+    github_id: codeinthehole/purl
+    category: url-utils
+    pypi_id: purl
+  - name: furl
+    github_id: gruns/furl
+    category: url-utils
+    conda_id: conda-forge/furl
+    pypi_id: furl
+  - name: django
+    github_id: django/django
+    category: web-frameworks
+    labels: ["django"]
+    conda_id: conda-forge/django
+    pypi_id: django
+  - name: flask
+    github_id: pallets/flask
+    category: web-frameworks
+    labels: ["flask"]
+    conda_id: conda-forge/flask
+    pypi_id: flask
+  - name: django-rest-framework
+    github_id: encode/django-rest-framework
+    category: web-frameworks
+    labels: ["django"]
+    conda_id: conda-forge/djangorestframework
+    pypi_id: django-rest-framework
+  - name: werkzeug
+    github_id: pallets/werkzeug
+    category: web-frameworks
+    conda_id: conda-forge/werkzeug
+    pypi_id: werkzeug
+  - name: sanic
+    github_id: sanic-org/sanic
+    category: web-frameworks
+    conda_id: conda-forge/sanic
+    pypi_id: sanic
+  - name: bottle
+    github_id: bottlepy/bottle
+    category: web-frameworks
+    conda_id: conda-forge/bottle
+    pypi_id: bottle
+  - name: fastapi
+    github_id: tiangolo/fastapi
+    category: web-frameworks
+    labels: ["fastapi", "openapi"]
+    conda_id: conda-forge/fastapi
+    pypi_id: fastapi
+  - name: falcon
+    github_id: falconry/falcon
+    category: web-frameworks
+    conda_id: conda-forge/falcon
+    pypi_id: falcon
+  - name: flask-restful
+    github_id: flask-restful/flask-restful
+    category: web-frameworks
+    labels: ["fastapi"]
+    conda_id: conda-forge/flask-restful
+    pypi_id: flask-restful
+  - name: starlette
+    github_id: encode/starlette
+    category: web-frameworks
+    conda_id: conda-forge/starlette
+    pypi_id: starlette
+  - name: pyramid
+    github_id: Pylons/pyramid
+    category: web-frameworks
+    conda_id: pyramid
+    pypi_id: pyramid
+  - name: Flask-AppBuilder
+    github_id: dpgaspar/Flask-AppBuilder
+    category: web-frameworks
+    labels: ["flask"]
+    conda_id: conda-forge/flask-appbuilder
+    pypi_id: flask-appbuilder
+  - name: flask-restplus
+    github_id: noirbizarre/flask-restplus
+    category: web-frameworks
+    labels: ["flask"]
+    conda_id: conda-forge/flask-restplus
+    pypi_id: flask-restplus
+  - name: eve
+    github_id: pyeve/eve
+    category: web-frameworks
+    pypi_id: eve
+  - name: cornice
+    github_id: Cornices/cornice
+    category: web-frameworks
+    labels: ["pyramid"]
+    pypi_id: cornice
+  - name: hug
+    github_id: hugapi/hug
+    category: web-frameworks
+    conda_id: conda-forge/hug
+    pypi_id: hug
+  - name: quart
+    github_id: pgjones/quart
+    category: web-frameworks
+    conda_id: conda-forge/quart
+    pypi_id: quart
+  - name: responder
+    github_id: taoufik07/responder
+    category: web-frameworks
+    conda_id: conda-forge/responder
+    pypi_id: responder
+  - name: masonite
+    github_id: MasoniteFramework/masonite
+    category: web-frameworks
+    pypi_id: masonite
+  - name: web2py
+    github_id: web2py/web2py
+    license: LGPL-3.0
+    category: web-frameworks
+  - name: japronto
+    github_id: squeaky-pl/japronto
+    category: web-frameworks
+    pypi_id: japronto
+  - name: vibora
+    github_id: vibora-io/vibora
+    category: web-frameworks
+    pypi_id: vibora
+  - name: webpy
+    github_id: webpy/webpy
+    category: web-frameworks
+    pypi_id: web.py
+  - name: flask-mongorest
+    github_id: closeio/flask-mongorest
+    category: web-frameworks
+    labels: ["flask"]
+    pypi_id: Flask-MongoRest
+  - name: robobrowser
+    github_id: jmcarp/robobrowser
+    category: web-scraping
+    pypi_id: robobrowser
+  - name: ruia
+    github_id: howie6879/ruia
+    category: web-scraping
+    pypi_id: ruia
+  - name: dirsearch
+    github_id: maurosoria/dirsearch
+    license: GPL-2.0
+    category: web-scraping
+  - name: wave
+    github_id: h2oai/wave
+    category: web-ui
+    pypi_id: wave
+  - name: Wooey
+    github_id: wooey/wooey
+    category: web-ui
+    pypi_id: wooey
+  - name: flaskbb
+    github_id: flaskbb/flaskbb
+    category: web-ui
+    labels: ["flask"]
+    pypi_id: FlaskBB
+  - name: Misago
+    github_id: rafalp/Misago
+    license: GPL-2.0
+    category: web-ui
+  - name: websocket-client
+    github_id: websocket-client/websocket-client
+    category: websocket
+    conda_id: conda-forge/websocket-client
+    pypi_id: websocket-client
+  - name: websockets
+    github_id: aaugustin/websockets
+    category: websocket
+    conda_id: conda-forge/websockets
+    pypi_id: websockets
+  - name: python-socketio
+    github_id: miguelgrinberg/python-socketio
+    category: websocket
+    conda_id: conda-forge/python-socketio
+    pypi_id: python-socketio
+  - name: daphne
+    github_id: django/daphne
+    category: websocket
+    labels: ["django"]
+    conda_id: conda-forge/daphne
+    pypi_id: daphne
+  - name: websockify
+    github_id: novnc/websockify
+    category: websocket
+    conda_id: conda-forge/websockify
+    pypi_id: websockify
+  - name: gevent-socketio
+    github_id: abourget/gevent-socketio
+    category: websocket
+    pypi_id: gevent-socketio
+  - name: autobahn-python
+    github_id: crossbario/autobahn-python
+    category: websocket
+    pypi_id: autobahn
+  - name: Flask-Excel
+    github_id: pyexcel-webwares/Flask-Excel
+    pypi_id: flask-excel
+    category: flask-utils
+  - name: salmon
+    github_id: moggers87/salmon
+    pypi_id: salmon-mail
+    category: email
+  - name: gain
+    github_id: gaojiuli/gain
+    pypi_id: gain
+    category: web-scraping
+  - name: fastapi-code-generator
+    github_id: koxudaxi/fastapi-code-generator
+    pypi_id: fastapi-code-generator
+    labels: ["fastapi", "openapi"]
+    category: fastapi-utils
+  - name: nginx-ui
+    github_id: schenkd/nginx-ui
+    dockerhub_id: schenkd/nginx-ui
+    category: admin-ui
+  - name: fastapi_cache
+    github_id: comeuplater/fastapi_cache
+    pypi_id: fastapi_cache
+    category: fastapi-utils
+  # Web Scraping & Crawling
+  - name: beautifulsoup4
+    # Add github repo
+    pypi_id: beautifulsoup4
+    conda_id: conda-forge/beautifulsoup4
+    show: True
+    category: web-scraping
+  - name: Cola
+    github_id: qinxuye/cola
+    pypi_id: cola
+    category: web-scraping
+  - name: Lassie
+    github_id: michaelhelmick/lassie
+    pypi_id: lassie
+    category: web-scraping
+  - name: feedparser
+    github_id: kurtmckee/feedparser
+    pypi_id: feedparser
+    category: web-scraping
+  - name: gallery-dl
+    pypi_id: gallery-dl
+    github_id: mikf/gallery-dl
+    category: third-party-apis
+  - name: AutoScraper
+    github_id: alirezamika/autoscraper
+    pypi_id: autoscraper
+    category: web-scraping
+  - name: soupsieve
+    pypi_id: soupsieve
+    github_id: facelessuser/soupsieve
+    conda_id: conda-forge/soupsieve
+    category: web-scraping
+  - name: Photon
+    pypi_id: photon
+    github_id: s0md3v/Photon
+    category: web-scraping
+  - name: Pattern
+    pypi_id: pattern
+    github_id: clips/pattern
+    conda_id: conda-forge/pattern
+    category: web-scraping
+  - name: lazynlp
+    github_id: chiphuyen/lazynlp
+    license: MIT
+    # TODO: add package manager
+    category: web-scraping
+  - name: micawber
+    pypi_id: micawber
+    github_id: coleifer/micawber
+    category: web-scraping
+  - name: Google Images Download
+    github_id: hardikvasa/google-images-download
+    pypi_id: google_images_download
+    category: third-party-apis
+  - name: Requests-HTML
+    pypi_id: requests-html
+    github_id: psf/requests-html
+    category: html-processing
+  - name: Scrapy
+    pypi_id: scrapy
+    github_id: scrapy/scrapy
+    conda_id: conda-forge/scrapy
+    category: web-scraping
+  - name: newspaper3k
+    pypi_id: newspaper3k
+    github_id: codelucas/newspaper
+    conda_id: conda-forge/newspaper3k
+    category: web-scraping
+  - name: youtube-dl
+    github_id: ytdl-org/youtube-dl
+    pypi_id: youtube_dl
+    brew_id: youtube-dl
+    conda_id: conda-forge/youtube-dl
+    category: third-party-apis
+  - name: You-Get
+    github_id: soimort/you-get
+    pypi_id: you-get
+    brew_id: you-get
+    category: web-scraping
+  - name: MechanicalSoup
+    github_id: MechanicalSoup/MechanicalSoup
+    pypi_id: MechanicalSoup
+    conda_id: conda-forge/mechanicalsoup
+    category: web-scraping
+  - name: Grab
+    github_id: lorien/grab
+    pypi_id: grab
+    category: web-scraping
+  - name: gazpacho
+    github_id: maxhumber/gazpacho
+    pypi_id: gazpacho
+    category: web-scraping
+  - name: Transistor
+    github_id: bomquote/transistor
+    pypi_id: transistor
+    category: web-scraping
+  - name: pyspider
+    github_id: binux/pyspider
+    pypi_id: pyspider
+    category: web-scraping
+  - name: WikiExtractor
+    github_id: attardi/wikiextractor
+    pypi_id: wikiextractor
+    category: third-party-apis
