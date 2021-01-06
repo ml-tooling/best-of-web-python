@@ -935,6 +935,7 @@ projects:
     github_id: Pylons/pyramid_jinja2
     category: templating
     labels: ["pyramid"]
+    licenses: BSD-based
     pypi_id: pyramid_jinja2
   - name: mitmproxy
     github_id: mitmproxy/mitmproxy
