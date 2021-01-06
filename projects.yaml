@@ -1279,7 +1279,7 @@ projects:
   - name: flask-restful
     github_id: flask-restful/flask-restful
     category: web-frameworks
-    labels: ["fastapi"]
+    labels: ["flask"]
     conda_id: conda-forge/flask-restful
     pypi_id: flask-restful
   - name: starlette
@@ -1322,6 +1322,7 @@ projects:
     github_id: pgjones/quart
     category: web-frameworks
     conda_id: conda-forge/quart
+    description: "Quart is a Python ASGI web microframework with the same API as Flask."
     pypi_id: quart
   - name: responder
     github_id: taoufik07/responder
@@ -1544,4 +1545,8 @@ projects:
   - name: WikiExtractor
     github_id: attardi/wikiextractor
     pypi_id: wikiextractor
+    category: third-party-apis
+  - name: Public APIs
+    github_id: public-apis/public-apis
+    resource: True
     category: third-party-apis
