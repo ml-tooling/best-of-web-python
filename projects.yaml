@@ -2448,3 +2448,7 @@ projects:
     github_id: hannob/snallygaster
     pypi_id: snallygaster
     category: web-scraping
+  - name: ghapi
+    github_id: fastai/ghapi
+    pypi_id: ghapi
+    category: third-party-apis
