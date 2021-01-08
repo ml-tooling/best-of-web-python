@@ -48,6 +48,8 @@ categories:
     title: "Web UI"
   - category: "admin-ui"
     title: "Admin UI"
+  - category: "api-proxies"
+    title: "API Proxies & Gateways"
   - category: "flask-utils"
     title: "Flask Utilities"
   - category: "fastapi-utils"
@@ -1257,6 +1259,14 @@ projects:
     category: web-frameworks
     conda_id: conda-forge/sanic
     pypi_id: sanic
+  - name: CherryPy
+    github_id: cherrypy/cherrypy
+    pypi_id: cherrypy
+    category: web-frameworks
+  - name: emmett
+    github_id: emmett-framework/emmett
+    pypi_id: emmett
+    category: web-frameworks
   - name: bottle
     github_id: bottlepy/bottle
     category: web-frameworks
@@ -1438,6 +1448,7 @@ projects:
   - name: fastapi_cache
     github_id: comeuplater/fastapi_cache
     pypi_id: fastapi_cache
+    labels: ["fastapi"]
     category: fastapi-utils
   # Web Scraping & Crawling
   - name: beautifulsoup4
@@ -2070,8 +2081,30 @@ projects:
     github_id: swagger-api/swagger-ui
     category: openapi-utils
     labels: ["openapi"]
+  - name: swagger-codegen
+    github_id: swagger-api/swagger-codegen
+    maven_id: io.swagger.codegen.v3.swagger-codegen-maven-plugin
+    category: openapi-utils
+    labels: ["openapi"]
+  - name: OpenAPI Generator
+    github_id: OpenAPITools/openapi-generator
+    maven_id: org.openapitools.openapi-generator
+    pypi_id: openapi-generator-cli
+    npm_id: "@openapitools/openapi-generator-cli"
+    category: openapi-utils
+    labels: ["openapi"]
   - name: redoc
     github_id: Redocly/redoc
+    category: openapi-utils
+    labels: ["openapi"]
+  - name: OpenAPI-to-GraphQL
+    github_id: IBM/openapi-to-graphql
+    npm_id: openapi-to-graphql-cli
+    category: openapi-utils
+    labels: ["openapi", "graphql"]
+  - name: Spectacle
+    github_id: sourcey/spectacle
+    npm_id: spectacle-docs
     category: openapi-utils
     labels: ["openapi"]
   - name: django-rest-swagger
@@ -2162,6 +2195,21 @@ projects:
     github_id: facebookarchive/huxley
     category: testing
     pypi_id: huxley
+  - name: Mockoon
+    github_id: mockoon/mockoon
+    labels: ["openapi"]
+    category: testing
+  - name: Prism
+    github_id: stoplightio/prism
+    npm_id: "@stoplight/prism-cli"
+    labels: ["openapi"]
+    category: testing
+  - name: Dredd
+    github_id: apiaryio/dredd
+    npm_id: dredd
+    pypi_id: dredd_hooks
+    labels: ["openapi"]
+    category: testing
   - name: pyppeteer
     github_id: miyakogi/pyppeteer
     category: testing
@@ -2332,3 +2380,71 @@ projects:
     github_id: p1c2u/openapi-core
     pypi_id: openapi-core
     category: openapi-utils
+  - name: fastapi-socketio
+    github_id: pyropy/fastapi-socketio
+    pypi_id: fastapi-socketio
+    labels: ["fastapi"]
+    category: fastapi-utils
+  - name: Strawberry GraphQL
+    github_id: strawberry-graphql/strawberry
+    pypi_id: strawberry-graphql
+    labels: ["graphql"]
+    category: graphql
+  - name: Starlette Prometheus
+    github_id: perdy/starlette-prometheus
+    pypi_id: starlette-prometheus
+    labels: ["fastapi"]
+    category: monitoring
+  - name: starlette context
+    github_id: tomwojcik/starlette-context
+    pypi_id: starlette-context
+    labels: ["fastapi"]
+    category: monitoring
+  - name: Spectree
+    github_id: 0b01001001/spectree
+    pypi_id: spectree
+    labels: ["openapi"]
+    category: openapi-utils
+  - name: datamodel-code-generator
+    github_id: koxudaxi/datamodel-code-generator
+    pypi_id: datamodel-code-generator
+    labels: ["openapi"]
+    category: openapi-utils
+  - name: AutoRest
+    github_id: Azure/autorest
+    labels: ["openapi"]
+    category: openapi-utils
+  - name: apispec
+    github_id: marshmallow-code/apispec
+    pypi_id: apispec
+    labels: ["openapi"]
+    category: openapi-utils
+  - name: Locust
+    github_id: locustio/locust
+    pypi_id: locust
+    category: testing
+  - name: GoAccess
+    github_id: allinurl/goaccess
+    apt_id: goaccess
+    brew_id: goaccess
+    category: monitoring
+  - name: GoAccess
+    github_id: allinurl/goaccess
+    apt_id: goaccess
+    brew_id: goaccess
+    category: monitoring
+  - name: Kong
+    github_id: kong/kong
+    dockerhub_id: kong
+    category: api-proxies
+  - name: tyk
+    github_id: TykTechnologies/tyk
+    category: api-proxies
+  - name: ngxtop
+    github_id: lebinh/ngxtop
+    pypi_id: ngxtop
+    category: monitoring
+  - name: snallygaster
+    github_id: hannob/snallygaster
+    pypi_id: snallygaster
+    category: web-scraping
