@@ -930,6 +930,11 @@ projects:
     category: others
     conda_id: conda-forge/jinja2
     pypi_id: jinja2
+  - name: Mako
+    github_id: sqlalchemy/mako
+    category: others # templating
+    conda_id: conda-forge/mako
+    pypi_id: mako
   - name: pyramid_jinja2
     github_id: Pylons/pyramid_jinja2
     category: pyramid-utils
@@ -1971,6 +1976,7 @@ projects:
     github_id: cenobites/flask-jsonrpc
     category: flask-utils
     labels: ["flask"]
+    license: BSD-3-Clause
     pypi_id: rpc
   - name: flask-paginate
     github_id: lixxu/flask-paginate
@@ -2423,11 +2429,15 @@ projects:
     github_id: locustio/locust
     pypi_id: locust
     category: testing
-  - name: GoAccess
-    github_id: allinurl/goaccess
-    apt_id: goaccess
-    brew_id: goaccess
-    category: monitoring
+  - name: vcrpy
+    github_id: kevin1024/vcrpy
+    pypi_id: vcrpy
+    category: testing
+  - name: Model Bakery
+    github_id: model-bakers/model_bakery
+    pypi_id: model_bakery
+    labels: ["django"]
+    category: testing
   - name: GoAccess
     github_id: allinurl/goaccess
     apt_id: goaccess
@@ -2436,10 +2446,12 @@ projects:
   - name: Kong
     github_id: kong/kong
     dockerhub_id: kong
+    license: Apache-2.0
     category: api-proxies
   - name: tyk
     github_id: TykTechnologies/tyk
     category: api-proxies
+    license: MPL-2.0
   - name: ngxtop
     github_id: lebinh/ngxtop
     pypi_id: ngxtop
@@ -2452,3 +2464,208 @@ projects:
     github_id: fastai/ghapi
     pypi_id: ghapi
     category: third-party-apis
+  - name: tartiflette-asgi
+    github_id: tartiflette/tartiflette-asgi
+    pypi_id: tartiflette-asgi
+    labels: ["graphql"]
+    category: graphql
+  - name: djangorestframework-stubs
+    github_id: typeddjango/djangorestframework-stubs
+    category: django-utils
+    labels: ["django"]
+    pypi_id: djangorestframework-stubs
+  - name: markdown-include
+    github_id: cmacmackin/markdown-include
+    category: markdown
+    pypi_id: markdown-include
+  - name: pymdown-extensions
+    github_id: facelessuser/pymdown-extensions
+    category: markdown
+    pypi_id: pymdown-extensions
+    conda_id: conda-forge/pymdown-extensions
+  - name: tinkerer
+    github_id: vladris/tinkerer
+    category: others
+    pypi_id: tinkerer
+  - name: grpc
+    github_id: grpc/grpc
+    category: rpc
+    pypi_id: grpcio
+    conda_id: conda-forge/grpcio
+  - name: guillotina
+    github_id: plone/guillotina
+    category: servers
+    pypi_id: guillotina
+  - name: yandex-tank
+    github_id: yandex/yandex-tank
+    category: testing
+  - name: golem
+    github_id: golemhq/golem
+    category: testing
+    pypi_id: golem-framework
+  - name: molotov
+    github_id: loads/molotov
+    category: testing
+    pypi_id: molotov
+  - name: fsociety
+    github_id: fsociety-team/fsociety
+    category: testing
+    pypi_id: fsociety
+  - name: httprunner
+    github_id: httprunner/httprunner
+    category: testing
+    pypi_id: httprunner
+  - name: tavern
+    github_id: taverntesting/tavern
+    category: testing
+    pypi_id: tavern
+  - name: flama
+    github_id: perdy/flama
+    category: web-frameworks
+    pypi_id: flama
+  - name: Prometheus Client
+    github_id: prometheus/client_python
+    description: "Python client for the Prometheus monitoring system."
+    category: monitoring
+    pypi_id: prometheus-client
+  - name: best-of-ml-python - DB Clients
+    github_id: ml-tooling/best-of-ml-python
+    category: "third-party-apis"
+    resource: True
+    description: "Collection of python database client libraries"
+  - name: itsdangerous
+    github_id: pallets/itsdangerous
+    category: others # security
+    conda_id: conda-forge/itsdangerous
+    pypi_id: itsdangerous
+  - name: livereload
+    github_id: lepture/python-livereload
+    category: servers
+    conda_id: conda-forge/livereload
+    pypi_id: livereload
+  - name: google-api-python-client
+    github_id: googleapis/google-api-python-client
+    category: third-party-apis
+    conda_id: conda-forge/google-api-python-client
+    pypi_id: google-api-python-client
+  - name: slackclient
+    github_id: slackapi/python-slack-sdk
+    category: third-party-apis
+    conda_id: conda-forge/slackclient
+    pypi_id: slackclient
+  - name: GitPython
+    github_id: gitpython-developers/GitPython
+    category: third-party-apis
+    conda_id: conda-forge/gitpython
+    pypi_id: gitpython
+  - name: twilio
+    github_id: twilio/twilio-python
+    category: third-party-apis
+    conda_id: conda-forge/twilio
+    pypi_id: twilio
+  - name: jira
+    github_id: pycontribs/jira
+    category: third-party-apis
+    conda_id: conda-forge/jira
+    pypi_id: jira
+  - name: simple-salesforce
+    github_id: simple-salesforce/simple-salesforce
+    category: third-party-apis
+    conda_id: conda-forge/simple-salesforce
+    pypi_id: simple-salesforce
+  - name: stripe
+    github_id: stripe/stripe-python
+    category: third-party-apis
+    pypi_id: stripe
+  - name: hvac
+    github_id: hvac/hvac
+    category: third-party-apis
+    conda_id: conda-forge/hvac
+    pypi_id: hvac
+  - name: google-resumable-media
+    github_id: googleapis/google-resumable-media-python
+    category: third-party-apis
+    conda_id: conda-forge/google-resumable-media
+    pypi_id: google-resumable-media
+  - name: uritemplate
+    github_id: python-hyper/uritemplate
+    category: url-utils
+    conda_id: conda-forge/uritemplate
+    pypi_id: uritemplate
+  - name: pyotp
+    github_id: pyauth/pyotp
+    category: auth
+    conda_id: conda-forge/pyotp
+    pypi_id: pyotp
+  - name: requests-oauthlib
+    github_id: requests/requests-oauthlib
+    category: auth
+    conda_id: conda-forge/requests-oauthlib
+    pypi_id: requests-oauthlib
+  - name: oauth2client
+    github_id: googleapis/oauth2client
+    category: auth
+    conda_id: conda-forge/oauth2client
+    pypi_id: oauth2client
+  - name: google-auth
+    github_id: googleapis/google-auth-library-python
+    category: auth
+    conda_id: conda-forge/google-auth
+    pypi_id: google-auth
+  - name: Flask-OpenID
+    github_id: mitsuhiko/flask-openid
+    category: auth
+    labels: ["flask"]
+    conda_id: conda-forge/flask-openid
+    pypi_id: flask-openid
+  - name: requests-toolbelt
+    github_id: requests/toolbelt
+    category: http-clients
+    conda_id: conda-forge/requests-toolbelt
+    pypi_id: requests-toolbelt
+  - name: prometheus-flask-exporter
+    github_id: rycus86/prometheus_flask_exporter
+    category: monitoring
+    labels: ["flask"]
+    pypi_id: prometheus-flask-exporter
+  - name: flask-swagger
+    github_id: gangverk/flask-swagger
+    category: openapi-utils
+    labels: ["flask"]
+    conda_id: conda-forge/flask-swagger
+    pypi_id: flask-swagger
+  - name: idna
+    github_id: kjd/idna
+    category: others
+    conda_id: conda-forge/idna
+    pypi_id: idna
+  - name: ipaddress
+    github_id: phihag/ipaddress
+    category: others
+    conda_id: conda-forge/ipaddress
+    pypi_id: ipaddress
+  - name: terminado
+    github_id: jupyter/terminado
+    category: others
+    conda_id: conda-forge/terminado
+    pypi_id: terminado
+  - name: certifi
+    github_id: certifi/python-certifi
+    category: others #security
+    conda_id: conda-forge/certifi
+    pypi_id: certifi
+  - name: selenium
+    github_id: SeleniumHQ/selenium
+    category: testing
+    conda_id: conda-forge/selenium
+    pypi_id: selenium
+  - name: coverage
+    github_id: nedbat/coveragepy
+    category: testing
+    conda_id: conda-forge/coverage
+    pypi_id: coverage
+  - name: parameterized
+    github_id: wolever/parameterized
+    category: testing
+    conda_id: conda-forge/parameterized
+    pypi_id: parameterized
