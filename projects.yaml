@@ -253,7 +253,7 @@ projects:
   - name: Django-Ninja
     github_id: vitalik/django-ninja
     category: django-utils
-    license: "MIT License"
+    license: "MIT"
     pypi_id: django-ninja
   - name: channels
     github_id: django/channels
