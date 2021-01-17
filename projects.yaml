@@ -2499,7 +2499,7 @@ projects:
     conda_id: conda-forge/grpcio
   - name: guillotina
     github_id: plone/guillotina
-    category: servers
+    category: web-frameworks
     pypi_id: guillotina
   - name: yandex-tank
     github_id: yandex/yandex-tank
