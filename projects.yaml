@@ -1890,6 +1890,11 @@ projects:
     category: django-utils
     labels: ["django"]
     pypi_id: django-dbbackup
+  - name: django-codemod
+    github_id: browniebroke/django-codemod
+    category: django-utils
+    labels: ["django"]
+    pypi_id: django-codemod
   - name: django-csp
     github_id: mozilla/django-csp
     category: django-utils
