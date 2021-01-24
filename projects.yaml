@@ -2684,3 +2684,8 @@ projects:
     category: testing
     labels: ["django"]
     pypi_id: factory_boy
+  - name: drf-spectacular
+    github_id: tfranzel/drf-spectacular
+    category: openapi-utils
+    labels: ["openapi"]
+    pypi_id: drf-spectacular
