@@ -2679,3 +2679,8 @@ projects:
     category: testing
     conda_id: conda-forge/parameterized
     pypi_id: parameterized
+  - name: factory_boy
+    github_id: FactoryBoy/factory_boy
+    category: testing
+    labels: ["django"]
+    pypi_id: factory_boy
