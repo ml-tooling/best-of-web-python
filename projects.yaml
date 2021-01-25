@@ -248,7 +248,7 @@ projects:
     pypi_id: feincms
   - name: Kotti
     github_id: Kotti/Kotti
-    license: "RPL"
+    license: "BSD"
     category: cms
   - name: Django-Ninja
     github_id: vitalik/django-ninja
