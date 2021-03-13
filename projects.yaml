@@ -2689,3 +2689,6 @@ projects:
     category: openapi-utils
     labels: ["openapi"]
     pypi_id: drf-spectacular
+  - name: IP2Trace
+    github_id: ip2location/ip2trace-python
+    pypi_id: IP2Trace
