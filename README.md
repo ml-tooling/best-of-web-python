@@ -19,11 +19,12 @@
 
 This curated list contains 550 awesome open-source projects with a total of 2M stars grouped into 26 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from Github and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/ml-tooling/best-of-web-python/issues/new/choose), submit a [pull request](https://github.com/ml-tooling/best-of-web-python/pulls), or directly edit the [projects.yaml](https://github.com/ml-tooling/best-of-web-python/edit/main/projects.yaml). Contributions are very welcome!
 
+
 ---
 
 <p align="center">
-     🧙‍♂️&nbsp; Discover other <a href="https://best-of.org">best-of lists</a> or create <a href="https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md">your own</a>.<br>
-    📫&nbsp; Subscribe to our <a href="https://mltooling.substack.com/subscribe">newsletter</a> for updates and trending projects.
+	🎉 &nbsp; <b>New release</b><br>
+     <b><a href="https://opyrator-repo.mltooling.org">Opyrator</a></b> - A tool to turn your machine learning code into microservices with web API, interactive GUI, and more.<br>
 </p>
 
 ---
