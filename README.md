@@ -89,9 +89,9 @@ This curated list contains 550 awesome open-source projects with a total of 2M s
 
 _General purpose web frameworks to build web applications and REST APIs._
 
-<details><summary><b><a href="https://github.com/django/django">django</a></b> (🥇38 ·  ⭐ 57K) - The Web framework for perfectionists with deadlines. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/django/django">django</a></b> (🥇38 ·  ⭐ 58K) - The Web framework for perfectionists with deadlines. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/django/django) (👨‍💻 2.5K · 🔀 25K · 📦 670K · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/django/django) (👨‍💻 2.5K · 🔀 25K · 📦 670K · ⏱️ 20.05.2021):
 
 	```
 	git clone https://github.com/django/django
@@ -100,7 +100,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	pip install django
 	```
-- [Conda](https://anaconda.org/conda-forge/django) (📥 840K · ⏱️ 13.05.2021):
+- [Conda](https://anaconda.org/conda-forge/django) (📥 850K · ⏱️ 13.05.2021):
 	```
 	conda install -c conda-forge django
 	```
@@ -112,7 +112,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/encode/django-rest-framework
 	```
-- [PyPi](https://pypi.org/project/django-rest-framework) (📥 1.1M / month · 📦 750 · ⏱️ 20.07.2017):
+- [PyPi](https://pypi.org/project/django-rest-framework) (📥 1.2M / month · 📦 750 · ⏱️ 20.07.2017):
 	```
 	pip install django-rest-framework
 	```
@@ -121,14 +121,14 @@ _General purpose web frameworks to build web applications and REST APIs._
 	conda install -c conda-forge djangorestframework
 	```
 </details>
-<details><summary><b><a href="https://github.com/pallets/flask">flask</a></b> (🥇37 ·  ⭐ 55K · 📉) - The Python micro framework for building web applications. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/pallets/flask">flask</a></b> (🥇37 ·  ⭐ 55K) - The Python micro framework for building web applications. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pallets/flask) (👨‍💻 710 · 🔀 14K · 📥 4.9K · 📦 740K · 📋 2.1K - 1% open · ⏱️ 12.05.2021):
+- [GitHub](https://github.com/pallets/flask) (👨‍💻 720 · 🔀 14K · 📥 4.9K · 📦 740K · 📋 2.1K - 1% open · ⏱️ 14.05.2021):
 
 	```
 	git clone https://github.com/pallets/flask
 	```
-- [PyPi](https://pypi.org/project/flask) (📥 23M / month · 📦 230K · ⏱️ 11.05.2021):
+- [PyPi](https://pypi.org/project/flask) (📥 24M / month · 📦 230K · ⏱️ 11.05.2021):
 	```
 	pip install flask
 	```
@@ -139,7 +139,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/tornadoweb/tornado">tornado</a></b> (🥇37 ·  ⭐ 20K) - Tornado is a Python web framework and asynchronous networking.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/tornadoweb/tornado) (👨‍💻 410 · 🔀 5.3K · 📦 160K · 📋 1.7K - 13% open · ⏱️ 09.05.2021):
+- [GitHub](https://github.com/tornadoweb/tornado) (👨‍💻 410 · 🔀 5.3K · 📦 160K · 📋 1.7K - 13% open · ⏱️ 15.05.2021):
 
 	```
 	git clone https://github.com/tornadoweb/tornado
@@ -155,16 +155,16 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/pallets/werkzeug">werkzeug</a></b> (🥈36 ·  ⭐ 5.7K) - The comprehensive WSGI web application library. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/pallets/werkzeug) (👨‍💻 420 · 🔀 1.5K · 📥 240 · 📦 510K · 📋 860 - 2% open · ⏱️ 11.05.2021):
+- [GitHub](https://github.com/pallets/werkzeug) (👨‍💻 420 · 🔀 1.5K · 📥 240 · 📦 510K · 📋 870 - 2% open · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/pallets/werkzeug
 	```
-- [PyPi](https://pypi.org/project/werkzeug) (📥 26M / month · 📦 140K · ⏱️ 11.05.2021):
+- [PyPi](https://pypi.org/project/werkzeug) (📥 27M / month · 📦 140K · ⏱️ 17.05.2021):
 	```
 	pip install werkzeug
 	```
-- [Conda](https://anaconda.org/conda-forge/werkzeug) (📥 2.9M · ⏱️ 13.05.2021):
+- [Conda](https://anaconda.org/conda-forge/werkzeug) (📥 2.9M · ⏱️ 20.05.2021):
 	```
 	conda install -c conda-forge werkzeug
 	```
@@ -192,7 +192,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/bottlepy/bottle
 	```
-- [PyPi](https://pypi.org/project/bottle) (📥 2.2M / month · 📦 9.7K · ⏱️ 11.11.2020):
+- [PyPi](https://pypi.org/project/bottle) (📥 2.1M / month · 📦 9.7K · ⏱️ 11.11.2020):
 	```
 	pip install bottle
 	```
@@ -201,14 +201,14 @@ _General purpose web frameworks to build web applications and REST APIs._
 	conda install -c conda-forge bottle
 	```
 </details>
-<details><summary><b><a href="https://github.com/Pylons/pyramid">pyramid</a></b> (🥈34 ·  ⭐ 3.5K) - Pyramid - A Python web framework. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/Pylons/pyramid">pyramid</a></b> (🥈34 ·  ⭐ 3.6K) - Pyramid - A Python web framework. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/Pylons/pyramid) (👨‍💻 340 · 🔀 880 · 📦 9.2K · 📋 1K - 6% open · ⏱️ 15.03.2021):
 
 	```
 	git clone https://github.com/Pylons/pyramid
 	```
-- [PyPi](https://pypi.org/project/pyramid) (📥 640K / month · 📦 5.2K · ⏱️ 01.03.2021):
+- [PyPi](https://pypi.org/project/pyramid) (📥 800K / month · 📦 5.2K · ⏱️ 01.03.2021):
 	```
 	pip install pyramid
 	```
@@ -219,28 +219,28 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/tiangolo/fastapi">fastapi</a></b> (🥈33 ·  ⭐ 31K) - FastAPI framework, high performance, easy to learn, fast to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/tiangolo/fastapi) (👨‍💻 220 · 🔀 2.2K · 📋 2.3K - 36% open · ⏱️ 11.05.2021):
+- [GitHub](https://github.com/tiangolo/fastapi) (👨‍💻 220 · 🔀 2.2K · 📋 2.4K - 36% open · ⏱️ 16.05.2021):
 
 	```
 	git clone https://github.com/tiangolo/fastapi
 	```
-- [PyPi](https://pypi.org/project/fastapi) (📥 1.8M / month · 📦 280 · ⏱️ 11.05.2021):
+- [PyPi](https://pypi.org/project/fastapi) (📥 1.9M / month · 📦 280 · ⏱️ 11.05.2021):
 	```
 	pip install fastapi
 	```
-- [Conda](https://anaconda.org/conda-forge/fastapi) (📥 240K · ⏱️ 13.05.2021):
+- [Conda](https://anaconda.org/conda-forge/fastapi) (📥 250K · ⏱️ 13.05.2021):
 	```
 	conda install -c conda-forge fastapi
 	```
 </details>
 <details><summary><b><a href="https://github.com/sanic-org/sanic">sanic</a></b> (🥈33 ·  ⭐ 15K) - Async Python 3.7+ web server/framework | Build fast. Run fast. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/sanic-org/sanic) (👨‍💻 290 · 🔀 1.3K · 📦 5.2K · 📋 1K - 4% open · ⏱️ 19.04.2021):
+- [GitHub](https://github.com/sanic-org/sanic) (👨‍💻 290 · 🔀 1.3K · 📦 5.2K · 📋 1K - 4% open · ⏱️ 20.05.2021):
 
 	```
 	git clone https://github.com/sanic-org/sanic
 	```
-- [PyPi](https://pypi.org/project/sanic) (📥 3.6M / month · 📦 530 · ⏱️ 19.04.2021):
+- [PyPi](https://pypi.org/project/sanic) (📥 3.7M / month · 📦 530 · ⏱️ 19.04.2021):
 	```
 	pip install sanic
 	```
@@ -249,25 +249,25 @@ _General purpose web frameworks to build web applications and REST APIs._
 	conda install -c conda-forge sanic
 	```
 </details>
-<details><summary><b><a href="https://github.com/flask-restful/flask-restful">flask-restful</a></b> (🥈32 ·  ⭐ 6K · 💤) - Simple framework for creating REST APIs. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/flask-restful/flask-restful">flask-restful</a></b> (🥈32 ·  ⭐ 6K) - Simple framework for creating REST APIs. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/flask-restful/flask-restful) (👨‍💻 160 · 🔀 930 · 📦 57K · 📋 550 - 20% open · ⏱️ 15.10.2020):
+- [GitHub](https://github.com/flask-restful/flask-restful) (👨‍💻 160 · 🔀 930 · 📦 57K · 📋 550 - 20% open · ⏱️ 17.05.2021):
 
 	```
 	git clone https://github.com/flask-restful/flask-restful
 	```
-- [PyPi](https://pypi.org/project/flask-restful) (📥 1.2M / month · 📦 14K · ⏱️ 06.02.2020):
+- [PyPi](https://pypi.org/project/flask-restful) (📥 1.2M / month · 📦 14K · ⏱️ 17.05.2021):
 	```
 	pip install flask-restful
 	```
-- [Conda](https://anaconda.org/conda-forge/flask-restful) (📥 83K · ⏱️ 24.03.2020):
+- [Conda](https://anaconda.org/conda-forge/flask-restful) (📥 84K · ⏱️ 24.03.2020):
 	```
 	conda install -c conda-forge flask-restful
 	```
 </details>
 <details><summary><b><a href="https://github.com/encode/starlette">starlette</a></b> (🥈32 ·  ⭐ 5.5K) - The little ASGI framework that shines. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/encode/starlette) (👨‍💻 150 · 🔀 460 · 📦 14K · 📋 590 - 30% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/encode/starlette) (👨‍💻 150 · 🔀 470 · 📦 15K · 📋 590 - 30% open · ⏱️ 13.05.2021):
 
 	```
 	git clone https://github.com/encode/starlette
@@ -283,7 +283,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/dpgaspar/Flask-AppBuilder">Flask-AppBuilder</a></b> (🥉31 ·  ⭐ 3.3K) - Simple and rapid application development framework,.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/dpgaspar/Flask-AppBuilder) (👨‍💻 150 · 🔀 1K · 📦 1.9K · 📋 1.1K - 11% open · ⏱️ 10.05.2021):
+- [GitHub](https://github.com/dpgaspar/Flask-AppBuilder) (👨‍💻 150 · 🔀 1K · 📦 2K · 📋 1.1K - 11% open · ⏱️ 10.05.2021):
 
 	```
 	git clone https://github.com/dpgaspar/Flask-AppBuilder
@@ -332,7 +332,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/webpy/webpy
 	```
-- [PyPi](https://pypi.org/project/web.py) (📥 72K / month · 📦 2.2K · ⏱️ 09.11.2020):
+- [PyPi](https://pypi.org/project/web.py) (📥 75K / month · 📦 2.2K · ⏱️ 09.11.2020):
 	```
 	pip install web.py
 	```
@@ -344,7 +344,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/cherrypy/cherrypy
 	```
-- [PyPi](https://pypi.org/project/cherrypy) (📥 420K / month · 📦 20K · ⏱️ 17.04.2020):
+- [PyPi](https://pypi.org/project/cherrypy) (📥 410K / month · 📦 20K · ⏱️ 17.04.2020):
 	```
 	pip install cherrypy
 	```
@@ -356,7 +356,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/Cornices/cornice
 	```
-- [PyPi](https://pypi.org/project/cornice) (📥 44K / month · 📦 660 · ⏱️ 18.02.2021):
+- [PyPi](https://pypi.org/project/cornice) (📥 41K / month · 📦 660 · ⏱️ 18.02.2021):
 	```
 	pip install cornice
 	```
@@ -368,7 +368,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/taoufik07/responder
 	```
-- [PyPi](https://pypi.org/project/responder) (📥 6.8K / month · 📦 120 · ⏱️ 08.01.2021):
+- [PyPi](https://pypi.org/project/responder) (📥 6.7K / month · 📦 120 · ⏱️ 08.01.2021):
 	```
 	pip install responder
 	```
@@ -377,9 +377,21 @@ _General purpose web frameworks to build web applications and REST APIs._
 	conda install -c conda-forge responder
 	```
 </details>
-<details><summary><b><a href="https://github.com/pgjones/quart">quart</a></b> (🥉27 ·  ⭐ 890) - Quart is a Python ASGI web microframework with the same API as Flask. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/MasoniteFramework/masonite">masonite</a></b> (🥉25 ·  ⭐ 1.6K) - The Modern And Developer Centric Python Web Framework. Be sure to read.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pgjones/quart) (👨‍💻 56 · 🔀 83 · 📦 1.3K · 📋 110 - 4% open · ⏱️ 12.05.2021):
+- [GitHub](https://github.com/MasoniteFramework/masonite) (👨‍💻 72 · 🔀 97 · 📥 8 · 📋 250 - 11% open · ⏱️ 16.04.2021):
+
+	```
+	git clone https://github.com/MasoniteFramework/masonite
+	```
+- [PyPi](https://pypi.org/project/masonite) (📥 2.1K / month · 📦 94 · ⏱️ 23.03.2021):
+	```
+	pip install masonite
+	```
+</details>
+<details><summary><b><a href="https://github.com/pgjones/quart">quart</a></b> (🥉25 ·  ⭐ 900 · 📉) - Quart is a Python ASGI web microframework with the same API as Flask. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/pgjones/quart) (👨‍💻 56 · 🔀 83 · 📦 1.3K · 📋 110 - 3% open · ⏱️ 17.05.2021):
 
 	```
 	git clone https://github.com/pgjones/quart
@@ -393,26 +405,14 @@ _General purpose web frameworks to build web applications and REST APIs._
 	conda install -c conda-forge quart
 	```
 </details>
-<details><summary><b><a href="https://github.com/MasoniteFramework/masonite">masonite</a></b> (🥉25 ·  ⭐ 1.6K) - The Modern And Developer Centric Python Web Framework. Be sure to read.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/MasoniteFramework/masonite) (👨‍💻 72 · 🔀 96 · 📥 8 · 📋 250 - 11% open · ⏱️ 16.04.2021):
-
-	```
-	git clone https://github.com/MasoniteFramework/masonite
-	```
-- [PyPi](https://pypi.org/project/masonite) (📥 2.5K / month · 📦 94 · ⏱️ 23.03.2021):
-	```
-	pip install masonite
-	```
-</details>
 <details><summary><b><a href="https://github.com/plone/guillotina">guillotina</a></b> (🥉24 ·  ⭐ 160) - Python AsyncIO data API to manage billions of resources. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/plone/guillotina) (👨‍💻 47 · 🔀 43 · 📦 110 · 📋 210 - 23% open · ⏱️ 10.05.2021):
+- [GitHub](https://github.com/plone/guillotina) (👨‍💻 48 · 🔀 43 · 📦 110 · 📋 210 - 23% open · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/plone/guillotina
 	```
-- [PyPi](https://pypi.org/project/guillotina) (📥 3.3K / month · 📦 52 · ⏱️ 10.05.2021):
+- [PyPi](https://pypi.org/project/guillotina) (📥 3.4K / month · 📦 52 · ⏱️ 10.05.2021):
 	```
 	pip install guillotina
 	```
@@ -432,7 +432,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/emmett-framework/emmett
 	```
-- [PyPi](https://pypi.org/project/emmett) (📥 350 / month · ⏱️ 26.04.2021):
+- [PyPi](https://pypi.org/project/emmett) (📥 360 / month · ⏱️ 26.04.2021):
 	```
 	pip install emmett
 	```
@@ -444,19 +444,19 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/closeio/flask-mongorest
 	```
-- [PyPi](https://pypi.org/project/Flask-MongoRest) (📥 160 / month · 📦 27 · ⏱️ 26.08.2019):
+- [PyPi](https://pypi.org/project/Flask-MongoRest) (📥 200 / month · 📦 27 · ⏱️ 26.08.2019):
 	```
 	pip install Flask-MongoRest
 	```
 </details>
-<details><summary><b><a href="https://github.com/perdy/flama">flama</a></b> (🥉15 ·  ⭐ 160) - Fire up your API with this flamethrower. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/perdy/flama">flama</a></b> (🥉15 ·  ⭐ 170) - Fire up your API with this flamethrower. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/perdy/flama) (👨‍💻 8 · 🔀 12 · 📥 50 · 📋 29 - 31% open · ⏱️ 06.05.2021):
 
 	```
 	git clone https://github.com/perdy/flama
 	```
-- [PyPi](https://pypi.org/project/flama) (📥 230 / month · ⏱️ 16.11.2020):
+- [PyPi](https://pypi.org/project/flama) (📥 180 / month · ⏱️ 16.11.2020):
 	```
 	pip install flama
 	```
@@ -477,7 +477,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 
 <details><summary><b><a href="https://github.com/psf/requests">requests</a></b> (🥇41 ·  ⭐ 45K) - A simple, yet elegant HTTP library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/psf/requests) (👨‍💻 680 · 🔀 8.2K · 📦 960K · 📋 3.4K - 9% open · ⏱️ 07.05.2021):
+- [GitHub](https://github.com/psf/requests) (👨‍💻 680 · 🔀 8.2K · 📦 970K · 📋 3.4K - 9% open · ⏱️ 07.05.2021):
 
 	```
 	git clone https://github.com/psf/requests
@@ -491,9 +491,9 @@ _General purpose web frameworks to build web applications and REST APIs._
 	conda install -c conda-forge requests
 	```
 </details>
-<details><summary><b><a href="https://github.com/aio-libs/aiohttp">aiohttp</a></b> (🥇39 ·  ⭐ 11K · 📈) - Asynchronous HTTP client/server framework for asyncio and Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/aio-libs/aiohttp">aiohttp</a></b> (🥇39 ·  ⭐ 11K) - Asynchronous HTTP client/server framework for asyncio and Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/aio-libs/aiohttp) (👨‍💻 570 · 🔀 1.6K · 📥 810 · 📦 90K · 📋 2.5K - 15% open · ⏱️ 05.05.2021):
+- [GitHub](https://github.com/aio-libs/aiohttp) (👨‍💻 580 · 🔀 1.6K · 📥 810 · 📦 91K · 📋 2.5K - 15% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/aio-libs/aiohttp
@@ -509,7 +509,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/urllib3/urllib3">urllib3</a></b> (🥈35 ·  ⭐ 2.7K) - Python HTTP library with thread-safe connection pooling, file post.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/urllib3/urllib3) (👨‍💻 280 · 🔀 840 · 📥 140 · 📦 550K · 📋 910 - 16% open · ⏱️ 11.05.2021):
+- [GitHub](https://github.com/urllib3/urllib3) (👨‍💻 280 · 🔀 840 · 📥 180 · 📦 560K · 📋 910 - 16% open · ⏱️ 20.05.2021):
 
 	```
 	git clone https://github.com/urllib3/urllib3
@@ -530,7 +530,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/httpie/httpie
 	```
-- [PyPi](https://pypi.org/project/httpie) (📥 230K / month · 📦 3.3K · ⏱️ 06.02.2021):
+- [PyPi](https://pypi.org/project/httpie) (📥 220K / month · 📦 3.3K · ⏱️ 06.02.2021):
 	```
 	pip install httpie
 	```
@@ -541,7 +541,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/httplib2/httplib2">httplib2</a></b> (🥈32 ·  ⭐ 410) - Small, fast HTTP client library for Python. Features persistent.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/httplib2/httplib2) (👨‍💻 65 · 🔀 140 · 📦 74K · 📋 110 - 42% open · ⏱️ 08.04.2021):
+- [GitHub](https://github.com/httplib2/httplib2) (👨‍💻 65 · 🔀 140 · 📦 75K · 📋 110 - 42% open · ⏱️ 13.05.2021):
 
 	```
 	git clone https://github.com/httplib2/httplib2
@@ -555,9 +555,9 @@ _General purpose web frameworks to build web applications and REST APIs._
 	conda install -c conda-forge httplib2
 	```
 </details>
-<details><summary><b><a href="https://github.com/encode/httpx">httpx</a></b> (🥈31 ·  ⭐ 6.8K) - A next generation HTTP client for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/encode/httpx">httpx</a></b> (🥈31 ·  ⭐ 6.9K) - A next generation HTTP client for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/encode/httpx) (👨‍💻 130 · 🔀 440 · 📦 6.6K · 📋 610 - 8% open · ⏱️ 11.05.2021):
+- [GitHub](https://github.com/encode/httpx) (👨‍💻 130 · 🔀 440 · 📦 6.7K · 📋 610 - 8% open · ⏱️ 11.05.2021):
 
 	```
 	git clone https://github.com/encode/httpx
@@ -566,19 +566,19 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	pip install httpx
 	```
-- [Conda](https://anaconda.org/conda-forge/httpx) (📥 52K · ⏱️ 29.04.2021):
+- [Conda](https://anaconda.org/conda-forge/httpx) (📥 53K · ⏱️ 18.05.2021):
 	```
 	conda install -c conda-forge httpx
 	```
 </details>
 <details><summary><b><a href="https://github.com/pycurl/pycurl">pycurl</a></b> (🥈31 ·  ⭐ 760) - PycURL - Python interface to libcurl. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pycurl/pycurl) (👨‍💻 87 · 🔀 200 · 📦 32K · 📋 290 - 5% open · ⏱️ 28.04.2021):
+- [GitHub](https://github.com/pycurl/pycurl) (👨‍💻 87 · 🔀 210 · 📦 33K · 📋 290 - 5% open · ⏱️ 28.04.2021):
 
 	```
 	git clone https://github.com/pycurl/pycurl
 	```
-- [PyPi](https://pypi.org/project/pycurl) (📥 1.7M / month · 📦 8.3K · ⏱️ 02.09.2020):
+- [PyPi](https://pypi.org/project/pycurl) (📥 1.8M / month · 📦 8.3K · ⏱️ 02.09.2020):
 	```
 	pip install pycurl
 	```
@@ -589,12 +589,12 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/mvantellingen/python-zeep">python-zeep</a></b> (🥈30 ·  ⭐ 1.6K) - A modern/fast python SOAP client based on lxml / requests. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/mvantellingen/python-zeep) (👨‍💻 120 · 🔀 500 · 📦 2.9K · 📋 970 - 35% open · ⏱️ 11.04.2021):
+- [GitHub](https://github.com/mvantellingen/python-zeep) (👨‍💻 120 · 🔀 500 · 📦 3K · 📋 970 - 35% open · ⏱️ 11.04.2021):
 
 	```
 	git clone https://github.com/mvantellingen/python-zeep
 	```
-- [PyPi](https://pypi.org/project/zeep) (📥 2.2M / month · 📦 650 · ⏱️ 12.10.2020):
+- [PyPi](https://pypi.org/project/zeep) (📥 2.3M / month · 📦 650 · ⏱️ 12.10.2020):
 	```
 	pip install zeep
 	```
@@ -610,7 +610,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	pip install requests-toolbelt
 	```
-- [Conda](https://anaconda.org/conda-forge/requests-toolbelt) (📥 450K · ⏱️ 30.01.2019):
+- [Conda](https://anaconda.org/conda-forge/requests-toolbelt) (📥 460K · ⏱️ 30.01.2019):
 	```
 	conda install -c conda-forge requests-toolbelt
 	```
@@ -622,18 +622,34 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/python-hyper/hyper
 	```
-- [PyPi](https://pypi.org/project/hyper) (📥 610K / month · 📦 180 · ⏱️ 27.09.2016):
+- [PyPi](https://pypi.org/project/hyper) (📥 550K / month · 📦 180 · ⏱️ 27.09.2016):
 	```
 	pip install hyper
 	```
-- [Conda](https://anaconda.org/conda-forge/hyper) (📥 16K · ⏱️ 02.12.2018):
+- [Conda](https://anaconda.org/conda-forge/hyper) (📥 17K · ⏱️ 02.12.2018):
 	```
 	conda install -c conda-forge hyper
 	```
 </details>
+<details><summary><b><a href="https://github.com/MagicStack/httptools">httptools</a></b> (🥉28 ·  ⭐ 950) - Fast HTTP parser. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/MagicStack/httptools) (👨‍💻 11 · 🔀 55 · 📦 8.6K · 📋 40 - 27% open · ⏱️ 26.04.2021):
+
+	```
+	git clone https://github.com/MagicStack/httptools
+	```
+- [PyPi](https://pypi.org/project/httptools) (📥 3.7M / month · 📦 900 · ⏱️ 23.04.2021):
+	```
+	pip install httptools
+	```
+- [Conda](https://anaconda.org/conda-forge/httptools) (📥 300K · ⏱️ 24.04.2021):
+	```
+	conda install -c conda-forge httptools
+	```
+</details>
 <details><summary><b><a href="https://github.com/encode/httpcore">httpcore</a></b> (🥉28 ·  ⭐ 180) - A minimal HTTP client. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/encode/httpcore) (👨‍💻 21 · 🔀 29 · 📦 3.3K · 📋 80 - 18% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/encode/httpcore) (👨‍💻 21 · 🔀 29 · 📦 3.4K · 📋 80 - 18% open · ⏱️ 13.05.2021):
 
 	```
 	git clone https://github.com/encode/httpcore
@@ -649,12 +665,12 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/ross/requests-futures">requests-futures</a></b> (🥉27 ·  ⭐ 1.8K) - Asynchronous Python HTTP Requests for Humans using.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/ross/requests-futures) (👨‍💻 24 · 🔀 140 · 📦 2.8K · 📋 70 - 25% open · ⏱️ 13.01.2021):
+- [GitHub](https://github.com/ross/requests-futures) (👨‍💻 24 · 🔀 140 · 📦 2.9K · 📋 70 - 25% open · ⏱️ 13.01.2021):
 
 	```
 	git clone https://github.com/ross/requests-futures
 	```
-- [PyPi](https://pypi.org/project/requests-futures) (📥 660K / month · 📦 1.6K · ⏱️ 11.06.2019):
+- [PyPi](https://pypi.org/project/requests-futures) (📥 650K / month · 📦 1.6K · ⏱️ 11.06.2019):
 	```
 	pip install requests-futures
 	```
@@ -663,30 +679,14 @@ _General purpose web frameworks to build web applications and REST APIs._
 	conda install -c conda-forge requests-futures
 	```
 </details>
-<details><summary><b><a href="https://github.com/MagicStack/httptools">httptools</a></b> (🥉27 ·  ⭐ 940) - Fast HTTP parser. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/MagicStack/httptools) (👨‍💻 11 · 🔀 55 · 📦 8.5K · 📋 40 - 27% open · ⏱️ 26.04.2021):
-
-	```
-	git clone https://github.com/MagicStack/httptools
-	```
-- [PyPi](https://pypi.org/project/httptools) (📥 2.9M / month · 📦 900 · ⏱️ 23.04.2021):
-	```
-	pip install httptools
-	```
-- [Conda](https://anaconda.org/conda-forge/httptools) (📥 300K · ⏱️ 24.04.2021):
-	```
-	conda install -c conda-forge httptools
-	```
-</details>
 <details><summary><b><a href="https://github.com/twisted/treq">treq</a></b> (🥉27 ·  ⭐ 520) - Python requests like API built on top of Twisted's HTTP client. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/twisted/treq) (👨‍💻 44 · 🔀 140 · 📥 76 · 📦 830 · 📋 150 - 41% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/twisted/treq) (👨‍💻 44 · 🔀 140 · 📥 80 · 📦 830 · 📋 150 - 41% open · ⏱️ 13.05.2021):
 
 	```
 	git clone https://github.com/twisted/treq
 	```
-- [PyPi](https://pypi.org/project/treq) (📥 91K / month · 📦 700 · ⏱️ 15.01.2021):
+- [PyPi](https://pypi.org/project/treq) (📥 88K / month · 📦 700 · ⏱️ 15.01.2021):
 	```
 	pip install treq
 	```
@@ -702,7 +702,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/httpie/http-prompt
 	```
-- [PyPi](https://pypi.org/project/http-prompt) (📥 980 / month · 📦 14 · ⏱️ 05.03.2021):
+- [PyPi](https://pypi.org/project/http-prompt) (📥 800 / month · 📦 14 · ⏱️ 05.03.2021):
 	```
 	pip install http-prompt
 	```
@@ -714,19 +714,19 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/pysimplesoap/pysimplesoap
 	```
-- [PyPi](https://pypi.org/project/pysimplesoap) (📥 13K / month · 📦 250 · ⏱️ 03.12.2017):
+- [PyPi](https://pypi.org/project/pysimplesoap) (📥 14K / month · 📦 250 · ⏱️ 03.12.2017):
 	```
 	pip install pysimplesoap
 	```
 </details>
 <details><summary><b><a href="https://github.com/reorx/httpstat">httpstat</a></b> (🥉20 ·  ⭐ 4.8K) - curl statistics made simple. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/reorx/httpstat) (👨‍💻 4 · 🔀 320 · 📥 46 · 📦 9 · 📋 24 - 25% open · ⏱️ 24.12.2020):
+- [GitHub](https://github.com/reorx/httpstat) (👨‍💻 4 · 🔀 320 · 📥 47 · 📦 9 · 📋 24 - 25% open · ⏱️ 24.12.2020):
 
 	```
 	git clone https://github.com/reorx/httpstat
 	```
-- [PyPi](https://pypi.org/project/httpstat) (📥 2.7K / month · ⏱️ 24.12.2020):
+- [PyPi](https://pypi.org/project/httpstat) (📥 2.6K / month · ⏱️ 24.12.2020):
 	```
 	pip install httpstat
 	```
@@ -744,12 +744,12 @@ _General purpose web frameworks to build web applications and REST APIs._
 
 <details><summary><b><a href="https://github.com/benoitc/gunicorn">gunicorn</a></b> (🥇38 ·  ⭐ 7.6K) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/benoitc/gunicorn) (👨‍💻 360 · 🔀 1.4K · 📥 97 · 📦 440K · 📋 1.7K - 18% open · ⏱️ 27.03.2021):
+- [GitHub](https://github.com/benoitc/gunicorn) (👨‍💻 360 · 🔀 1.4K · 📥 97 · 📦 450K · 📋 1.7K - 18% open · ⏱️ 27.03.2021):
 
 	```
 	git clone https://github.com/benoitc/gunicorn
 	```
-- [PyPi](https://pypi.org/project/gunicorn) (📥 18M / month · 📦 120K · ⏱️ 27.03.2021):
+- [PyPi](https://pypi.org/project/gunicorn) (📥 17M / month · 📦 120K · ⏱️ 27.03.2021):
 	```
 	pip install gunicorn
 	```
@@ -765,7 +765,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/gevent/gevent
 	```
-- [PyPi](https://pypi.org/project/gevent) (📥 7M / month · 📦 28K · ⏱️ 20.01.2021):
+- [PyPi](https://pypi.org/project/gevent) (📥 7.2M / month · 📦 28K · ⏱️ 20.01.2021):
 	```
 	pip install gevent
 	```
@@ -808,12 +808,12 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/lepture/python-livereload">livereload</a></b> (🥈28 ·  ⭐ 910 · 💤) - livereload server in python (MAINTAINERS NEEDED). <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/lepture/python-livereload) (👨‍💻 55 · 🔀 140 · 📦 6.5K · 📋 140 - 29% open · ⏱️ 13.10.2020):
+- [GitHub](https://github.com/lepture/python-livereload) (👨‍💻 55 · 🔀 140 · 📦 6.6K · 📋 140 - 29% open · ⏱️ 13.10.2020):
 
 	```
 	git clone https://github.com/lepture/python-livereload
 	```
-- [PyPi](https://pypi.org/project/livereload) (📥 780K / month · 📦 3.1K · ⏱️ 22.08.2020):
+- [PyPi](https://pypi.org/project/livereload) (📥 770K / month · 📦 3.1K · ⏱️ 22.08.2020):
 	```
 	pip install livereload
 	```
@@ -829,18 +829,18 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/django/asgiref
 	```
-- [PyPi](https://pypi.org/project/asgiref) (📥 4.1M / month · 📦 1.8K · ⏱️ 06.04.2021):
+- [PyPi](https://pypi.org/project/asgiref) (📥 4M / month · 📦 1.8K · ⏱️ 06.04.2021):
 	```
 	pip install asgiref
 	```
-- [Conda](https://anaconda.org/conda-forge/asgiref) (📥 82K · ⏱️ 06.04.2021):
+- [Conda](https://anaconda.org/conda-forge/asgiref) (📥 83K · ⏱️ 06.04.2021):
 	```
 	conda install -c conda-forge asgiref
 	```
 </details>
-<details><summary><b><a href="https://github.com/pgjones/hypercorn">Hypercorn</a></b> (🥉27 ·  ⭐ 190) - Hypercorn is an ASGI Server based on Hyper libraries and inspired by.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/pgjones/hypercorn">Hypercorn</a></b> (🥉27 ·  ⭐ 200) - Hypercorn is an ASGI Server based on Hyper libraries and inspired by.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pgjones/hypercorn) (👨‍💻 30 · 🔀 29 · 📦 1.1K · 📋 34 - 14% open · ⏱️ 21.04.2021):
+- [GitHub](https://github.com/pgjones/hypercorn) (👨‍💻 31 · 🔀 29 · 📦 1.2K · 📋 34 - 14% open · ⏱️ 16.05.2021):
 
 	```
 	git clone https://github.com/pgjones/hypercorn
@@ -861,7 +861,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	pip install bjoern
 	```
-- [Conda](https://anaconda.org/conda-forge/bjoern) (📥 45K · ⏱️ 13.10.2020):
+- [Conda](https://anaconda.org/conda-forge/bjoern) (📥 46K · ⏱️ 13.10.2020):
 	```
 	conda install -c conda-forge bjoern
 	```
@@ -873,19 +873,19 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/mopemope/meinheld
 	```
-- [PyPi](https://pypi.org/project/meinheld) (📥 42K / month · 📦 590 · ⏱️ 17.05.2020):
+- [PyPi](https://pypi.org/project/meinheld) (📥 41K / month · 📦 590 · ⏱️ 17.05.2020):
 	```
 	pip install meinheld
 	```
 </details>
-<details><summary><b><a href="https://github.com/jordaneremieff/mangum">mangum</a></b> (🥉25 ·  ⭐ 540) - AWS Lambda & API Gateway support for ASGI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/jordaneremieff/mangum">mangum</a></b> (🥉25 ·  ⭐ 550) - AWS Lambda & API Gateway support for ASGI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/jordaneremieff/mangum) (👨‍💻 18 · 🔀 46 · 📦 220 · 📋 110 - 11% open · ⏱️ 20.04.2021):
 
 	```
 	git clone https://github.com/jordaneremieff/mangum
 	```
-- [PyPi](https://pypi.org/project/mangum) (📥 60K / month · ⏱️ 19.03.2021):
+- [PyPi](https://pypi.org/project/mangum) (📥 61K / month · ⏱️ 19.03.2021):
 	```
 	pip install mangum
 	```
@@ -903,7 +903,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 
 <details><summary><b><a href="https://github.com/oauthlib/oauthlib">oauthlib</a></b> (🥇36 ·  ⭐ 2.2K) - A generic, spec-compliant, thorough implementation of the OAuth.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/oauthlib/oauthlib) (👨‍💻 170 · 🔀 430 · 📦 140K · 📋 330 - 20% open · ⏱️ 10.05.2021):
+- [GitHub](https://github.com/oauthlib/oauthlib) (👨‍💻 170 · 🔀 430 · 📦 150K · 📋 330 - 20% open · ⏱️ 10.05.2021):
 
 	```
 	git clone https://github.com/oauthlib/oauthlib
@@ -924,11 +924,11 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/jpadilla/pyjwt
 	```
-- [PyPi](https://pypi.org/project/pyjwt) (📥 41M / month · 📦 19K · ⏱️ 28.04.2021):
+- [PyPi](https://pypi.org/project/pyjwt) (📥 42M / month · 📦 19K · ⏱️ 28.04.2021):
 	```
 	pip install pyjwt
 	```
-- [Conda](https://anaconda.org/conda-forge/pyjwt) (📥 3.2M · ⏱️ 28.04.2021):
+- [Conda](https://anaconda.org/conda-forge/pyjwt) (📥 3.3M · ⏱️ 28.04.2021):
 	```
 	conda install -c conda-forge pyjwt
 	```
@@ -944,19 +944,19 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	pip install requests-oauthlib
 	```
-- [Conda](https://anaconda.org/conda-forge/requests-oauthlib) (📥 2.4M · ⏱️ 23.07.2020):
+- [Conda](https://anaconda.org/conda-forge/requests-oauthlib) (📥 2.5M · ⏱️ 23.07.2020):
 	```
 	conda install -c conda-forge requests-oauthlib
 	```
 </details>
 <details><summary><b><a href="https://github.com/pennersr/django-allauth">django-allauth</a></b> (🥇33 ·  ⭐ 6.4K) - Integrated set of Django applications addressing.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pennersr/django-allauth) (👨‍💻 540 · 🔀 2.2K · 📦 64K · 📋 1.7K - 18% open · ⏱️ 20.04.2021):
+- [GitHub](https://github.com/pennersr/django-allauth) (👨‍💻 540 · 🔀 2.2K · 📦 64K · 📋 1.7K - 18% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/pennersr/django-allauth
 	```
-- [PyPi](https://pypi.org/project/django-allauth) (📥 440K / month · 📦 10K · ⏱️ 25.11.2020):
+- [PyPi](https://pypi.org/project/django-allauth) (📥 430K / month · 📦 10K · ⏱️ 25.11.2020):
 	```
 	pip install django-allauth
 	```
@@ -965,9 +965,9 @@ _General purpose web frameworks to build web applications and REST APIs._
 	conda install -c conda-forge django-allauth
 	```
 </details>
-<details><summary><b><a href="https://github.com/googleapis/google-auth-library-python">google-auth</a></b> (🥇33 ·  ⭐ 410) - Google Auth Python Library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/googleapis/google-auth-library-python">google-auth</a></b> (🥇33 ·  ⭐ 420) - Google Auth Python Library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/googleapis/google-auth-library-python) (👨‍💻 75 · 🔀 190 · 📦 60K · 📋 290 - 22% open · ⏱️ 12.05.2021):
+- [GitHub](https://github.com/googleapis/google-auth-library-python) (👨‍💻 75 · 🔀 190 · 📦 61K · 📋 290 - 22% open · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/googleapis/google-auth-library-python
@@ -976,23 +976,23 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	pip install google-auth
 	```
-- [Conda](https://anaconda.org/conda-forge/google-auth) (📥 2.3M · ⏱️ 28.04.2021):
+- [Conda](https://anaconda.org/conda-forge/google-auth) (📥 2.4M · ⏱️ 28.04.2021):
 	```
 	conda install -c conda-forge google-auth
 	```
 </details>
 <details><summary><b><a href="https://github.com/lepture/authlib">authlib</a></b> (🥈32 ·  ⭐ 2.5K) - The ultimate Python library in building OAuth, OpenID Connect clients.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/lepture/authlib) (👨‍💻 58 · 🔀 250 · 📦 14K · 📋 250 - 8% open · ⏱️ 08.03.2021):
+- [GitHub](https://github.com/lepture/authlib) (👨‍💻 58 · 🔀 250 · 📦 14K · 📋 250 - 9% open · ⏱️ 08.03.2021):
 
 	```
 	git clone https://github.com/lepture/authlib
 	```
-- [PyPi](https://pypi.org/project/authlib) (📥 2.1M / month · 📦 320 · ⏱️ 31.01.2021):
+- [PyPi](https://pypi.org/project/authlib) (📥 2M / month · 📦 320 · ⏱️ 31.01.2021):
 	```
 	pip install authlib
 	```
-- [Conda](https://anaconda.org/conda-forge/authlib) (📥 52K · ⏱️ 15.01.2021):
+- [Conda](https://anaconda.org/conda-forge/authlib) (📥 53K · ⏱️ 15.01.2021):
 	```
 	conda install -c conda-forge authlib
 	```
@@ -1008,7 +1008,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	pip install flask-login
 	```
-- [Conda](https://anaconda.org/conda-forge/flask-login) (📥 95K · ⏱️ 27.04.2020):
+- [Conda](https://anaconda.org/conda-forge/flask-login) (📥 96K · ⏱️ 27.04.2020):
 	```
 	conda install -c conda-forge flask-login
 	```
@@ -1027,7 +1027,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/vimalloc/flask-jwt-extended">flask-jwt-extended</a></b> (🥈31 ·  ⭐ 1.1K) - An open source Flask extension that provides JWT.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/vimalloc/flask-jwt-extended) (👨‍💻 72 · 🔀 190 · 📦 12K · 📋 310 - 3% open · ⏱️ 12.05.2021):
+- [GitHub](https://github.com/vimalloc/flask-jwt-extended) (👨‍💻 72 · 🔀 190 · 📦 13K · 📋 310 - 3% open · ⏱️ 12.05.2021):
 
 	```
 	git clone https://github.com/vimalloc/flask-jwt-extended
@@ -1041,7 +1041,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	conda install -c conda-forge flask-jwt-extended
 	```
 </details>
-<details><summary><b><a href="https://github.com/django-guardian/django-guardian">django-guardian</a></b> (🥈30 ·  ⭐ 2.9K) - Per object permissions for Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/django-guardian/django-guardian">django-guardian</a></b> (🥈30 ·  ⭐ 3K) - Per object permissions for Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/django-guardian/django-guardian) (👨‍💻 160 · 🔀 510 · 📦 4K · 📋 430 - 26% open · ⏱️ 21.03.2021):
 
@@ -1064,75 +1064,75 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/pyauth/pyotp
 	```
-- [PyPi](https://pypi.org/project/pyotp) (📥 2.2M / month · 📦 890 · ⏱️ 04.02.2021):
+- [PyPi](https://pypi.org/project/pyotp) (📥 2.3M / month · 📦 890 · ⏱️ 04.02.2021):
 	```
 	pip install pyotp
 	```
-- [Conda](https://anaconda.org/conda-forge/pyotp) (📥 8.9K · ⏱️ 04.02.2021):
+- [Conda](https://anaconda.org/conda-forge/pyotp) (📥 9K · ⏱️ 04.02.2021):
 	```
 	conda install -c conda-forge pyotp
 	```
 </details>
-<details><summary><b><a href="https://github.com/jazzband/django-rest-framework-simplejwt">django-rest-framework-simplejwt</a></b> (🥈28 ·  ⭐ 2.4K) - A JSON Web Token authentication plugin for the Django.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/jazzband/djangorestframework-simplejwt">django-rest-framework-simplejwt</a></b> (🥈28 ·  ⭐ 2.4K) - A JSON Web Token authentication plugin for the Django.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/jazzband/django-rest-framework-simplejwt) (👨‍💻 41 · 🔀 370 · 📋 260 - 20% open · ⏱️ 18.03.2021):
+- [GitHub](https://github.com/jazzband/djangorestframework-simplejwt) (👨‍💻 44 · 🔀 370 · 📋 260 - 20% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/SimpleJWT/django-rest-framework-simplejwt
 	```
-- [PyPi](https://pypi.org/project/djangorestframework-simplejwt) (📥 460K / month · 📦 480 · ⏱️ 13.11.2020):
+- [PyPi](https://pypi.org/project/djangorestframework-simplejwt) (📥 450K / month · 📦 480 · ⏱️ 13.11.2020):
 	```
 	pip install djangorestframework-simplejwt
 	```
 </details>
-<details><summary><b><a href="https://github.com/miguelgrinberg/Flask-HTTPAuth">Flask-HTTPAuth</a></b> (🥈28 ·  ⭐ 970) - Simple extension that provides Basic, Digest and Token HTTP.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/miguelgrinberg/Flask-HTTPAuth) (👨‍💻 28 · 🔀 180 · 📦 12K · 📋 81 - 2% open · ⏱️ 01.05.2021):
-
-	```
-	git clone https://github.com/miguelgrinberg/Flask-HTTPAuth
-	```
-- [PyPi](https://pypi.org/project/flask-httpauth) (📥 280K / month · 📦 4.3K · ⏱️ 01.05.2021):
-	```
-	pip install flask-httpauth
-	```
-- [Conda](https://anaconda.org/conda-forge/flask-httpauth) (📥 89K · ⏱️ 01.05.2021):
-	```
-	conda install -c conda-forge flask-httpauth
-	```
-</details>
 <details><summary><b><a href="https://github.com/sunscrapers/djoser">djoser</a></b> (🥉27 ·  ⭐ 1.9K) - REST implementation of Django authentication system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/sunscrapers/djoser) (👨‍💻 89 · 🔀 360 · 📋 370 - 27% open · ⏱️ 31.12.2020):
+- [GitHub](https://github.com/sunscrapers/djoser) (👨‍💻 89 · 🔀 360 · 📋 380 - 26% open · ⏱️ 31.12.2020):
 
 	```
 	git clone https://github.com/sunscrapers/djoser
 	```
-- [PyPi](https://pypi.org/project/djoser) (📥 92K / month · 📦 420 · ⏱️ 30.10.2020):
+- [PyPi](https://pypi.org/project/djoser) (📥 87K / month · 📦 420 · ⏱️ 30.10.2020):
 	```
 	pip install djoser
 	```
 </details>
-<details><summary><b><a href="https://github.com/dfunckt/django-rules">django-rules</a></b> (🥉27 ·  ⭐ 1.3K · 📈) - Awesome Django authorization, without the database. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/dfunckt/django-rules">django-rules</a></b> (🥉27 ·  ⭐ 1.3K) - Awesome Django authorization, without the database. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/dfunckt/django-rules) (👨‍💻 21 · 🔀 100 · 📦 610 · 📋 100 - 22% open · ⏱️ 10.05.2021):
+- [GitHub](https://github.com/dfunckt/django-rules) (👨‍💻 21 · 🔀 100 · 📦 620 · 📋 100 - 22% open · ⏱️ 10.05.2021):
 
 	```
 	git clone https://github.com/dfunckt/django-rules
 	```
-- [PyPi](https://pypi.org/project/rules) (📥 69K / month · 📦 220 · ⏱️ 10.05.2021):
+- [PyPi](https://pypi.org/project/rules) (📥 77K / month · 📦 220 · ⏱️ 10.05.2021):
 	```
 	pip install rules
 	```
 </details>
-<details><summary><b><a href="https://github.com/iMerica/dj-rest-auth">dj-rest-auth</a></b> (🥉27 ·  ⭐ 550) - Authentication for Django Rest Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/miguelgrinberg/Flask-HTTPAuth">Flask-HTTPAuth</a></b> (🥉27 ·  ⭐ 970) - Simple extension that provides Basic, Digest and Token HTTP.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/iMerica/dj-rest-auth) (👨‍💻 140 · 🔀 100 · 📥 100 · 📦 890 · 📋 160 - 38% open · ⏱️ 12.05.2021):
+- [GitHub](https://github.com/miguelgrinberg/Flask-HTTPAuth) (👨‍💻 29 · 🔀 180 · 📦 12K · 📋 81 - 2% open · ⏱️ 15.05.2021):
+
+	```
+	git clone https://github.com/miguelgrinberg/Flask-HTTPAuth
+	```
+- [PyPi](https://pypi.org/project/flask-httpauth) (📥 280K / month · 📦 4.3K · ⏱️ 13.05.2021):
+	```
+	pip install flask-httpauth
+	```
+- [Conda](https://anaconda.org/conda-forge/flask-httpauth) (📥 90K · ⏱️ 14.05.2021):
+	```
+	conda install -c conda-forge flask-httpauth
+	```
+</details>
+<details><summary><b><a href="https://github.com/iMerica/dj-rest-auth">dj-rest-auth</a></b> (🥉27 ·  ⭐ 560) - Authentication for Django Rest Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/iMerica/dj-rest-auth) (👨‍💻 140 · 🔀 100 · 📥 100 · 📦 920 · 📋 170 - 40% open · ⏱️ 17.05.2021):
 
 	```
 	git clone https://github.com/jazzband/dj-rest-auth
 	```
-- [PyPi](https://pypi.org/project/dj-rest-auth) (📥 78K / month · ⏱️ 20.03.2021):
+- [PyPi](https://pypi.org/project/dj-rest-auth) (📥 81K / month · ⏱️ 17.05.2021):
 	```
 	pip install dj-rest-auth
 	```
@@ -1168,7 +1168,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/singingwolfboy/flask-dance
 	```
-- [PyPi](https://pypi.org/project/flask-dance) (📥 38K / month · 📦 300 · ⏱️ 12.05.2021):
+- [PyPi](https://pypi.org/project/flask-dance) (📥 35K / month · 📦 300 · ⏱️ 12.05.2021):
 	```
 	pip install flask-dance
 	```
@@ -1179,19 +1179,19 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/django-cas-ng/django-cas-ng">django-cas-ng</a></b> (🥉24 ·  ⭐ 300) - Django CAS 1.0/2.0/3.0 client authentication library, support.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/django-cas-ng/django-cas-ng) (👨‍💻 76 · 🔀 150 · 📥 390 · 📦 240 · 📋 130 - 1% open · ⏱️ 31.03.2021):
+- [GitHub](https://github.com/django-cas-ng/django-cas-ng) (👨‍💻 76 · 🔀 150 · 📥 390 · 📦 250 · 📋 130 - 1% open · ⏱️ 31.03.2021):
 
 	```
 	git clone https://github.com/django-cas-ng/django-cas-ng
 	```
-- [PyPi](https://pypi.org/project/django-cas-ng) (📥 10K / month · 📦 130 · ⏱️ 27.02.2020):
+- [PyPi](https://pypi.org/project/django-cas-ng) (📥 11K / month · 📦 130 · ⏱️ 27.02.2020):
 	```
 	pip install django-cas-ng
 	```
 </details>
 <details><summary><b><a href="https://github.com/dusktreader/flask-praetorian">flask-praetorian</a></b> (🥉21 ·  ⭐ 280) - Strong, Simple, and Precise security for Flask APIs.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/dusktreader/flask-praetorian) (👨‍💻 19 · 🔀 37 · 📋 120 - 3% open · ⏱️ 21.04.2021):
+- [GitHub](https://github.com/dusktreader/flask-praetorian) (👨‍💻 19 · 🔀 37 · 📋 120 - 2% open · ⏱️ 21.04.2021):
 
 	```
 	git clone https://github.com/dusktreader/flask-praetorian
@@ -1203,12 +1203,12 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/MushroomMaula/fastapi_login">fastapi_login</a></b> (🥉21 ·  ⭐ 160) - FastAPI-Login tries to provide similar functionality as.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/MushroomMaula/fastapi_login) (👨‍💻 5 · 🔀 13 · 📥 3 · 📦 66 · 📋 19 - 5% open · ⏱️ 20.04.2021):
+- [GitHub](https://github.com/MushroomMaula/fastapi_login) (👨‍💻 5 · 🔀 13 · 📥 3 · 📦 67 · 📋 19 - 5% open · ⏱️ 20.04.2021):
 
 	```
 	git clone https://github.com/MushroomMaula/fastapi_login
 	```
-- [PyPi](https://pypi.org/project/fastapi_login) (📥 4.6K / month · ⏱️ 20.04.2021):
+- [PyPi](https://pypi.org/project/fastapi_login) (📥 4.7K / month · ⏱️ 20.04.2021):
 	```
 	pip install fastapi_login
 	```
@@ -1225,28 +1225,16 @@ _General purpose web frameworks to build web applications and REST APIs._
 	pip install python-jwt
 	```
 </details>
-<details><summary><b><a href="https://github.com/frankie567/fastapi-users">fastapi-users</a></b> (🥉19 ·  ⭐ 850) - Ready-to-use and customizable users management for FastAPI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/frankie567/fastapi-users">fastapi-users</a></b> (🥉19 ·  ⭐ 860) - Ready-to-use and customizable users management for FastAPI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/frankie567/fastapi-users) (👨‍💻 19 · 🔀 79 · 📋 140 - 2% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/frankie567/fastapi-users) (👨‍💻 19 · 🔀 81 · 📋 140 - 1% open · ⏱️ 20.05.2021):
 
 	```
 	git clone https://github.com/frankie567/fastapi-users
 	```
-- [PyPi](https://pypi.org/project/fastapi-users) (📥 6.2K / month · ⏱️ 20.04.2021):
+- [PyPi](https://pypi.org/project/fastapi-users) (📥 7.4K / month · ⏱️ 20.05.2021):
 	```
 	pip install fastapi-users
-	```
-</details>
-<details><summary><b><a href="https://github.com/IndominusByte/fastapi-jwt-auth">fastapi-jwt-auth</a></b> (🥉17 ·  ⭐ 180) - FastAPI extension that provides JWT Auth support (secure,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/IndominusByte/fastapi-jwt-auth) (👨‍💻 3 · 🔀 22 · 📋 43 - 30% open · ⏱️ 11.11.2020):
-
-	```
-	git clone https://github.com/IndominusByte/fastapi-jwt-auth
-	```
-- [PyPi](https://pypi.org/project/fastapi-jwt-auth) (📥 8.5K / month · ⏱️ 06.11.2020):
-	```
-	pip install fastapi-jwt-auth
 	```
 </details>
 <details><summary><b><a href="https://github.com/flask-extensions/flask_simplelogin">flask_simplelogin</a></b> (🥉17 ·  ⭐ 140) - Simple Login - Login Extension for Flask - maintainer.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
@@ -1268,9 +1256,21 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/wichert/pyramid_jwt
 	```
-- [PyPi](https://pypi.org/project/pyramid_jwt) (📥 14K / month · 📦 1 · ⏱️ 10.08.2018):
+- [PyPi](https://pypi.org/project/pyramid_jwt) (📥 13K / month · 📦 1 · ⏱️ 10.08.2018):
 	```
 	pip install pyramid_jwt
+	```
+</details>
+<details><summary><b><a href="https://github.com/IndominusByte/fastapi-jwt-auth">fastapi-jwt-auth</a></b> (🥉16 ·  ⭐ 190) - FastAPI extension that provides JWT Auth support (secure,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/IndominusByte/fastapi-jwt-auth) (👨‍💻 3 · 🔀 23 · 📋 44 - 31% open · ⏱️ 11.11.2020):
+
+	```
+	git clone https://github.com/IndominusByte/fastapi-jwt-auth
+	```
+- [PyPi](https://pypi.org/project/fastapi-jwt-auth) (📥 8K / month · ⏱️ 06.11.2020):
+	```
+	pip install fastapi-jwt-auth
 	```
 </details>
 <details><summary>Show 11 hidden projects...</summary>
@@ -1280,12 +1280,12 @@ _General purpose web frameworks to build web applications and REST APIs._
 - <b><a href="https://github.com/omab/python-social-auth">python-social-auth</a></b> (🥈30 ·  ⭐ 2.8K · 💀) - Social auth made simple. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://github.com/joestump/python-oauth2">python-oauth2</a></b> (🥈28 ·  ⭐ 2.9K · 💀) - A fully tested, abstract interface to creating OAuth clients.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/litl/rauth">rauth</a></b> (🥉27 ·  ⭐ 1.6K · 💀) - A Python library for OAuth 1.0/a, 2.0, and Ofly. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/lingthio/Flask-User">Flask-User</a></b> (🥉26 ·  ⭐ 930 · 💀) - Customizable User Authorization & User Management: Register,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/lingthio/Flask-User">Flask-User</a></b> (🥉26 ·  ⭐ 940 · 💀) - Customizable User Authorization & User Management: Register,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/mitsuhiko/flask-openid">Flask-OpenID</a></b> (🥉25 ·  ⭐ 210 · 💀) - Flask-OpenID adds openid support to flask applications. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/mgrouchy/django-stronghold">django-stronghold</a></b> (🥉24 ·  ⭐ 370 · 💀) - Get inside your stronghold and make all your Django.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/bbangert/velruse">velruse</a></b> (🥉22 ·  ⭐ 250 · 💀) - Simplifying third-party authentication for web applications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/cd34/apex">apex</a></b> (🥉19 ·  ⭐ 95 · 💀) - Toolkit for Pyramid, a Pylons Project, to add Authentication and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://trypyramid.com/img/pyramid-16x16.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/holgi/fastapi-permissions">fastapi-permissions</a></b> (🥉13 ·  ⭐ 140 · 💤) - row level security for FastAPI framework. <code><a href="https://tldrlegal.com/search?q=THE%20BEER-WARE%20LICENSE">❗️THE BEER-WARE LICENSE</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/holgi/fastapi-permissions">fastapi-permissions</a></b> (🥉13 ·  ⭐ 150 · 💤) - row level security for FastAPI framework. <code><a href="https://tldrlegal.com/search?q=THE%20BEER-WARE%20LICENSE">❗️THE BEER-WARE LICENSE</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code>
 </details>
 <br>
 
@@ -1295,12 +1295,12 @@ _General purpose web frameworks to build web applications and REST APIs._
 
 <details><summary><b><a href="https://github.com/lxml/lxml">lxml</a></b> (🥇36 ·  ⭐ 1.9K) - The lxml XML toolkit for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/lxml/lxml) (👨‍💻 120 · 🔀 450 · 📦 170K · ⏱️ 08.05.2021):
+- [GitHub](https://github.com/lxml/lxml) (👨‍💻 120 · 🔀 450 · 📦 170K · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/lxml/lxml
 	```
-- [PyPi](https://pypi.org/project/lxml) (📥 25M / month · 📦 67K · ⏱️ 21.03.2021):
+- [PyPi](https://pypi.org/project/lxml) (📥 26M / month · 📦 67K · ⏱️ 21.03.2021):
 	```
 	pip install lxml
 	```
@@ -1320,14 +1320,14 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	pip install bleach
 	```
-- [Conda](https://anaconda.org/conda-forge/bleach) (📥 4.1M · ⏱️ 01.02.2021):
+- [Conda](https://anaconda.org/conda-forge/bleach) (📥 4.2M · ⏱️ 01.02.2021):
 	```
 	conda install -c conda-forge bleach
 	```
 </details>
-<details><summary><b><a href="https://github.com/html5lib/html5lib-python">html5lib-python</a></b> (🥈33 ·  ⭐ 900) - Standards-compliant library for parsing and serializing HTML.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/html5lib/html5lib-python">html5lib-python</a></b> (🥈33 ·  ⭐ 910) - Standards-compliant library for parsing and serializing HTML.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/html5lib/html5lib-python) (👨‍💻 61 · 🔀 250 · 📦 89K · 📋 240 - 35% open · ⏱️ 29.03.2021):
+- [GitHub](https://github.com/html5lib/html5lib-python) (👨‍💻 62 · 🔀 250 · 📦 90K · 📋 240 - 35% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/html5lib/html5lib-python
@@ -1339,28 +1339,28 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/pallets/markupsafe">markupsafe</a></b> (🥈32 ·  ⭐ 390) - Safely add untrusted strings to HTML/XML markup. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/pallets/markupsafe) (👨‍💻 34 · 🔀 100 · 📦 580K · ⏱️ 11.05.2021):
+- [GitHub](https://github.com/pallets/markupsafe) (👨‍💻 34 · 🔀 100 · 📦 580K · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/pallets/markupsafe
 	```
-- [PyPi](https://pypi.org/project/markupsafe) (📥 61M / month · 📦 150K · ⏱️ 11.05.2021):
+- [PyPi](https://pypi.org/project/markupsafe) (📥 62M / month · 📦 150K · ⏱️ 18.05.2021):
 	```
 	pip install markupsafe
 	```
-- [Conda](https://anaconda.org/conda-forge/markupsafe) (📥 11M · ⏱️ 13.05.2021):
+- [Conda](https://anaconda.org/conda-forge/markupsafe) (📥 11M · ⏱️ 19.05.2021):
 	```
 	conda install -c conda-forge markupsafe
 	```
 </details>
 <details><summary><b><a href="https://github.com/psf/requests-html">Requests-HTML</a></b> (🥉31 ·  ⭐ 12K · 💤) - Pythonic HTML Parsing for Humans. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/psf/requests-html) (👨‍💻 62 · 🔀 800 · 📦 4.4K · 📋 340 - 42% open · ⏱️ 10.05.2020):
+- [GitHub](https://github.com/psf/requests-html) (👨‍💻 62 · 🔀 800 · 📦 4.5K · 📋 340 - 42% open · ⏱️ 10.05.2020):
 
 	```
 	git clone https://github.com/psf/requests-html
 	```
-- [PyPi](https://pypi.org/project/requests-html) (📥 650K / month · 📦 360 · ⏱️ 17.02.2019):
+- [PyPi](https://pypi.org/project/requests-html) (📥 720K / month · 📦 360 · ⏱️ 17.02.2019):
 	```
 	pip install requests-html
 	```
@@ -1372,7 +1372,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/gawel/pyquery
 	```
-- [PyPi](https://pypi.org/project/pyquery) (📥 840K / month · 📦 6.2K · ⏱️ 21.11.2020):
+- [PyPi](https://pypi.org/project/pyquery) (📥 930K / month · 📦 6.2K · ⏱️ 21.11.2020):
 	```
 	pip install pyquery
 	```
@@ -1383,7 +1383,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/xhtml2pdf/xhtml2pdf">xhtml2pdf</a></b> (🥉29 ·  ⭐ 1.8K) - A library for converting HTML into PDFs using ReportLab. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/xhtml2pdf/xhtml2pdf) (👨‍💻 130 · 🔀 540 · 📦 4.9K · 📋 290 - 35% open · ⏱️ 19.03.2021):
+- [GitHub](https://github.com/xhtml2pdf/xhtml2pdf) (👨‍💻 130 · 🔀 540 · 📦 5K · 📋 290 - 36% open · ⏱️ 19.03.2021):
 
 	```
 	git clone https://github.com/xhtml2pdf/xhtml2pdf
@@ -1399,7 +1399,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/Kozea/WeasyPrint">WeasyPrint</a></b> (🥉25 ·  ⭐ 4.3K) - The awesome document factory. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/Kozea/WeasyPrint) (👨‍💻 100 · 🔀 500 · 📋 1.1K - 13% open · ⏱️ 12.05.2021):
+- [GitHub](https://github.com/Kozea/WeasyPrint) (👨‍💻 100 · 🔀 500 · 📋 1.1K - 13% open · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/Kozea/WeasyPrint
@@ -1411,24 +1411,24 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/kovidgoyal/html5-parser">html5-parser</a></b> (🥉23 ·  ⭐ 600) - Fast C based HTML 5 parsing for python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/kovidgoyal/html5-parser) (👨‍💻 5 · 🔀 21 · 📦 220 · 📋 19 - 5% open · ⏱️ 17.12.2020):
+- [GitHub](https://github.com/kovidgoyal/html5-parser) (👨‍💻 5 · 🔀 22 · 📦 220 · 📋 19 - 5% open · ⏱️ 17.12.2020):
 
 	```
 	git clone https://github.com/kovidgoyal/html5-parser
 	```
-- [PyPi](https://pypi.org/project/html5-parser) (📥 300K / month · 📦 24 · ⏱️ 03.11.2019):
+- [PyPi](https://pypi.org/project/html5-parser) (📥 290K / month · 📦 24 · ⏱️ 03.11.2019):
 	```
 	pip install html5-parser
 	```
 </details>
-<details><summary><b><a href="https://github.com/rushter/selectolax">selectolax</a></b> (🥉22 ·  ⭐ 380) - Python binding to Modest engine (fast HTML5 parser with CSS selectors). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/rushter/selectolax">selectolax</a></b> (🥉22 ·  ⭐ 390) - Python binding to Modest engine (fast HTML5 parser with CSS selectors). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/rushter/selectolax) (👨‍💻 2 · 🔀 24 · 📦 160 · 📋 34 - 17% open · ⏱️ 16.04.2021):
+- [GitHub](https://github.com/rushter/selectolax) (👨‍💻 2 · 🔀 24 · 📦 160 · 📋 35 - 20% open · ⏱️ 16.04.2021):
 
 	```
 	git clone https://github.com/rushter/selectolax
 	```
-- [PyPi](https://pypi.org/project/selectolax) (📥 16K / month · 📦 6 · ⏱️ 19.12.2020):
+- [PyPi](https://pypi.org/project/selectolax) (📥 15K / month · 📦 6 · ⏱️ 19.12.2020):
 	```
 	pip install selectolax
 	```
@@ -1441,12 +1441,12 @@ _General purpose web frameworks to build web applications and REST APIs._
 
 <details><summary><b><a href="https://github.com/john-kurkowski/tldextract">tldextract</a></b> (🥇30 ·  ⭐ 1.3K) - Accurately separate the TLD from the registered domain and.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/john-kurkowski/tldextract) (👨‍💻 38 · 🔀 180 · 📦 6K · 📋 140 - 13% open · ⏱️ 22.11.2020):
+- [GitHub](https://github.com/john-kurkowski/tldextract) (👨‍💻 38 · 🔀 180 · 📦 6.1K · 📋 140 - 13% open · ⏱️ 22.11.2020):
 
 	```
 	git clone https://github.com/john-kurkowski/tldextract
 	```
-- [PyPi](https://pypi.org/project/tldextract) (📥 3.8M / month · 📦 1.8K · ⏱️ 22.11.2020):
+- [PyPi](https://pypi.org/project/tldextract) (📥 3.5M / month · 📦 1.8K · ⏱️ 22.11.2020):
 	```
 	pip install tldextract
 	```
@@ -1473,16 +1473,16 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/skorokithakis/shortuuid">shortuuid</a></b> (🥈28 ·  ⭐ 1.5K) - A generator library for concise, unambiguous and URL-safe UUIDs. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/skorokithakis/shortuuid) (👨‍💻 22 · 🔀 91 · 📦 5.1K · 📋 29 - 6% open · ⏱️ 17.02.2021):
+- [GitHub](https://github.com/skorokithakis/shortuuid) (👨‍💻 22 · 🔀 91 · 📦 5.2K · 📋 30 - 6% open · ⏱️ 17.02.2021):
 
 	```
 	git clone https://github.com/skorokithakis/shortuuid
 	```
-- [PyPi](https://pypi.org/project/shortuuid) (📥 800K / month · 📦 1.7K · ⏱️ 06.03.2020):
+- [PyPi](https://pypi.org/project/shortuuid) (📥 810K / month · 📦 1.7K · ⏱️ 06.03.2020):
 	```
 	pip install shortuuid
 	```
-- [Conda](https://anaconda.org/conda-forge/shortuuid) (📥 79K · ⏱️ 07.04.2021):
+- [Conda](https://anaconda.org/conda-forge/shortuuid) (📥 81K · ⏱️ 07.04.2021):
 	```
 	conda install -c conda-forge shortuuid
 	```
@@ -1494,7 +1494,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/gruns/furl
 	```
-- [PyPi](https://pypi.org/project/furl) (📥 610K / month · 📦 850 · ⏱️ 12.04.2021):
+- [PyPi](https://pypi.org/project/furl) (📥 590K / month · 📦 850 · ⏱️ 12.04.2021):
 	```
 	pip install furl
 	```
@@ -1505,12 +1505,12 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/codeinthehole/purl">purl</a></b> (🥉24 ·  ⭐ 250) - A simple, immutable URL class with a clean API for interrogation and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/codeinthehole/purl) (👨‍💻 18 · 🔀 33 · 📦 1.6K · 📋 18 - 22% open · ⏱️ 13.04.2021):
+- [GitHub](https://github.com/codeinthehole/purl) (👨‍💻 18 · 🔀 34 · 📦 1.6K · 📋 21 - 33% open · ⏱️ 13.04.2021):
 
 	```
 	git clone https://github.com/codeinthehole/purl
 	```
-- [PyPi](https://pypi.org/project/purl) (📥 41K / month · 📦 710 · ⏱️ 10.03.2019):
+- [PyPi](https://pypi.org/project/purl) (📥 41K / month · 📦 710 · ⏱️ 15.05.2021):
 	```
 	pip install purl
 	```
@@ -1527,25 +1527,25 @@ _General purpose web frameworks to build web applications and REST APIs._
 
 🔗&nbsp;<b><a href="https://github.com/OAI/OpenAPI-Specification">OpenAPI-Specification</a></b> ( ⭐ 21K)  - The OpenAPI Specification Repository. <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code>
 
-<details><summary><b><a href="https://github.com/OpenAPITools/openapi-generator">OpenAPI Generator</a></b> (🥇35 ·  ⭐ 8.5K) - OpenAPI Generator allows generation of API client.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/OpenAPITools/openapi-generator">OpenAPI Generator</a></b> (🥇35 ·  ⭐ 8.6K) - OpenAPI Generator allows generation of API client.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/OpenAPITools/openapi-generator) (👨‍💻 2K · 🔀 3K · 📦 270 · 📋 4.3K - 56% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/OpenAPITools/openapi-generator) (👨‍💻 2K · 🔀 3K · 📦 270 · 📋 4.3K - 56% open · ⏱️ 20.05.2021):
 
 	```
 	git clone https://github.com/OpenAPITools/openapi-generator
 	```
-- [PyPi](https://pypi.org/project/openapi-generator-cli) (📥 4.6K / month · ⏱️ 15.05.2020):
+- [PyPi](https://pypi.org/project/openapi-generator-cli) (📥 4.3K / month · ⏱️ 15.05.2020):
 	```
 	pip install openapi-generator-cli
 	```
-- [NPM](https://www.npmjs.com/package/@openapitools/openapi-generator-cli) (📥 600K / month · 📦 400 · ⏱️ 01.04.2021):
+- [NPM](https://www.npmjs.com/package/@openapitools/openapi-generator-cli) (📥 590K / month · 📦 400 · ⏱️ 19.05.2021):
 	```
 	npm install @openapitools/openapi-generator-cli
 	```
 </details>
-<details><summary><b><a href="https://github.com/zalando/connexion">connexion</a></b> (🥇32 ·  ⭐ 3.6K · 💤) - Swagger/OpenAPI First framework for Python on top of.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/zalando/connexion">connexion</a></b> (🥇32 ·  ⭐ 3.7K · 💤) - Swagger/OpenAPI First framework for Python on top of.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/zalando/connexion) (👨‍💻 160 · 🔀 600 · 📦 4.9K · 📋 800 - 47% open · ⏱️ 10.08.2020):
+- [GitHub](https://github.com/zalando/connexion) (👨‍💻 160 · 🔀 600 · 📦 5K · 📋 800 - 47% open · ⏱️ 10.08.2020):
 
 	```
 	git clone https://github.com/zalando/connexion
@@ -1561,19 +1561,19 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/axnsan12/drf-yasg">drf-yasg</a></b> (🥇31 ·  ⭐ 2.3K · 💤) - Automated generation of real Swagger/OpenAPI 2.0 schemas.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/axnsan12/drf-yasg) (👨‍💻 60 · 🔀 300 · 📦 36K · 📋 540 - 31% open · ⏱️ 31.10.2020):
+- [GitHub](https://github.com/axnsan12/drf-yasg) (👨‍💻 60 · 🔀 300 · 📦 37K · 📋 540 - 31% open · ⏱️ 31.10.2020):
 
 	```
 	git clone https://github.com/axnsan12/drf-yasg
 	```
-- [PyPi](https://pypi.org/project/drf-yasg) (📥 860K / month · 📦 580 · ⏱️ 25.10.2020):
+- [PyPi](https://pypi.org/project/drf-yasg) (📥 800K / month · 📦 580 · ⏱️ 25.10.2020):
 	```
 	pip install drf-yasg
 	```
 </details>
 <details><summary><b><a href="https://github.com/swagger-api/swagger-ui">swagger-ui</a></b> (🥈30 ·  ⭐ 20K) - Swagger UI is a collection of HTML, JavaScript, and CSS.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/swagger-api/swagger-ui) (👨‍💻 470 · 🔀 7.9K · 📦 31K · 📋 4.5K - 13% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/swagger-api/swagger-ui) (👨‍💻 470 · 🔀 7.9K · 📦 31K · 📋 4.5K - 13% open · ⏱️ 20.05.2021):
 
 	```
 	git clone https://github.com/swagger-api/swagger-ui
@@ -1589,12 +1589,12 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/flasgger/flasgger">flasgger</a></b> (🥈29 ·  ⭐ 2.6K) - Easy OpenAPI specs and Swagger UI for your Flask API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/flasgger/flasgger) (👨‍💻 96 · 🔀 370 · 📥 450 · 📦 4.5K · 📋 320 - 54% open · ⏱️ 13.03.2021):
+- [GitHub](https://github.com/flasgger/flasgger) (👨‍💻 96 · 🔀 370 · 📥 460 · 📦 4.6K · 📋 320 - 54% open · ⏱️ 13.03.2021):
 
 	```
 	git clone https://github.com/flasgger/flasgger
 	```
-- [PyPi](https://pypi.org/project/flasgger) (📥 200K / month · 📦 590 · ⏱️ 31.07.2020):
+- [PyPi](https://pypi.org/project/flasgger) (📥 210K / month · 📦 590 · ⏱️ 31.07.2020):
 	```
 	pip install flasgger
 	```
@@ -1613,12 +1613,12 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/marshmallow-code/apispec">apispec</a></b> (🥈27 ·  ⭐ 860) - A pluggable API specification generator. Currently supports the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/marshmallow-code/apispec) (👨‍💻 69 · 🔀 140 · 📦 3K · 📋 220 - 16% open · ⏱️ 11.05.2021):
+- [GitHub](https://github.com/marshmallow-code/apispec) (👨‍💻 69 · 🔀 140 · 📦 3.1K · 📋 220 - 16% open · ⏱️ 11.05.2021):
 
 	```
 	git clone https://github.com/marshmallow-code/apispec
 	```
-- [PyPi](https://pypi.org/project/apispec) (📥 1.9M / month · 📦 14K · ⏱️ 07.05.2021):
+- [PyPi](https://pypi.org/project/apispec) (📥 1.8M / month · 📦 14K · ⏱️ 07.05.2021):
 	```
 	pip install apispec
 	```
@@ -1635,9 +1635,9 @@ _General purpose web frameworks to build web applications and REST APIs._
 	pip install openapi-spec-validator
 	```
 </details>
-<details><summary><b><a href="https://github.com/tfranzel/drf-spectacular">drf-spectacular</a></b> (🥉26 ·  ⭐ 530) - Sane and flexible OpenAPI 3 schema generation for Django.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/tfranzel/drf-spectacular">drf-spectacular</a></b> (🥉26 ·  ⭐ 540) - Sane and flexible OpenAPI 3 schema generation for Django.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/tfranzel/drf-spectacular) (👨‍💻 34 · 🔀 62 · 📦 320 · 📋 290 - 7% open · ⏱️ 10.05.2021):
+- [GitHub](https://github.com/tfranzel/drf-spectacular) (👨‍💻 35 · 🔀 63 · 📦 340 · 📋 300 - 9% open · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/tfranzel/drf-spectacular
@@ -1649,7 +1649,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/Azure/autorest">AutoRest</a></b> (🥉25 ·  ⭐ 3.4K) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/Azure/autorest) (👨‍💻 150 · 🔀 640 · 📥 75K · 📦 280 · 📋 1.8K - 4% open · ⏱️ 11.05.2021):
+- [GitHub](https://github.com/Azure/autorest) (👨‍💻 150 · 🔀 640 · 📥 75K · 📦 280 · 📋 1.8K - 4% open · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/Azure/autorest
@@ -1662,23 +1662,23 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/sourcey/spectacle
 	```
-- [NPM](https://www.npmjs.com/package/spectacle-docs) (📥 20K / month · 📦 52 · ⏱️ 10.03.2020):
+- [NPM](https://www.npmjs.com/package/spectacle-docs) (📥 19K / month · 📦 52 · ⏱️ 10.03.2020):
 	```
 	npm install spectacle-docs
 	```
 </details>
 <details><summary><b><a href="https://github.com/getsling/flask-swagger">flask-swagger</a></b> (🥉25 ·  ⭐ 430 · 💤) - A swagger 2.0 spec extractor for flask. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/getsling/flask-swagger) (👨‍💻 24 · 🔀 85 · 📦 3K · 📋 30 - 56% open · ⏱️ 29.09.2020):
+- [GitHub](https://github.com/getsling/flask-swagger) (👨‍💻 24 · 🔀 85 · 📦 3.1K · 📋 30 - 56% open · ⏱️ 29.09.2020):
 
 	```
 	git clone https://github.com/gangverk/flask-swagger
 	```
-- [PyPi](https://pypi.org/project/flask-swagger) (📥 900K / month · 📦 620 · ⏱️ 26.03.2019):
+- [PyPi](https://pypi.org/project/flask-swagger) (📥 920K / month · 📦 620 · ⏱️ 26.03.2019):
 	```
 	pip install flask-swagger
 	```
-- [Conda](https://anaconda.org/conda-forge/flask-swagger) (📥 48K · ⏱️ 20.04.2019):
+- [Conda](https://anaconda.org/conda-forge/flask-swagger) (📥 49K · ⏱️ 20.04.2019):
 	```
 	conda install -c conda-forge flask-swagger
 	```
@@ -1690,67 +1690,67 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/IBM/openapi-to-graphql
 	```
-- [NPM](https://www.npmjs.com/package/openapi-to-graphql-cli) (📥 4.7K / month · 📦 1 · ⏱️ 17.03.2021):
+- [NPM](https://www.npmjs.com/package/openapi-to-graphql-cli) (📥 4.6K / month · 📦 1 · ⏱️ 17.03.2021):
 	```
 	npm install openapi-to-graphql-cli
 	```
 </details>
 <details><summary><b><a href="https://github.com/p1c2u/openapi-core">openapi-core</a></b> (🥉23 ·  ⭐ 130) - OpenAPI core. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/p1c2u/openapi-core) (👨‍💻 42 · 🔀 83 · 📋 150 - 35% open · ⏱️ 08.05.2021):
+- [GitHub](https://github.com/p1c2u/openapi-core) (👨‍💻 42 · 🔀 83 · 📋 150 - 35% open · ⏱️ 20.05.2021):
 
 	```
 	git clone https://github.com/p1c2u/openapi-core
 	```
-- [PyPi](https://pypi.org/project/openapi-core) (📥 260K / month · 📦 22 · ⏱️ 08.05.2021):
+- [PyPi](https://pypi.org/project/openapi-core) (📥 260K / month · 📦 22 · ⏱️ 14.05.2021):
 	```
 	pip install openapi-core
 	```
 </details>
-<details><summary><b><a href="https://github.com/koxudaxi/datamodel-code-generator">datamodel-code-generator</a></b> (🥉22 ·  ⭐ 470 · 📈) - Pydantic model generator for easy conversion of JSON,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/koxudaxi/datamodel-code-generator">datamodel-code-generator</a></b> (🥉22 ·  ⭐ 480) - Pydantic model generator for easy conversion of JSON,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/koxudaxi/datamodel-code-generator) (👨‍💻 21 · 🔀 57 · 📋 120 - 12% open · ⏱️ 05.05.2021):
+- [GitHub](https://github.com/koxudaxi/datamodel-code-generator) (👨‍💻 23 · 🔀 61 · 📋 120 - 12% open · ⏱️ 16.05.2021):
 
 	```
 	git clone https://github.com/koxudaxi/datamodel-code-generator
 	```
-- [PyPi](https://pypi.org/project/datamodel-code-generator) (📥 66K / month · ⏱️ 05.05.2021):
+- [PyPi](https://pypi.org/project/datamodel-code-generator) (📥 74K / month · ⏱️ 16.05.2021):
 	```
 	pip install datamodel-code-generator
 	```
 </details>
-<details><summary><b><a href="https://github.com/0b01001001/spectree">Spectree</a></b> (🥉20 ·  ⭐ 94) - API spec validator and OpenAPI document generator for Python web.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/0b01001001/spectree">Spectree</a></b> (🥉20 ·  ⭐ 97) - API spec validator and OpenAPI document generator for Python web.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/0b01001001/spectree) (👨‍💻 13 · 🔀 34 · 📦 13 · 📋 49 - 26% open · ⏱️ 13.05.2021):
 
 	```
 	git clone https://github.com/0b01001001/spectree
 	```
-- [PyPi](https://pypi.org/project/spectree) (📥 3.4K / month · ⏱️ 24.04.2021):
+- [PyPi](https://pypi.org/project/spectree) (📥 3.6K / month · ⏱️ 24.04.2021):
 	```
 	pip install spectree
 	```
 </details>
-<details><summary><b><a href="https://github.com/triaxtec/openapi-python-client">openapi-python-client</a></b> (🥉19 ·  ⭐ 150) - Generate modern Python clients from OpenAPI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/triaxtec/openapi-python-client">openapi-python-client</a></b> (🥉19 ·  ⭐ 160) - Generate modern Python clients from OpenAPI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/triaxtec/openapi-python-client) (👨‍💻 24 · 🔀 34 · 📋 160 - 23% open · ⏱️ 13.05.2021):
 
 	```
 	git clone https://github.com/triaxtec/openapi-python-client
 	```
-- [PyPi](https://pypi.org/project/openapi-python-client) (📥 9.1K / month · ⏱️ 13.05.2021):
+- [PyPi](https://pypi.org/project/openapi-python-client) (📥 9K / month · ⏱️ 13.05.2021):
 	```
 	pip install openapi-python-client
 	```
 </details>
-<details><summary><b><a href="https://github.com/Pylons/pyramid_openapi3">pyramid_openapi3</a></b> (🥉17 ·  ⭐ 64) - Pyramid addon for OpenAPI3 validation of requests and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://trypyramid.com/img/pyramid-16x16.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/Pylons/pyramid_openapi3">pyramid_openapi3</a></b> (🥉17 ·  ⭐ 65) - Pyramid addon for OpenAPI3 validation of requests and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://trypyramid.com/img/pyramid-16x16.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/Pylons/pyramid_openapi3) (👨‍💻 18 · 🔀 26 · 📋 40 - 40% open · ⏱️ 09.05.2021):
+- [GitHub](https://github.com/Pylons/pyramid_openapi3) (👨‍💻 19 · 🔀 26 · 📋 42 - 40% open · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/Pylons/pyramid_openapi3
 	```
-- [PyPi](https://pypi.org/project/pyramid_openapi3) (📥 6.4K / month · 📦 1 · ⏱️ 15.02.2021):
+- [PyPi](https://pypi.org/project/pyramid_openapi3) (📥 5.9K / month · 📦 1 · ⏱️ 15.02.2021):
 	```
 	pip install pyramid_openapi3
 	```
@@ -1771,7 +1771,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 
 <details><summary><b><a href="https://github.com/graphql-python/graphene">graphene</a></b> (🥇32 ·  ⭐ 6.6K) - GraphQL framework for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://graphql.org/img/logo.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/graphql-python/graphene) (👨‍💻 170 · 🔀 690 · 📦 8.8K · 📋 890 - 9% open · ⏱️ 23.04.2021):
+- [GitHub](https://github.com/graphql-python/graphene) (👨‍💻 170 · 🔀 690 · 📦 8.9K · 📋 890 - 9% open · ⏱️ 23.04.2021):
 
 	```
 	git clone https://github.com/graphql-python/graphene
@@ -1780,7 +1780,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	pip install graphene
 	```
-- [Conda](https://anaconda.org/conda-forge/graphene) (📥 140K · ⏱️ 28.08.2019):
+- [Conda](https://anaconda.org/conda-forge/graphene) (📥 150K · ⏱️ 28.08.2019):
 	```
 	conda install -c conda-forge graphene
 	```
@@ -1792,35 +1792,35 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/graphql-python/graphene-django
 	```
-- [PyPi](https://pypi.org/project/graphene-django) (📥 570K / month · 📦 780 · ⏱️ 31.12.2020):
+- [PyPi](https://pypi.org/project/graphene-django) (📥 550K / month · 📦 780 · ⏱️ 31.12.2020):
 	```
 	pip install graphene-django
 	```
-- [Conda](https://anaconda.org/conda-forge/graphene-django) (📥 9.8K · ⏱️ 09.01.2021):
+- [Conda](https://anaconda.org/conda-forge/graphene-django) (📥 9.9K · ⏱️ 09.01.2021):
 	```
 	conda install -c conda-forge graphene-django
 	```
 </details>
 <details><summary><b><a href="https://github.com/mirumee/ariadne">ariadne</a></b> (🥈28 ·  ⭐ 1.4K) - Ariadne is a Python library for implementing GraphQL servers using.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://graphql.org/img/logo.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/mirumee/ariadne) (👨‍💻 40 · 🔀 100 · 📦 380 · 📋 200 - 25% open · ⏱️ 14.04.2021):
+- [GitHub](https://github.com/mirumee/ariadne) (👨‍💻 40 · 🔀 100 · 📦 390 · 📋 200 - 25% open · ⏱️ 14.04.2021):
 
 	```
 	git clone https://github.com/mirumee/ariadne
 	```
-- [PyPi](https://pypi.org/project/ariadne) (📥 67K / month · 📦 20 · ⏱️ 17.03.2021):
+- [PyPi](https://pypi.org/project/ariadne) (📥 63K / month · 📦 20 · ⏱️ 17.03.2021):
 	```
 	pip install ariadne
 	```
 </details>
 <details><summary><b><a href="https://github.com/graphql-python/graphql-core">graphql-core</a></b> (🥈26 ·  ⭐ 360) - A Python 3.6+ port of the GraphQL.js reference implementation of.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/graphql-python/graphql-core) (👨‍💻 19 · 🔀 68 · 📦 8.7K · 📋 95 - 15% open · ⏱️ 10.05.2021):
+- [GitHub](https://github.com/graphql-python/graphql-core) (👨‍💻 19 · 🔀 68 · 📦 8.8K · 📋 95 - 15% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/graphql-python/graphql-core
 	```
-- [PyPi](https://pypi.org/project/graphql-core) (📥 1.9M / month · 📦 1.1K · ⏱️ 10.05.2021):
+- [PyPi](https://pypi.org/project/graphql-core) (📥 1.8M / month · 📦 1.1K · ⏱️ 10.05.2021):
 	```
 	pip install graphql-core
 	```
@@ -1831,7 +1831,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/graphql-python/graphql-relay-py">graphql-relay-py</a></b> (🥈26 ·  ⭐ 130) - A library to help construct a graphql-py server supporting.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/graphql-python/graphql-relay-py) (👨‍💻 8 · 🔀 28 · 📦 7.2K · 📋 24 - 37% open · ⏱️ 19.03.2021):
+- [GitHub](https://github.com/graphql-python/graphql-relay-py) (👨‍💻 8 · 🔀 28 · 📦 7.3K · 📋 24 - 37% open · ⏱️ 19.03.2021):
 
 	```
 	git clone https://github.com/graphql-python/graphql-relay-py
@@ -1852,7 +1852,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	pip install flask-graphql
 	```
-- [Conda](https://anaconda.org/conda-forge/flask-graphql) (📥 7.2K · ⏱️ 11.05.2020):
+- [Conda](https://anaconda.org/conda-forge/flask-graphql) (📥 7.3K · ⏱️ 11.05.2020):
 	```
 	conda install -c conda-forge flask-graphql
 	```
@@ -1864,38 +1864,38 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/tartiflette/tartiflette
 	```
-- [PyPi](https://pypi.org/project/tartiflette) (📥 3.3K / month · 📦 14 · ⏱️ 09.04.2021):
+- [PyPi](https://pypi.org/project/tartiflette) (📥 3.1K / month · 📦 14 · ⏱️ 09.04.2021):
 	```
 	pip install tartiflette
 	```
 </details>
-<details><summary><b><a href="https://github.com/PedroBern/django-graphql-auth">django-graphql-auth</a></b> (🥉21 ·  ⭐ 210) - Django registration and authentication with GraphQL. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/PedroBern/django-graphql-auth">django-graphql-auth</a></b> (🥉21 ·  ⭐ 220) - Django registration and authentication with GraphQL. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/PedroBern/django-graphql-auth) (👨‍💻 14 · 🔀 43 · 📦 150 · 📋 75 - 52% open · ⏱️ 10.04.2021):
+- [GitHub](https://github.com/PedroBern/django-graphql-auth) (👨‍💻 14 · 🔀 43 · 📦 160 · 📋 75 - 52% open · ⏱️ 10.04.2021):
 
 	```
 	git clone https://github.com/PedroBern/django-graphql-auth
 	```
-- [PyPi](https://pypi.org/project/django-graphql-auth) (📥 6.9K / month · ⏱️ 16.11.2020):
+- [PyPi](https://pypi.org/project/django-graphql-auth) (📥 7.1K / month · ⏱️ 16.11.2020):
 	```
 	pip install django-graphql-auth
 	```
 </details>
 <details><summary><b><a href="https://github.com/strawberry-graphql/strawberry">Strawberry GraphQL</a></b> (🥉19 ·  ⭐ 980) - A new GraphQL library for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://graphql.org/img/logo.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/strawberry-graphql/strawberry) (👨‍💻 65 · 🔀 100 · 📥 230 · 📋 220 - 46% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/strawberry-graphql/strawberry) (👨‍💻 66 · 🔀 100 · 📥 210 · 📋 230 - 46% open · ⏱️ 20.05.2021):
 
 	```
 	git clone https://github.com/strawberry-graphql/strawberry
 	```
-- [PyPi](https://pypi.org/project/strawberry-graphql) (📥 53K / month · 📦 2 · ⏱️ 08.05.2021):
+- [PyPi](https://pypi.org/project/strawberry-graphql) (📥 47K / month · 📦 2 · ⏱️ 20.05.2021):
 	```
 	pip install strawberry-graphql
 	```
 </details>
 <details><summary><b><a href="https://github.com/NovemberOscar/Flask-GraphQL-Auth">Flask-GraphQL-Auth</a></b> (🥉19 ·  ⭐ 57) - (Now finding maintainer) A Pythonic way to provide JWT.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/NovemberOscar/Flask-GraphQL-Auth) (👨‍💻 7 · 🔀 9 · 📦 57 · 📋 18 - 33% open · ⏱️ 19.04.2021):
+- [GitHub](https://github.com/NovemberOscar/Flask-GraphQL-Auth) (👨‍💻 7 · 🔀 9 · 📦 58 · 📋 18 - 33% open · ⏱️ 19.04.2021):
 
 	```
 	git clone https://github.com/NovemberOscar/Flask-GraphQL-Auth
@@ -1917,14 +1917,14 @@ _General purpose web frameworks to build web applications and REST APIs._
 	pip install tartiflette-aiohttp
 	```
 </details>
-<details><summary><b><a href="https://github.com/tartiflette/tartiflette-asgi">tartiflette-asgi</a></b> (🥉17 ·  ⭐ 86) - ASGI support for the Tartiflette GraphQL engine. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://graphql.org/img/logo.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/tartiflette/tartiflette-asgi">tartiflette-asgi</a></b> (🥉17 ·  ⭐ 87) - ASGI support for the Tartiflette GraphQL engine. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://graphql.org/img/logo.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/tartiflette/tartiflette-asgi) (👨‍💻 9 · 🔀 11 · 📦 6 · 📋 48 - 14% open · ⏱️ 29.04.2021):
 
 	```
 	git clone https://github.com/tartiflette/tartiflette-asgi
 	```
-- [PyPi](https://pypi.org/project/tartiflette-asgi) (📥 220 / month · 📦 1 · ⏱️ 19.01.2021):
+- [PyPi](https://pypi.org/project/tartiflette-asgi) (📥 250 / month · 📦 1 · ⏱️ 19.01.2021):
 	```
 	pip install tartiflette-asgi
 	```
@@ -1939,38 +1939,6 @@ _General purpose web frameworks to build web applications and REST APIs._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/miguelgrinberg/Flask-SocketIO">Flask-SocketIO</a></b> (🥇32 ·  ⭐ 4.3K) - Socket.IO integration for Flask applications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/miguelgrinberg/Flask-SocketIO) (👨‍💻 60 · 🔀 770 · 📦 18K · 📋 1.5K - 4% open · ⏱️ 15.04.2021):
-
-	```
-	git clone https://github.com/miguelgrinberg/Flask-SocketIO
-	```
-- [PyPi](https://pypi.org/project/flask-socketio) (📥 1.6M / month · 📦 4.3K · ⏱️ 19.12.2020):
-	```
-	pip install flask-socketio
-	```
-- [Conda](https://anaconda.org/conda-forge/flask-socketio) (📥 120K · ⏱️ 19.12.2020):
-	```
-	conda install -c conda-forge flask-socketio
-	```
-</details>
-<details><summary><b><a href="https://github.com/miguelgrinberg/python-socketio">python-socketio</a></b> (🥇32 ·  ⭐ 2.3K) - Python Socket.IO server and client. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/miguelgrinberg/python-socketio) (👨‍💻 50 · 🔀 400 · 📦 16K · 📋 600 - 6% open · ⏱️ 04.05.2021):
-
-	```
-	git clone https://github.com/miguelgrinberg/python-socketio
-	```
-- [PyPi](https://pypi.org/project/python-socketio) (📥 650K / month · 📦 3.4K · ⏱️ 18.04.2021):
-	```
-	pip install python-socketio
-	```
-- [Conda](https://anaconda.org/conda-forge/python-socketio) (📥 170K · ⏱️ 18.04.2021):
-	```
-	conda install -c conda-forge python-socketio
-	```
-</details>
 <details><summary><b><a href="https://github.com/crossbario/autobahn-python">autobahn-python</a></b> (🥇32 ·  ⭐ 2.3K) - WebSocket and WAMP in Python for Twisted and asyncio. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/crossbario/autobahn-python) (👨‍💻 120 · 🔀 630 · 📦 13K · 📋 820 - 21% open · ⏱️ 01.04.2021):
@@ -1983,34 +1951,66 @@ _General purpose web frameworks to build web applications and REST APIs._
 	pip install autobahn
 	```
 </details>
-<details><summary><b><a href="https://github.com/aaugustin/websockets">websockets</a></b> (🥈31 ·  ⭐ 3.3K) - Library for building WebSocket servers and clients in Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/aaugustin/websockets">websockets</a></b> (🥈31 ·  ⭐ 3.4K) - Library for building WebSocket servers and clients in Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/aaugustin/websockets) (👨‍💻 47 · 🔀 370 · 📦 33K · 📋 720 - 6% open · ⏱️ 08.05.2021):
+- [GitHub](https://github.com/aaugustin/websockets) (👨‍💻 48 · 🔀 370 · 📦 34K · 📋 720 - 6% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/aaugustin/websockets
 	```
-- [PyPi](https://pypi.org/project/websockets) (📥 4.4M / month · 📦 5K · ⏱️ 02.05.2021):
+- [PyPi](https://pypi.org/project/websockets) (📥 4.9M / month · 📦 5K · ⏱️ 15.05.2021):
 	```
 	pip install websockets
 	```
-- [Conda](https://anaconda.org/conda-forge/websockets) (📥 690K · ⏱️ 05.05.2021):
+- [Conda](https://anaconda.org/conda-forge/websockets) (📥 710K · ⏱️ 17.05.2021):
 	```
 	conda install -c conda-forge websockets
 	```
 </details>
+<details><summary><b><a href="https://github.com/miguelgrinberg/Flask-SocketIO">Flask-SocketIO</a></b> (🥈30 ·  ⭐ 4.3K · 📉) - Socket.IO integration for Flask applications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/miguelgrinberg/Flask-SocketIO) (👨‍💻 61 · 🔀 790 · 📦 18K · 📋 1.5K - 2% open · ⏱️ 18.05.2021):
+
+	```
+	git clone https://github.com/miguelgrinberg/Flask-SocketIO
+	```
+- [PyPi](https://pypi.org/project/flask-socketio) (📥 1.6M / month · 📦 4.3K · ⏱️ 15.05.2021):
+	```
+	pip install flask-socketio
+	```
+- [Conda](https://anaconda.org/conda-forge/flask-socketio) (📥 120K · ⏱️ 16.05.2021):
+	```
+	conda install -c conda-forge flask-socketio
+	```
+</details>
+<details><summary><b><a href="https://github.com/miguelgrinberg/python-socketio">python-socketio</a></b> (🥈30 ·  ⭐ 2.3K · 📉) - Python Socket.IO server and client. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/miguelgrinberg/python-socketio) (👨‍💻 50 · 🔀 400 · 📦 16K · 📋 610 - 7% open · ⏱️ 15.05.2021):
+
+	```
+	git clone https://github.com/miguelgrinberg/python-socketio
+	```
+- [PyPi](https://pypi.org/project/python-socketio) (📥 640K / month · 📦 3.4K · ⏱️ 15.05.2021):
+	```
+	pip install python-socketio
+	```
+- [Conda](https://anaconda.org/conda-forge/python-socketio) (📥 170K · ⏱️ 16.05.2021):
+	```
+	conda install -c conda-forge python-socketio
+	```
+</details>
 <details><summary><b><a href="https://github.com/django/daphne">daphne</a></b> (🥉28 ·  ⭐ 1.5K) - Django Channels HTTP/WebSocket server. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/django/daphne) (👨‍💻 57 · 🔀 180 · 📦 9.3K · 📋 270 - 16% open · ⏱️ 16.04.2021):
+- [GitHub](https://github.com/django/daphne) (👨‍💻 57 · 🔀 180 · 📦 9.4K · 📋 270 - 16% open · ⏱️ 16.04.2021):
 
 	```
 	git clone https://github.com/django/daphne
 	```
-- [PyPi](https://pypi.org/project/daphne) (📥 340K / month · 📦 1.5K · ⏱️ 07.04.2021):
+- [PyPi](https://pypi.org/project/daphne) (📥 330K / month · 📦 1.5K · ⏱️ 07.04.2021):
 	```
 	pip install daphne
 	```
-- [Conda](https://anaconda.org/conda-forge/daphne) (📥 44K · ⏱️ 07.04.2021):
+- [Conda](https://anaconda.org/conda-forge/daphne) (📥 45K · ⏱️ 07.04.2021):
 	```
 	conda install -c conda-forge daphne
 	```
@@ -2022,7 +2022,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/novnc/websockify
 	```
-- [PyPi](https://pypi.org/project/websockify) (📥 38K / month · 📦 600 · ⏱️ 13.08.2019):
+- [PyPi](https://pypi.org/project/websockify) (📥 33K / month · 📦 600 · ⏱️ 13.08.2019):
 	```
 	pip install websockify
 	```
@@ -2034,7 +2034,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 <details><summary>Show 5 hidden projects...</summary>
 
 - <b><a href="https://github.com/websocket-client/websocket-client">websocket-client</a></b> (🥇34 ·  ⭐ 2.6K) - WebSocket client for Python. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1">❗️LGPL-2.1</a></code>
-- <b><a href="https://github.com/heroku-python/flask-sockets">flask-sockets</a></b> (🥉25 ·  ⭐ 1.7K · 💀) - Elegant WebSockets for your Flask apps. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/heroku-python/flask-sockets">flask-sockets</a></b> (🥉26 ·  ⭐ 1.7K · 💀) - Elegant WebSockets for your Flask apps. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/abourget/gevent-socketio">gevent-socketio</a></b> (🥉25 ·  ⭐ 1.2K · 💀) - Official repository for gevent-socketio. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://github.com/mrjoes/sockjs-tornado">sockjs-tornado</a></b> (🥉25 ·  ⭐ 860 · 💀) - WebSocket emulation - Python server. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/mrjoes/tornadio2">tornadio2</a></b> (🥉19 ·  ⭐ 530 · 💀) - Python socket.io server implementation on top of Tornado.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
@@ -2047,7 +2047,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 
 <details><summary><b><a href="https://github.com/grpc/grpc">grpc</a></b> (🥇38 ·  ⭐ 30K) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/grpc/grpc) (👨‍💻 730 · 🔀 7.8K · 📥 150K · 📦 2.7K · 📋 9.7K - 8% open · ⏱️ 12.05.2021):
+- [GitHub](https://github.com/grpc/grpc) (👨‍💻 730 · 🔀 7.8K · 📥 150K · 📦 2.7K · 📋 9.7K - 8% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/grpc/grpc
@@ -2072,19 +2072,19 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	pip install rpyc
 	```
-- [Conda](https://anaconda.org/conda-forge/rpyc) (📥 140K · ⏱️ 12.01.2021):
+- [Conda](https://anaconda.org/conda-forge/rpyc) (📥 150K · ⏱️ 12.01.2021):
 	```
 	conda install -c conda-forge rpyc
 	```
 </details>
-<details><summary><b><a href="https://github.com/smagafurov/fastapi-jsonrpc">fastapi-jsonrpc</a></b> (🥉15 ·  ⭐ 95) - JSON-RPC server based on fastapi. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/smagafurov/fastapi-jsonrpc">fastapi-jsonrpc</a></b> (🥉15 ·  ⭐ 99) - JSON-RPC server based on fastapi. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/smagafurov/fastapi-jsonrpc) (👨‍💻 6 · 🔀 11 · 📦 4 · 📋 11 - 54% open · ⏱️ 28.12.2020):
+- [GitHub](https://github.com/smagafurov/fastapi-jsonrpc) (👨‍💻 6 · 🔀 11 · 📦 4 · 📋 12 - 58% open · ⏱️ 28.12.2020):
 
 	```
 	git clone https://github.com/smagafurov/fastapi-jsonrpc
 	```
-- [PyPi](https://pypi.org/project/fastapi-jsonrpc) (📥 710 / month · ⏱️ 28.12.2020):
+- [PyPi](https://pypi.org/project/fastapi-jsonrpc) (📥 650 / month · ⏱️ 28.12.2020):
 	```
 	pip install fastapi-jsonrpc
 	```
@@ -2101,28 +2101,28 @@ _General purpose web frameworks to build web applications and REST APIs._
 
 <details><summary><b><a href="https://github.com/Miserlou/Zappa">Zappa</a></b> (🥇32 ·  ⭐ 12K) - Serverless Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Miserlou/Zappa) (👨‍💻 260 · 🔀 1.2K · 📥 250 · 📦 2.7K · 📋 1.4K - 51% open · ⏱️ 20.02.2021):
+- [GitHub](https://github.com/Miserlou/Zappa) (👨‍💻 260 · 🔀 1.2K · 📥 250 · 📦 2.8K · 📋 1.4K - 51% open · ⏱️ 20.02.2021):
 
 	```
 	git clone https://github.com/Miserlou/Zappa
 	```
-- [PyPi](https://pypi.org/project/zappa) (📥 120K / month · 📦 780 · ⏱️ 07.10.2020):
+- [PyPi](https://pypi.org/project/zappa) (📥 130K / month · 📦 780 · ⏱️ 07.10.2020):
 	```
 	pip install zappa
 	```
 </details>
 <details><summary><b><a href="https://github.com/aws/chalice">chalice</a></b> (🥉31 ·  ⭐ 7.9K) - Python Serverless Microframework for AWS. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/aws/chalice) (👨‍💻 170 · 🔀 800 · 📦 1.1K · 📋 1K - 28% open · ⏱️ 04.05.2021):
+- [GitHub](https://github.com/aws/chalice) (👨‍💻 170 · 🔀 810 · 📦 1.1K · 📋 1K - 28% open · ⏱️ 13.05.2021):
 
 	```
 	git clone https://github.com/aws/chalice
 	```
-- [PyPi](https://pypi.org/project/chalice) (📥 140K / month · 📦 250 · ⏱️ 26.04.2021):
+- [PyPi](https://pypi.org/project/chalice) (📥 140K / month · 📦 250 · ⏱️ 13.05.2021):
 	```
 	pip install chalice
 	```
-- [Conda](https://anaconda.org/conda-forge/chalice) (📥 51K · ⏱️ 15.01.2021):
+- [Conda](https://anaconda.org/conda-forge/chalice) (📥 52K · ⏱️ 15.01.2021):
 	```
 	conda install -c conda-forge chalice
 	```
@@ -2134,7 +2134,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/nficano/python-lambda
 	```
-- [PyPi](https://pypi.org/project/python-lambda) (📥 6.5K / month · 📦 33 · ⏱️ 05.01.2021):
+- [PyPi](https://pypi.org/project/python-lambda) (📥 6.9K / month · 📦 33 · ⏱️ 05.01.2021):
 	```
 	pip install python-lambda
 	```
@@ -2145,9 +2145,9 @@ _General purpose web frameworks to build web applications and REST APIs._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/wagtail/wagtail">wagtail</a></b> (🥇30 ·  ⭐ 11K · 📉) - A Django content management system focused on flexibility and.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/wagtail/wagtail">wagtail</a></b> (🥇30 ·  ⭐ 11K) - A Django content management system focused on flexibility and user.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/wagtail/wagtail) (👨‍💻 570 · 🔀 2.2K · 📦 5.3K · 📋 3.4K - 28% open · ⏱️ 12.05.2021):
+- [GitHub](https://github.com/wagtail/wagtail) (👨‍💻 570 · 🔀 2.2K · 📦 5.3K · 📋 3.4K - 28% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/wagtail/wagtail
@@ -2163,12 +2163,12 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/django-cms/django-cms">django-cms</a></b> (🥈29 ·  ⭐ 8.2K) - The easy-to-use and developer-friendly CMS. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/django-cms/django-cms) (👨‍💻 570 · 🔀 2.6K · 📦 3.8K · 📋 3.4K - 7% open · ⏱️ 07.05.2021):
+- [GitHub](https://github.com/django-cms/django-cms) (👨‍💻 580 · 🔀 2.6K · 📦 3.8K · 📋 3.4K - 7% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/django-cms/django-cms
 	```
-- [PyPi](https://pypi.org/project/django-cms) (📥 52K / month · 📦 3.1K · ⏱️ 28.10.2020):
+- [PyPi](https://pypi.org/project/django-cms) (📥 57K / month · 📦 3.1K · ⏱️ 19.05.2021):
 	```
 	pip install django-cms
 	```
@@ -2180,7 +2180,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/stephenmcd/mezzanine
 	```
-- [PyPi](https://pypi.org/project/mezzanine) (📥 3.1K / month · 📦 2.4K · ⏱️ 09.09.2020):
+- [PyPi](https://pypi.org/project/mezzanine) (📥 3.3K / month · 📦 2.4K · ⏱️ 09.09.2020):
 	```
 	pip install mezzanine
 	```
@@ -2192,7 +2192,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/lektor/lektor
 	```
-- [PyPi](https://pypi.org/project/lektor) (📥 2.3K / month · 📦 140 · ⏱️ 20.08.2020):
+- [PyPi](https://pypi.org/project/lektor) (📥 2.2K / month · 📦 140 · ⏱️ 20.08.2020):
 	```
 	pip install lektor
 	```
@@ -2208,7 +2208,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/feincms/feincms
 	```
-- [PyPi](https://pypi.org/project/feincms) (📥 3.2K / month · 📦 310 · ⏱️ 22.03.2021):
+- [PyPi](https://pypi.org/project/feincms) (📥 2.9K / month · 📦 310 · ⏱️ 22.03.2021):
 	```
 	pip install feincms
 	```
@@ -2241,7 +2241,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/SeleniumHQ/selenium">selenium</a></b> (🥇33 ·  ⭐ 21K) - A browser automation framework and ecosystem. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/SeleniumHQ/selenium) (👨‍💻 670 · 🔀 6.3K · 📦 97K · 📋 7.3K - 2% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/SeleniumHQ/selenium) (👨‍💻 670 · 🔀 6.3K · 📦 98K · 📋 7.3K - 2% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/SeleniumHQ/selenium
@@ -2257,28 +2257,28 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/locustio/locust">Locust</a></b> (🥇33 ·  ⭐ 16K) - Scalable user load testing tool written in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/locustio/locust) (👨‍💻 200 · 🔀 2.1K · 📦 1.2K · 📋 1.1K - 2% open · ⏱️ 12.05.2021):
+- [GitHub](https://github.com/locustio/locust) (👨‍💻 200 · 🔀 2.1K · 📦 1.3K · 📋 1.1K - 2% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/locustio/locust
 	```
-- [PyPi](https://pypi.org/project/locust) (📥 290K / month · 📦 70 · ⏱️ 12.05.2021):
+- [PyPi](https://pypi.org/project/locust) (📥 300K / month · 📦 70 · ⏱️ 17.05.2021):
 	```
 	pip install locust
 	```
 </details>
 <details><summary><b><a href="https://github.com/getsentry/responses">responses</a></b> (🥇32 ·  ⭐ 3.2K) - A utility for mocking out the Python Requests library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/getsentry/responses) (👨‍💻 96 · 🔀 260 · 📦 9.3K · 📋 190 - 37% open · ⏱️ 27.04.2021):
+- [GitHub](https://github.com/getsentry/responses) (👨‍💻 96 · 🔀 260 · 📦 9.4K · 📋 190 - 37% open · ⏱️ 27.04.2021):
 
 	```
 	git clone https://github.com/getsentry/responses
 	```
-- [PyPi](https://pypi.org/project/responses) (📥 4.4M / month · 📦 4.9K · ⏱️ 27.04.2021):
+- [PyPi](https://pypi.org/project/responses) (📥 4.3M / month · 📦 4.9K · ⏱️ 27.04.2021):
 	```
 	pip install responses
 	```
-- [Conda](https://anaconda.org/conda-forge/responses) (📥 550K · ⏱️ 27.04.2021):
+- [Conda](https://anaconda.org/conda-forge/responses) (📥 560K · ⏱️ 27.04.2021):
 	```
 	conda install -c conda-forge responses
 	```
@@ -2290,26 +2290,26 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/cobrateam/splinter
 	```
-- [PyPi](https://pypi.org/project/splinter) (📥 220K / month · 📦 2.1K · ⏱️ 19.08.2020):
+- [PyPi](https://pypi.org/project/splinter) (📥 200K / month · 📦 2.1K · ⏱️ 19.08.2020):
 	```
 	pip install splinter
 	```
 </details>
 <details><summary><b><a href="https://github.com/pytest-dev/pytest-django">pytest-django</a></b> (🥇31 ·  ⭐ 890) - A Django plugin for pytest. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pytest-dev/pytest-django) (👨‍💻 120 · 🔀 290 · 📋 450 - 26% open · ⏱️ 08.05.2021):
+- [GitHub](https://github.com/pytest-dev/pytest-django) (👨‍💻 120 · 🔀 280 · 📋 460 - 26% open · ⏱️ 15.05.2021):
 
 	```
 	git clone https://github.com/pytest-dev/pytest-django
 	```
-- [PyPi](https://pypi.org/project/pytest-django) (📥 1.7M / month · 📦 11K · ⏱️ 10.04.2021):
+- [PyPi](https://pypi.org/project/pytest-django) (📥 1.6M / month · 📦 11K · ⏱️ 15.05.2021):
 	```
 	pip install pytest-django
 	```
 </details>
 <details><summary><b><a href="https://github.com/mitmproxy/mitmproxy">mitmproxy</a></b> (🥈30 ·  ⭐ 22K) - An interactive TLS-capable intercepting HTTP proxy for penetration.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/mitmproxy/mitmproxy) (👨‍💻 390 · 🔀 2.8K · 📥 210K · 📦 1.3K · 📋 2.5K - 9% open · ⏱️ 11.05.2021):
+- [GitHub](https://github.com/mitmproxy/mitmproxy) (👨‍💻 390 · 🔀 2.8K · 📥 210K · 📦 1.4K · 📋 2.5K - 9% open · ⏱️ 14.05.2021):
 
 	```
 	git clone https://github.com/mitmproxy/mitmproxy
@@ -2321,16 +2321,16 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/miyakogi/pyppeteer">pyppeteer</a></b> (🥈30 ·  ⭐ 3.4K · 💤) - Headless chrome/chromium automation library (unofficial port of.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/miyakogi/pyppeteer) (👨‍💻 24 · 🔀 370 · 📦 4.2K · 📋 250 - 60% open · ⏱️ 08.05.2020):
+- [GitHub](https://github.com/miyakogi/pyppeteer) (👨‍💻 24 · 🔀 370 · 📦 4.3K · 📋 250 - 60% open · ⏱️ 08.05.2020):
 
 	```
 	git clone https://github.com/miyakogi/pyppeteer
 	```
-- [PyPi](https://pypi.org/project/pyppeteer) (📥 900K / month · 📦 370 · ⏱️ 08.01.2021):
+- [PyPi](https://pypi.org/project/pyppeteer) (📥 970K / month · 📦 370 · ⏱️ 08.01.2021):
 	```
 	pip install pyppeteer
 	```
-- [Conda](https://anaconda.org/conda-forge/pyppeteer) (📥 23K · ⏱️ 19.09.2020):
+- [Conda](https://anaconda.org/conda-forge/pyppeteer) (📥 24K · ⏱️ 19.09.2020):
 	```
 	conda install -c conda-forge pyppeteer
 	```
@@ -2342,7 +2342,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/FactoryBoy/factory_boy
 	```
-- [PyPi](https://pypi.org/project/factory_boy) (📥 1.8M / month · 📦 4.3K · ⏱️ 05.05.2018):
+- [PyPi](https://pypi.org/project/factory_boy) (📥 1.7M / month · 📦 4.3K · ⏱️ 05.05.2018):
 	```
 	pip install factory_boy
 	```
@@ -2361,28 +2361,28 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/gabrielfalcao/HTTPretty">HTTPretty</a></b> (🥈30 ·  ⭐ 1.9K) - HTTP client mocking tool for Python - inspired by Fakeweb for Ruby. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/gabrielfalcao/HTTPretty) (👨‍💻 100 · 🔀 240 · 📦 4.6K · 📋 220 - 41% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/gabrielfalcao/HTTPretty) (👨‍💻 100 · 🔀 240 · 📦 4.6K · 📋 220 - 37% open · ⏱️ 14.05.2021):
 
 	```
 	git clone https://github.com/gabrielfalcao/HTTPretty
 	```
-- [PyPi](https://pypi.org/project/httpretty) (📥 340K / month · 📦 5.3K · ⏱️ 13.05.2021):
+- [PyPi](https://pypi.org/project/httpretty) (📥 340K / month · 📦 5.3K · ⏱️ 14.05.2021):
 	```
 	pip install httpretty
 	```
-- [Conda](https://anaconda.org/conda-forge/httpretty) (📥 97K · ⏱️ 13.05.2021):
+- [Conda](https://anaconda.org/conda-forge/httpretty) (📥 99K · ⏱️ 14.05.2021):
 	```
 	conda install -c conda-forge httpretty
 	```
 </details>
 <details><summary><b><a href="https://github.com/robotframework/SeleniumLibrary">SeleniumLibrary</a></b> (🥈29 ·  ⭐ 1K) - Web testing library for Robot Framework. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/robotframework/SeleniumLibrary) (👨‍💻 110 · 🔀 640 · 📥 3.5K · 📦 1.4K · 📋 940 - 2% open · ⏱️ 16.04.2021):
+- [GitHub](https://github.com/robotframework/SeleniumLibrary) (👨‍💻 110 · 🔀 640 · 📥 3.5K · 📦 1.5K · 📋 940 - 2% open · ⏱️ 16.04.2021):
 
 	```
 	git clone https://github.com/robotframework/SeleniumLibrary
 	```
-- [PyPi](https://pypi.org/project/robotframework-seleniumlibrary) (📥 350K / month · 📦 150 · ⏱️ 23.03.2021):
+- [PyPi](https://pypi.org/project/robotframework-seleniumlibrary) (📥 370K / month · 📦 150 · ⏱️ 23.03.2021):
 	```
 	pip install robotframework-seleniumlibrary
 	```
@@ -2394,7 +2394,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/apiaryio/dredd
 	```
-- [PyPi](https://pypi.org/project/dredd_hooks) (📥 7.2K / month · 📦 38 · ⏱️ 09.04.2018):
+- [PyPi](https://pypi.org/project/dredd_hooks) (📥 7K / month · 📦 38 · ⏱️ 09.04.2018):
 	```
 	pip install dredd_hooks
 	```
@@ -2405,24 +2405,24 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/jazzband/django-silk">django-silk</a></b> (🥈28 ·  ⭐ 2.9K) - Silky smooth profiling for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/jazzband/django-silk) (👨‍💻 110 · 🔀 240 · 📥 170 · 📦 1.4K · 📋 260 - 43% open · ⏱️ 13.04.2021):
+- [GitHub](https://github.com/jazzband/django-silk) (👨‍💻 110 · 🔀 240 · 📥 170 · 📦 1.5K · 📋 260 - 43% open · ⏱️ 13.04.2021):
 
 	```
 	git clone https://github.com/jazzband/django-silk
 	```
-- [PyPi](https://pypi.org/project/django-silk) (📥 320K / month · 📦 280 · ⏱️ 07.08.2020):
+- [PyPi](https://pypi.org/project/django-silk) (📥 260K / month · 📦 280 · ⏱️ 07.08.2020):
 	```
 	pip install django-silk
 	```
 </details>
 <details><summary><b><a href="https://github.com/stoplightio/prism">Prism</a></b> (🥈28 ·  ⭐ 2K) - Turn any OpenAPI2/3 and Postman Collection file into an API server.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/stoplightio/prism) (👨‍💻 47 · 🔀 170 · 📥 770K · 📦 120 · 📋 470 - 8% open · ⏱️ 11.05.2021):
+- [GitHub](https://github.com/stoplightio/prism) (👨‍💻 48 · 🔀 170 · 📥 770K · 📦 130 · 📋 460 - 7% open · ⏱️ 16.05.2021):
 
 	```
 	git clone https://github.com/stoplightio/prism
 	```
-- [NPM](https://www.npmjs.com/package/@stoplight/prism-cli) (📥 87K / month · 📦 4 · ⏱️ 05.05.2021):
+- [NPM](https://www.npmjs.com/package/@stoplight/prism-cli) (📥 88K / month · 📦 4 · ⏱️ 18.05.2021):
 	```
 	npm install @stoplight/prism-cli
 	```
@@ -2446,7 +2446,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/flask-debugtoolbar/flask-debugtoolbar
 	```
-- [PyPi](https://pypi.org/project/flask-debugtoolbar) (📥 97K / month · 📦 5.9K · ⏱️ 18.02.2020):
+- [PyPi](https://pypi.org/project/flask-debugtoolbar) (📥 99K / month · 📦 5.9K · ⏱️ 18.02.2020):
 	```
 	pip install flask-debugtoolbar
 	```
@@ -2457,12 +2457,12 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/seleniumbase/SeleniumBase">SeleniumBase</a></b> (🥈27 ·  ⭐ 2.2K) - A complete framework for fast, easy, & reliable web testing... <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/seleniumbase/SeleniumBase) (👨‍💻 26 · 🔀 490 · 📦 140 · ⏱️ 12.05.2021):
+- [GitHub](https://github.com/seleniumbase/SeleniumBase) (👨‍💻 26 · 🔀 500 · 📦 140 · 📋 240 - 1% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/seleniumbase/SeleniumBase
 	```
-- [PyPi](https://pypi.org/project/seleniumbase) (📥 27K / month · 📦 24 · ⏱️ 12.05.2021):
+- [PyPi](https://pypi.org/project/seleniumbase) (📥 16K / month · 📦 24 · ⏱️ 19.05.2021):
 	```
 	pip install seleniumbase
 	```
@@ -2474,7 +2474,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/jarus/flask-testing
 	```
-- [PyPi](https://pypi.org/project/flask-testing) (📥 270K / month · 📦 4.8K · ⏱️ 24.12.2020):
+- [PyPi](https://pypi.org/project/flask-testing) (📥 260K / month · 📦 4.8K · ⏱️ 24.12.2020):
 	```
 	pip install flask-testing
 	```
@@ -2483,14 +2483,14 @@ _General purpose web frameworks to build web applications and REST APIs._
 	conda install -c conda-forge flask-testing
 	```
 </details>
-<details><summary><b><a href="https://github.com/revsys/django-test-plus">django-test-plus</a></b> (🥈27 ·  ⭐ 450 · 💤) - Useful additions to Django's default TestCase. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/revsys/django-test-plus">django-test-plus</a></b> (🥈27 ·  ⭐ 450) - Useful additions to Django's default TestCase. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/revsys/django-test-plus) (👨‍💻 27 · 🔀 45 · 📦 2.8K · 📋 44 - 15% open · ⏱️ 28.05.2020):
+- [GitHub](https://github.com/revsys/django-test-plus) (👨‍💻 27 · 🔀 46 · 📋 47 - 19% open · ⏱️ 20.05.2021):
 
 	```
 	git clone https://github.com/revsys/django-test-plus
 	```
-- [PyPi](https://pypi.org/project/django-test-plus) (📥 68K / month · 📦 2.5K · ⏱️ 03.12.2019):
+- [PyPi](https://pypi.org/project/django-test-plus) (📥 69K / month · 📦 2.5K · ⏱️ 19.05.2021):
 	```
 	pip install django-test-plus
 	```
@@ -2499,7 +2499,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	conda install -c conda-forge django-test-plus
 	```
 </details>
-<details><summary><b><a href="https://github.com/pytest-dev/pytest-flask">pytest-flask</a></b> (🥈27 ·  ⭐ 360) - A set of pytest fixtures to test Flask applications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/pytest-dev/pytest-flask">pytest-flask</a></b> (🥈27 ·  ⭐ 370) - A set of pytest fixtures to test Flask applications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/pytest-dev/pytest-flask) (👨‍💻 25 · 🔀 63 · 📋 63 - 12% open · ⏱️ 27.02.2021):
 
@@ -2522,14 +2522,14 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/Pylons/webtest
 	```
-- [PyPi](https://pypi.org/project/webtest) (📥 860K / month · 📦 7.7K · ⏱️ 27.04.2020):
+- [PyPi](https://pypi.org/project/webtest) (📥 830K / month · 📦 7.7K · ⏱️ 27.04.2020):
 	```
 	pip install webtest
 	```
 </details>
 <details><summary><b><a href="https://github.com/taverntesting/tavern">tavern</a></b> (🥉26 ·  ⭐ 780) - A command-line tool and Python library and Pytest plugin for automated.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/taverntesting/tavern) (👨‍💻 44 · 🔀 150 · 📦 220 · 📋 490 - 8% open · ⏱️ 08.05.2021):
+- [GitHub](https://github.com/taverntesting/tavern) (👨‍💻 44 · 🔀 150 · 📦 230 · 📋 490 - 8% open · ⏱️ 16.05.2021):
 
 	```
 	git clone https://github.com/taverntesting/tavern
@@ -2546,9 +2546,21 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/klen/mixer
 	```
-- [PyPi](https://pypi.org/project/mixer) (📥 69K / month · 📦 600 · ⏱️ 11.01.2021):
+- [PyPi](https://pypi.org/project/mixer) (📥 62K / month · 📦 600 · ⏱️ 11.01.2021):
 	```
 	pip install mixer
+	```
+</details>
+<details><summary><b><a href="https://github.com/Pylons/pyramid_debugtoolbar">pyramid_debugtoolbar</a></b> (🥉26 ·  ⭐ 93) - Pyramid debug toolbar. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://trypyramid.com/img/pyramid-16x16.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/Pylons/pyramid_debugtoolbar) (👨‍💻 65 · 🔀 78 · 📋 180 - 24% open · ⏱️ 25.11.2020):
+
+	```
+	git clone https://github.com/Pylons/pyramid_debugtoolbar
+	```
+- [PyPi](https://pypi.org/project/pyramid_debugtoolbar) (📥 550K / month · 📦 1.3K · ⏱️ 10.09.2018):
+	```
+	pip install pyramid_debugtoolbar
 	```
 </details>
 <details><summary><b><a href="https://github.com/patrys/httmock">httmock</a></b> (🥉25 ·  ⭐ 420 · 💤) - A mocking library for requests. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -2558,7 +2570,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/patrys/httmock
 	```
-- [PyPi](https://pypi.org/project/httmock) (📥 500K / month · 📦 1.2K · ⏱️ 28.10.2020):
+- [PyPi](https://pypi.org/project/httmock) (📥 510K / month · 📦 1.2K · ⏱️ 28.10.2020):
 	```
 	pip install httmock
 	```
@@ -2570,24 +2582,12 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/pnuckowski/aioresponses
 	```
-- [PyPi](https://pypi.org/project/aioresponses) (📥 300K / month · 📦 150 · ⏱️ 09.03.2021):
+- [PyPi](https://pypi.org/project/aioresponses) (📥 290K / month · 📦 150 · ⏱️ 09.03.2021):
 	```
 	pip install aioresponses
 	```
 </details>
-<details><summary><b><a href="https://github.com/Pylons/pyramid_debugtoolbar">pyramid_debugtoolbar</a></b> (🥉25 ·  ⭐ 93) - Pyramid debug toolbar. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://trypyramid.com/img/pyramid-16x16.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/Pylons/pyramid_debugtoolbar) (👨‍💻 65 · 🔀 78 · 📋 180 - 24% open · ⏱️ 25.11.2020):
-
-	```
-	git clone https://github.com/Pylons/pyramid_debugtoolbar
-	```
-- [PyPi](https://pypi.org/project/pyramid_debugtoolbar) (📥 390K / month · 📦 1.3K · ⏱️ 10.09.2018):
-	```
-	pip install pyramid_debugtoolbar
-	```
-</details>
-<details><summary><b><a href="https://github.com/pytest-dev/pytest-splinter">pytest-splinter</a></b> (🥉24 ·  ⭐ 200) - pytest splinter and selenium integration for anyone interested.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/pytest-dev/pytest-splinter">pytest-splinter</a></b> (🥉24 ·  ⭐ 210) - pytest splinter and selenium integration for anyone interested.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/pytest-dev/pytest-splinter) (👨‍💻 28 · 🔀 49 · 📦 320 · 📋 75 - 12% open · ⏱️ 25.12.2020):
 
@@ -2606,19 +2606,19 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/scrapinghub/splash
 	```
-- [PyPi](https://pypi.org/project/splash) (📥 1.5K / month · 📦 18 · ⏱️ 16.06.2020):
+- [PyPi](https://pypi.org/project/splash) (📥 1.4K / month · 📦 18 · ⏱️ 16.06.2020):
 	```
 	pip install splash
 	```
 </details>
 <details><summary><b><a href="https://github.com/mherrmann/selenium-python-helium">selenium-python-helium</a></b> (🥉23 ·  ⭐ 2.5K) - Selenium-python but lighter: Helium is the best.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/mherrmann/selenium-python-helium) (👨‍💻 5 · 🔀 190 · 📦 94 · 📋 38 - 28% open · ⏱️ 23.03.2021):
+- [GitHub](https://github.com/mherrmann/selenium-python-helium) (👨‍💻 5 · 🔀 180 · 📦 94 · 📋 39 - 30% open · ⏱️ 23.03.2021):
 
 	```
 	git clone https://github.com/mherrmann/selenium-python-helium
 	```
-- [PyPi](https://pypi.org/project/helium) (📥 4.8K / month · ⏱️ 14.09.2020):
+- [PyPi](https://pypi.org/project/helium) (📥 4.9K / month · ⏱️ 14.09.2020):
 	```
 	pip install helium
 	```
@@ -2642,7 +2642,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/cdent/gabbi
 	```
-- [PyPi](https://pypi.org/project/gabbi) (📥 10K / month · 📦 200 · ⏱️ 23.02.2021):
+- [PyPi](https://pypi.org/project/gabbi) (📥 11K / month · 📦 200 · ⏱️ 23.02.2021):
 	```
 	pip install gabbi
 	```
@@ -2654,53 +2654,45 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/httprunner/httprunner
 	```
-- [PyPi](https://pypi.org/project/httprunner) (📥 3.3K / month · 📦 6 · ⏱️ 30.07.2020):
+- [PyPi](https://pypi.org/project/httprunner) (📥 2.9K / month · 📦 6 · ⏱️ 30.07.2020):
 	```
 	pip install httprunner
 	```
 </details>
-<details><summary><b><a href="https://github.com/schemathesis/schemathesis">schemathesis</a></b> (🥉22 ·  ⭐ 840) - A modern API testing tool for web applications built with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://graphql.org/img/logo.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/schemathesis/schemathesis">schemathesis</a></b> (🥉22 ·  ⭐ 860) - A modern API testing tool for web applications built with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://graphql.org/img/logo.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/schemathesis/schemathesis) (👨‍💻 29 · 🔀 63 · 📋 520 - 14% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/schemathesis/schemathesis) (👨‍💻 29 · 🔀 64 · 📋 530 - 15% open · ⏱️ 17.05.2021):
 
 	```
 	git clone https://github.com/schemathesis/schemathesis
 	```
-- [PyPi](https://pypi.org/project/schemathesis) (📥 34K / month · ⏱️ 13.05.2021):
+- [PyPi](https://pypi.org/project/schemathesis) (📥 34K / month · ⏱️ 17.05.2021):
 	```
 	pip install schemathesis
 	```
 </details>
-<details><summary><b><a href="https://github.com/mindflayer/python-mocket">python-mocket</a></b> (🥉22 ·  ⭐ 210) - a socket mock framework - for all kinds of socket animals, web-.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
-
-- [GitHub](https://github.com/mindflayer/python-mocket) (👨‍💻 19 · 🔀 33 · 📦 52 · 📋 50 - 6% open · ⏱️ 21.02.2021):
-
-	```
-	git clone https://github.com/mindflayer/python-mocket
-	```
-- [PyPi](https://pypi.org/project/mocket) (📥 8.8K / month · 📦 46 · ⏱️ 21.01.2021):
-	```
-	pip install mocket
-	```
-</details>
-<details><summary><b><a href="https://github.com/model-bakers/model_bakery">Model Bakery</a></b> (🥉21 ·  ⭐ 360) - Object factory for Django. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/model-bakers/model_bakery">Model Bakery</a></b> (🥉21 ·  ⭐ 370) - Object factory for Django. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/model-bakers/model_bakery) (👨‍💻 25 · 🔀 42 · 📋 81 - 27% open · ⏱️ 01.05.2021):
 
 	```
 	git clone https://github.com/model-bakers/model_bakery
 	```
-- [PyPi](https://pypi.org/project/model_bakery) (📥 170K / month · 📦 8 · ⏱️ 17.04.2021):
+- [PyPi](https://pypi.org/project/model_bakery) (📥 150K / month · 📦 8 · ⏱️ 17.04.2021):
 	```
 	pip install model_bakery
 	```
 </details>
-<details><summary><b><a href="https://github.com/mockoon/mockoon">Mockoon</a></b> (🥉20 ·  ⭐ 2.7K) - Mockoon is the easiest and quickest way to run mock APIs locally. No.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/mindflayer/python-mocket">python-mocket</a></b> (🥉21 ·  ⭐ 210) - a socket mock framework - for all kinds of socket animals, web-.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/mockoon/mockoon) (👨‍💻 34 · 🔀 160 · 📥 42K · 📋 350 - 13% open · ⏱️ 10.05.2021):
+- [GitHub](https://github.com/mindflayer/python-mocket) (👨‍💻 19 · 🔀 33 · 📦 52 · 📋 50 - 6% open · ⏱️ 21.02.2021):
 
 	```
-	git clone https://github.com/mockoon/mockoon
+	git clone https://github.com/mindflayer/python-mocket
+	```
+- [PyPi](https://pypi.org/project/mocket) (📥 8K / month · 📦 46 · ⏱️ 21.01.2021):
+	```
+	pip install mocket
 	```
 </details>
 <details><summary><b><a href="https://github.com/aresponses/aresponses">aresponses</a></b> (🥉20 ·  ⭐ 83) - Asyncio http mocking. Similar to the responses library used for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -2717,7 +2709,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/vinissimus/async-asgi-testclient">async-asgi-testclient</a></b> (🥉20 ·  ⭐ 73) - A framework-agnostic library for testing ASGI web.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/vinissimus/async-asgi-testclient) (👨‍💻 10 · 🔀 9 · 📦 60 · 📋 12 - 8% open · ⏱️ 02.03.2021):
+- [GitHub](https://github.com/vinissimus/async-asgi-testclient) (👨‍💻 10 · 🔀 9 · 📦 61 · 📋 12 - 8% open · ⏱️ 02.03.2021):
 
 	```
 	git clone https://github.com/vinissimus/async-asgi-testclient
@@ -2727,33 +2719,41 @@ _General purpose web frameworks to build web applications and REST APIs._
 	pip install async-asgi-testclient
 	```
 </details>
+<details><summary><b><a href="https://github.com/mockoon/mockoon">Mockoon</a></b> (🥉19 ·  ⭐ 2.8K) - Mockoon is the easiest and quickest way to run mock APIs locally. No.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/mockoon/mockoon) (👨‍💻 36 · 🔀 160 · 📥 19K · 📋 350 - 13% open · ⏱️ 19.05.2021):
+
+	```
+	git clone https://github.com/mockoon/mockoon
+	```
+</details>
 <details><summary><b><a href="https://github.com/golemhq/golem">golem</a></b> (🥉19 ·  ⭐ 450) - A complete test automation tool. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/golemhq/golem) (👨‍💻 18 · 🔀 69 · 📥 43 · 📦 4 · 📋 130 - 15% open · ⏱️ 21.04.2021):
+- [GitHub](https://github.com/golemhq/golem) (👨‍💻 19 · 🔀 69 · 📥 43 · 📦 4 · 📋 130 - 15% open · ⏱️ 17.05.2021):
 
 	```
 	git clone https://github.com/golemhq/golem
 	```
-- [PyPi](https://pypi.org/project/golem-framework) (📥 380 / month · 📦 1 · ⏱️ 15.04.2021):
+- [PyPi](https://pypi.org/project/golem-framework) (📥 410 / month · 📦 1 · ⏱️ 15.04.2021):
 	```
 	pip install golem-framework
 	```
 </details>
-<details><summary><b><a href="https://github.com/loads/molotov">molotov</a></b> (🥉19 ·  ⭐ 320) - Load Testing Tool. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/loads/molotov">molotov</a></b> (🥉19 ·  ⭐ 330) - Load Testing Tool. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/loads/molotov) (👨‍💻 12 · 🔀 25 · 📦 62 · 📋 100 - 16% open · ⏱️ 21.12.2020):
 
 	```
 	git clone https://github.com/loads/molotov
 	```
-- [PyPi](https://pypi.org/project/molotov) (📥 990 / month · 📦 20 · ⏱️ 18.11.2020):
+- [PyPi](https://pypi.org/project/molotov) (📥 1K / month · 📦 20 · ⏱️ 18.11.2020):
 	```
 	pip install molotov
 	```
 </details>
 <details><summary><b><a href="https://github.com/fsociety-team/fsociety">fsociety</a></b> (🥉15 ·  ⭐ 320) - A Modular Penetration Testing Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/fsociety-team/fsociety) (👨‍💻 3 · 🔀 46 · ⏱️ 11.05.2021):
+- [GitHub](https://github.com/fsociety-team/fsociety) (👨‍💻 3 · 🔀 46 · 📦 1 · ⏱️ 14.05.2021):
 
 	```
 	git clone https://github.com/fsociety-team/fsociety
@@ -2781,28 +2781,28 @@ _General purpose web frameworks to build web applications and REST APIs._
 
 <details><summary><b><a href="https://github.com/wtforms/wtforms">wtforms</a></b> (🥇33 ·  ⭐ 1.2K) - A flexible forms validation and rendering library for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/wtforms/wtforms) (👨‍💻 130 · 🔀 340 · 📦 94K · 📋 380 - 12% open · ⏱️ 28.04.2021):
+- [GitHub](https://github.com/wtforms/wtforms) (👨‍💻 130 · 🔀 340 · 📦 95K · 📋 380 - 12% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/wtforms/wtforms
 	```
-- [PyPi](https://pypi.org/project/wtforms) (📥 2.3M / month · 📦 29K · ⏱️ 23.11.2020):
+- [PyPi](https://pypi.org/project/wtforms) (📥 2.2M / month · 📦 29K · ⏱️ 23.11.2020):
 	```
 	pip install wtforms
 	```
-- [Conda](https://anaconda.org/conda-forge/wtforms) (📥 69K · ⏱️ 29.07.2020):
+- [Conda](https://anaconda.org/conda-forge/wtforms) (📥 70K · ⏱️ 29.07.2020):
 	```
 	conda install -c conda-forge wtforms
 	```
 </details>
 <details><summary><b><a href="https://github.com/django-crispy-forms/django-crispy-forms">django-crispy-forms</a></b> (🥈32 ·  ⭐ 4.2K) - The best way to have DRY Django forms. The app.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/django-crispy-forms/django-crispy-forms) (👨‍💻 220 · 🔀 680 · 📦 62K · 📋 640 - 13% open · ⏱️ 11.05.2021):
+- [GitHub](https://github.com/django-crispy-forms/django-crispy-forms) (👨‍💻 220 · 🔀 680 · 📦 63K · 📋 640 - 13% open · ⏱️ 15.05.2021):
 
 	```
 	git clone https://github.com/django-crispy-forms/django-crispy-forms
 	```
-- [PyPi](https://pypi.org/project/django-crispy-forms) (📥 530K / month · 📦 16K · ⏱️ 21.03.2021):
+- [PyPi](https://pypi.org/project/django-crispy-forms) (📥 520K / month · 📦 16K · ⏱️ 21.03.2021):
 	```
 	pip install django-crispy-forms
 	```
@@ -2813,7 +2813,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/lepture/flask-wtf">flask-wtf</a></b> (🥈32 ·  ⭐ 1.2K) - Simple integration of Flask and WTForms, including CSRF, file.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/lepture/flask-wtf) (👨‍💻 89 · 🔀 270 · 📦 100K · 📋 290 - 12% open · ⏱️ 01.03.2021):
+- [GitHub](https://github.com/lepture/flask-wtf) (👨‍💻 89 · 🔀 270 · 📦 100K · 📋 290 - 12% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/lepture/flask-wtf
@@ -2827,14 +2827,14 @@ _General purpose web frameworks to build web applications and REST APIs._
 	conda install -c conda-forge flask-wtf
 	```
 </details>
-<details><summary><b><a href="https://github.com/jazzband/django-formtools">django-formtools</a></b> (🥉26 ·  ⭐ 470) - A set of high-level abstractions for Django forms. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/jazzband/django-formtools">django-formtools</a></b> (🥉26 ·  ⭐ 480) - A set of high-level abstractions for Django forms. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/jazzband/django-formtools) (👨‍💻 64 · 🔀 100 · 📦 6.6K · 📋 120 - 50% open · ⏱️ 18.04.2021):
 
 	```
 	git clone https://github.com/jazzband/django-formtools
 	```
-- [PyPi](https://pypi.org/project/django-formtools) (📥 220K / month · 📦 2.3K · ⏱️ 19.04.2021):
+- [PyPi](https://pypi.org/project/django-formtools) (📥 230K / month · 📦 2.3K · ⏱️ 19.04.2021):
 	```
 	pip install django-formtools
 	```
@@ -2846,7 +2846,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/Pylons/deform
 	```
-- [PyPi](https://pypi.org/project/deform) (📥 7.2K / month · 📦 350 · ⏱️ 10.12.2020):
+- [PyPi](https://pypi.org/project/deform) (📥 7.1K / month · 📦 350 · ⏱️ 10.12.2020):
 	```
 	pip install deform
 	```
@@ -2873,9 +2873,9 @@ _General purpose web frameworks to build web applications and REST APIs._
 	conda install -c conda-forge markdown
 	```
 </details>
-<details><summary><b><a href="https://github.com/lepture/mistune">mistune</a></b> (🥇33 ·  ⭐ 1.9K) - A fast yet powerful Python Markdown parser with renderers and plugins. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/lepture/mistune">mistune</a></b> (🥇33 ·  ⭐ 2K) - A fast yet powerful Python Markdown parser with renderers and plugins. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/lepture/mistune) (👨‍💻 30 · 🔀 200 · 📦 110K · 📋 210 - 11% open · ⏱️ 07.03.2021):
+- [GitHub](https://github.com/lepture/mistune) (👨‍💻 31 · 🔀 200 · 📦 110K · 📋 210 - 11% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/lepture/mistune
@@ -2896,7 +2896,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/getpelican/pelican
 	```
-- [PyPi](https://pypi.org/project/pelican) (📥 26K / month · 📦 3.4K · ⏱️ 23.03.2021):
+- [PyPi](https://pypi.org/project/pelican) (📥 27K / month · 📦 3.4K · ⏱️ 23.03.2021):
 	```
 	pip install pelican
 	```
@@ -2912,14 +2912,14 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/trentm/python-markdown2
 	```
-- [PyPi](https://pypi.org/project/markdown2) (📥 440K / month · 📦 4.4K · ⏱️ 22.01.2021):
+- [PyPi](https://pypi.org/project/markdown2) (📥 460K / month · 📦 4.4K · ⏱️ 22.01.2021):
 	```
 	pip install markdown2
 	```
 </details>
 <details><summary><b><a href="https://github.com/Alir3z4/html2text">html2text</a></b> (🥈27 ·  ⭐ 1.1K) - Convert HTML to Markdown-formatted text. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/Alir3z4/html2text) (👨‍💻 74 · 🔀 190 · 📋 180 - 33% open · ⏱️ 05.05.2021):
+- [GitHub](https://github.com/Alir3z4/html2text) (👨‍💻 74 · 🔀 190 · 📋 180 - 34% open · ⏱️ 05.05.2021):
 
 	```
 	git clone https://github.com/Alir3z4/html2text
@@ -2931,7 +2931,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/facelessuser/pymdown-extensions">pymdown-extensions</a></b> (🥈27 ·  ⭐ 480) - Extensions for Python Markdown. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/facelessuser/pymdown-extensions) (👨‍💻 26 · 🔀 180 · 📦 5.2K · 📋 250 - 5% open · ⏱️ 08.05.2021):
+- [GitHub](https://github.com/facelessuser/pymdown-extensions) (👨‍💻 26 · 🔀 180 · 📦 5.3K · 📋 250 - 5% open · ⏱️ 08.05.2021):
 
 	```
 	git clone https://github.com/facelessuser/pymdown-extensions
@@ -2947,40 +2947,40 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/agusmakmun/django-markdown-editor">django-markdown-editor</a></b> (🥉24 ·  ⭐ 450) - Awesome Django Markdown Editor, supported for.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/agusmakmun/django-markdown-editor) (👨‍💻 23 · 🔀 620 · 📦 400 · 📋 100 - 21% open · ⏱️ 07.04.2021):
+- [GitHub](https://github.com/agusmakmun/django-markdown-editor) (👨‍💻 23 · 🔀 630 · 📦 400 · 📋 100 - 21% open · ⏱️ 07.04.2021):
 
 	```
 	git clone https://github.com/agusmakmun/django-markdown-editor
 	```
-- [PyPi](https://pypi.org/project/martor) (📥 8K / month · 📦 40 · ⏱️ 05.04.2021):
+- [PyPi](https://pypi.org/project/martor) (📥 7.7K / month · 📦 40 · ⏱️ 05.04.2021):
 	```
 	pip install martor
 	```
 </details>
-<details><summary><b><a href="https://github.com/executablebooks/markdown-it-py">markdown-it-py</a></b> (🥉21 ·  ⭐ 170) - Markdown parser, done right. 100% CommonMark support, extensions,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/executablebooks/markdown-it-py">markdown-it-py</a></b> (🥉21 ·  ⭐ 180) - Markdown parser, done right. 100% CommonMark support, extensions,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/executablebooks/markdown-it-py) (👨‍💻 13 · 🔀 21 · 📋 49 - 32% open · ⏱️ 08.05.2021):
 
 	```
 	git clone https://github.com/executablebooks/markdown-it-py
 	```
-- [PyPi](https://pypi.org/project/markdown-it-py) (📥 250K / month · ⏱️ 08.05.2021):
+- [PyPi](https://pypi.org/project/markdown-it-py) (📥 290K / month · ⏱️ 08.05.2021):
 	```
 	pip install markdown-it-py
 	```
-- [Conda](https://anaconda.org/conda-forge/markdown-it-py) (📥 96K · ⏱️ 10.05.2021):
+- [Conda](https://anaconda.org/conda-forge/markdown-it-py) (📥 99K · ⏱️ 10.05.2021):
 	```
 	conda install -c conda-forge markdown-it-py
 	```
 </details>
 <details><summary><b><a href="https://github.com/cmacmackin/markdown-include">markdown-include</a></b> (🥉21 ·  ⭐ 55 · 💤) - Provides syntax for Python-Markdown which allows for.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/cmacmackin/markdown-include) (👨‍💻 8 · 🔀 27 · 📦 880 · 📋 19 - 47% open · ⏱️ 20.08.2020):
+- [GitHub](https://github.com/cmacmackin/markdown-include) (👨‍💻 8 · 🔀 28 · 📦 890 · 📋 19 - 47% open · ⏱️ 20.08.2020):
 
 	```
 	git clone https://github.com/cmacmackin/markdown-include
 	```
-- [PyPi](https://pypi.org/project/markdown-include) (📥 66K / month · 📦 310 · ⏱️ 20.08.2020):
+- [PyPi](https://pypi.org/project/markdown-include) (📥 61K / month · 📦 310 · ⏱️ 20.08.2020):
 	```
 	pip install markdown-include
 	```
@@ -2989,7 +2989,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 
 - <b><a href="https://github.com/joeyespo/grip">grip</a></b> (🥈27 ·  ⭐ 5.2K · 💀) - Preview GitHub README.md files locally before committing them. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/neutronX/django-markdownx">django-markdownx</a></b> (🥉25 ·  ⭐ 670 · 💀) - Comprehensive Markdown plugin built for Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/miyuchina/mistletoe">mistletoe</a></b> (🥉23 ·  ⭐ 380 · 💀) - A fast, extensible and spec-compliant Markdown parser in pure Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/miyuchina/mistletoe">mistletoe</a></b> (🥉22 ·  ⭐ 380 · 💀) - A fast, extensible and spec-compliant Markdown parser in pure Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
 <br>
 
@@ -3003,56 +3003,56 @@ _General purpose web frameworks to build web applications and REST APIs._
 
 <details><summary><b><a href="https://github.com/ytdl-org/youtube-dl">youtube-dl</a></b> (🥇37 ·  ⭐ 95K) - Command-line program to download videos from YouTube.com and.. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code></summary>
 
-- [GitHub](https://github.com/ytdl-org/youtube-dl) (👨‍💻 960 · 🔀 4.9K · 📥 42M · 📋 24K - 16% open · ⏱️ 04.05.2021):
+- [GitHub](https://github.com/ytdl-org/youtube-dl) (👨‍💻 960 · 🔀 4.9K · 📥 41M · 📋 24K - 16% open · ⏱️ 17.05.2021):
 
 	```
 	git clone https://github.com/ytdl-org/youtube-dl
 	```
-- [PyPi](https://pypi.org/project/youtube_dl) (📥 3.3M / month · 📦 2.9K · ⏱️ 25.04.2021):
+- [PyPi](https://pypi.org/project/youtube_dl) (📥 3.4M / month · 📦 2.9K · ⏱️ 16.05.2021):
 	```
 	pip install youtube_dl
 	```
-- [Conda](https://anaconda.org/conda-forge/youtube-dl) (📥 720K · ⏱️ 25.04.2021):
+- [Conda](https://anaconda.org/conda-forge/youtube-dl) (📥 730K · ⏱️ 16.05.2021):
 	```
 	conda install -c conda-forge youtube-dl
 	```
 </details>
 <details><summary><b><a href="https://github.com/googleapis/google-api-python-client">google-api-python-client</a></b> (🥇37 ·  ⭐ 4.7K) - The official Python client library for Google's.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/googleapis/google-api-python-client) (👨‍💻 160 · 🔀 1.9K · 📥 90 · 📦 60K · 📋 770 - 3% open · ⏱️ 12.05.2021):
+- [GitHub](https://github.com/googleapis/google-api-python-client) (👨‍💻 160 · 🔀 1.9K · 📥 90 · 📦 61K · 📋 770 - 3% open · ⏱️ 20.05.2021):
 
 	```
 	git clone https://github.com/googleapis/google-api-python-client
 	```
-- [PyPi](https://pypi.org/project/google-api-python-client) (📥 25M / month · 📦 13K · ⏱️ 12.05.2021):
+- [PyPi](https://pypi.org/project/google-api-python-client) (📥 25M / month · 📦 13K · ⏱️ 20.05.2021):
 	```
 	pip install google-api-python-client
 	```
-- [Conda](https://anaconda.org/conda-forge/google-api-python-client) (📥 690K · ⏱️ 12.05.2021):
+- [Conda](https://anaconda.org/conda-forge/google-api-python-client) (📥 700K · ⏱️ 20.05.2021):
 	```
 	conda install -c conda-forge google-api-python-client
 	```
 </details>
-<details><summary><b><a href="https://github.com/Rapptz/discord.py">discord.py</a></b> (🥇36 ·  ⭐ 7.4K) - An API wrapper for Discord written in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/Rapptz/discord.py">discord.py</a></b> (🥇36 ·  ⭐ 7.5K) - An API wrapper for Discord written in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Rapptz/discord.py) (👨‍💻 250 · 🔀 2.1K · 📦 33K · 📋 2.3K - 3% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/Rapptz/discord.py) (👨‍💻 250 · 🔀 2.1K · 📦 34K · 📋 2.3K - 3% open · ⏱️ 16.05.2021):
 
 	```
 	git clone https://github.com/Rapptz/discord.py
 	```
-- [PyPi](https://pypi.org/project/discord.py) (📥 6.7M / month · 📦 4.6K · ⏱️ 03.05.2021):
+- [PyPi](https://pypi.org/project/discord.py) (📥 7.7M / month · 📦 4.6K · ⏱️ 03.05.2021):
 	```
 	pip install discord.py
 	```
 </details>
-<details><summary><b><a href="https://github.com/tweepy/tweepy">tweepy</a></b> (🥇35 ·  ⭐ 7.7K) - Twitter for Python!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/tweepy/tweepy">tweepy</a></b> (🥇35 ·  ⭐ 7.8K) - Twitter for Python!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tweepy/tweepy) (👨‍💻 220 · 🔀 3.5K · 📦 25K · 📋 990 - 8% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/tweepy/tweepy) (👨‍💻 220 · 🔀 3.5K · 📦 25K · 📋 990 - 8% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/tweepy/tweepy
 	```
-- [PyPi](https://pypi.org/project/tweepy) (📥 440K / month · 📦 8.3K · ⏱️ 26.12.2020):
+- [PyPi](https://pypi.org/project/tweepy) (📥 450K / month · 📦 8.3K · ⏱️ 26.12.2020):
 	```
 	pip install tweepy
 	```
@@ -3063,34 +3063,18 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/gitpython-developers/GitPython">GitPython</a></b> (🥇35 ·  ⭐ 3.1K) - GitPython is a python library used to interact with Git repositories. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/gitpython-developers/GitPython) (👨‍💻 230 · 🔀 680 · 📦 37K · 📋 760 - 16% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/gitpython-developers/GitPython) (👨‍💻 230 · 🔀 680 · 📦 38K · 📋 760 - 16% open · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/gitpython-developers/GitPython
 	```
-- [PyPi](https://pypi.org/project/gitpython) (📥 13M / month · 📦 11K · ⏱️ 13.05.2021):
+- [PyPi](https://pypi.org/project/gitpython) (📥 14M / month · 📦 11K · ⏱️ 14.05.2021):
 	```
 	pip install gitpython
 	```
-- [Conda](https://anaconda.org/conda-forge/gitpython) (📥 1.7M · ⏱️ 13.05.2021):
+- [Conda](https://anaconda.org/conda-forge/gitpython) (📥 1.7M · ⏱️ 14.05.2021):
 	```
 	conda install -c conda-forge gitpython
-	```
-</details>
-<details><summary><b><a href="https://github.com/python-telegram-bot/python-telegram-bot">python-telegram-bot</a></b> (🥇34 ·  ⭐ 15K) - We have made you a wrapper you can't refuse. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code></summary>
-
-- [GitHub](https://github.com/python-telegram-bot/python-telegram-bot) (👨‍💻 150 · 🔀 3.1K · 📥 3.5K · 📦 29K · 📋 1.4K - 1% open · ⏱️ 05.05.2021):
-
-	```
-	git clone https://github.com/python-telegram-bot/python-telegram-bot
-	```
-- [PyPi](https://pypi.org/project/python-telegram-bot) (📥 470K / month · 📦 4.3K · ⏱️ 30.04.2021):
-	```
-	pip install python-telegram-bot
-	```
-- [Conda](https://anaconda.org/conda-forge/python-telegram-bot) (📥 32K · ⏱️ 03.05.2021):
-	```
-	conda install -c conda-forge python-telegram-bot
 	```
 </details>
 <details><summary><b><a href="https://github.com/PyGithub/PyGithub">PyGithub</a></b> (🥇34 ·  ⭐ 4.3K) - Typed interactions with the GitHub API v3. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code></summary>
@@ -3100,7 +3084,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/PyGithub/PyGithub
 	```
-- [PyPi](https://pypi.org/project/pygithub) (📥 4.2M / month · 📦 3.8K · ⏱️ 26.04.2021):
+- [PyPi](https://pypi.org/project/pygithub) (📥 4.3M / month · 📦 3.8K · ⏱️ 26.04.2021):
 	```
 	pip install pygithub
 	```
@@ -3109,21 +3093,49 @@ _General purpose web frameworks to build web applications and REST APIs._
 	conda install -c conda-forge pygithub
 	```
 </details>
+<details><summary><b><a href="https://github.com/python-telegram-bot/python-telegram-bot">python-telegram-bot</a></b> (🥈33 ·  ⭐ 15K · 📉) - We have made you a wrapper you can't refuse. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/python-telegram-bot/python-telegram-bot) (👨‍💻 160 · 🔀 3.1K · 📥 3.5K · 📦 29K · 📋 1.4K - 1% open · ⏱️ 19.05.2021):
+
+	```
+	git clone https://github.com/python-telegram-bot/python-telegram-bot
+	```
+- [PyPi](https://pypi.org/project/python-telegram-bot) (📥 420K / month · 📦 4.3K · ⏱️ 30.04.2021):
+	```
+	pip install python-telegram-bot
+	```
+- [Conda](https://anaconda.org/conda-forge/python-telegram-bot) (📥 33K · ⏱️ 03.05.2021):
+	```
+	conda install -c conda-forge python-telegram-bot
+	```
+</details>
 <details><summary><b><a href="https://github.com/LonamiWebs/Telethon">Telethon</a></b> (🥈32 ·  ⭐ 4.9K) - Pure Python 3 MTProto API Telegram client library, for bots too!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/LonamiWebs/Telethon) (👨‍💻 130 · 🔀 740 · 📦 13K · 📋 1.5K - 3% open · ⏱️ 09.05.2021):
+- [GitHub](https://github.com/LonamiWebs/Telethon) (👨‍💻 130 · 🔀 740 · 📦 13K · 📋 1.5K - 3% open · ⏱️ 16.05.2021):
 
 	```
 	git clone https://github.com/LonamiWebs/Telethon
 	```
-- [PyPi](https://pypi.org/project/telethon) (📥 1.5M / month · 📦 540 · ⏱️ 14.03.2021):
+- [PyPi](https://pypi.org/project/telethon) (📥 2.2M / month · 📦 540 · ⏱️ 14.03.2021):
 	```
 	pip install telethon
 	```
 </details>
+<details><summary><b><a href="https://github.com/eternnoir/pyTelegramBotAPI">pyTelegramBotAPI</a></b> (🥈32 ·  ⭐ 4.2K · 📈) - Python Telegram bot api. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code></summary>
+
+- [GitHub](https://github.com/eternnoir/pyTelegramBotAPI) (👨‍💻 150 · 🔀 1.1K · 📦 14K · 📋 760 - 1% open · ⏱️ 20.05.2021):
+
+	```
+	git clone https://github.com/eternnoir/pyTelegramBotAPI
+	```
+- [PyPi](https://pypi.org/project/pytelegrambotapi) (📥 270K / month · 📦 1.7K · ⏱️ 15.05.2021):
+	```
+	pip install pytelegrambotapi
+	```
+</details>
 <details><summary><b><a href="https://github.com/praw-dev/praw">praw</a></b> (🥈32 ·  ⭐ 2.5K) - PRAW, an acronym for Python Reddit API Wrapper, is a python package that.. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
-- [GitHub](https://github.com/praw-dev/praw) (👨‍💻 210 · 🔀 410 · 📦 8.4K · 📋 660 - 7% open · ⏱️ 10.05.2021):
+- [GitHub](https://github.com/praw-dev/praw) (👨‍💻 210 · 🔀 410 · 📦 8.5K · 📋 660 - 7% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/praw-dev/praw
@@ -3137,9 +3149,9 @@ _General purpose web frameworks to build web applications and REST APIs._
 	conda install -c conda-forge praw
 	```
 </details>
-<details><summary><b><a href="https://github.com/pycontribs/jira">jira</a></b> (🥈32 ·  ⭐ 1.3K · 📈) - Python JIRA Library is the easiest way to automate JIRA. Support for.. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
+<details><summary><b><a href="https://github.com/pycontribs/jira">jira</a></b> (🥈32 ·  ⭐ 1.4K) - Python JIRA Library is the easiest way to automate JIRA. Support for py27.. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
-- [GitHub](https://github.com/pycontribs/jira) (👨‍💻 200 · 🔀 670 · 📥 650 · 📋 560 - 20% open · ⏱️ 12.05.2021):
+- [GitHub](https://github.com/pycontribs/jira) (👨‍💻 200 · 🔀 670 · 📥 650 · 📋 570 - 19% open · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/pycontribs/jira
@@ -3148,31 +3160,31 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	pip install jira
 	```
-- [Conda](https://anaconda.org/conda-forge/jira) (📥 53K · ⏱️ 17.07.2018):
+- [Conda](https://anaconda.org/conda-forge/jira) (📥 54K · ⏱️ 17.07.2018):
 	```
 	conda install -c conda-forge jira
 	```
 </details>
 <details><summary><b><a href="https://github.com/stripe/stripe-python">stripe</a></b> (🥈32 ·  ⭐ 1K) - Python library for the Stripe API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/stripe/stripe-python) (👨‍💻 110 · 🔀 280 · 📦 15K · 📋 280 - 4% open · ⏱️ 02.03.2021):
+- [GitHub](https://github.com/stripe/stripe-python) (👨‍💻 110 · 🔀 290 · 📦 15K · 📋 280 - 4% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/stripe/stripe-python
 	```
-- [PyPi](https://pypi.org/project/stripe) (📥 1.1M / month · 📦 3.8K · ⏱️ 22.02.2021):
+- [PyPi](https://pypi.org/project/stripe) (📥 1.1M / month · 📦 3.8K · ⏱️ 19.05.2021):
 	```
 	pip install stripe
 	```
 </details>
-<details><summary><b><a href="https://github.com/burnash/gspread">gspread</a></b> (🥈31 ·  ⭐ 5.3K) - Google Sheets Python API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/burnash/gspread">gspread</a></b> (🥈31 ·  ⭐ 5.4K) - Google Sheets Python API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/burnash/gspread) (👨‍💻 120 · 🔀 800 · 📦 10K · 📋 650 - 25% open · ⏱️ 07.05.2021):
+- [GitHub](https://github.com/burnash/gspread) (👨‍💻 120 · 🔀 800 · 📦 10K · 📋 670 - 24% open · ⏱️ 17.05.2021):
 
 	```
 	git clone https://github.com/burnash/gspread
 	```
-- [PyPi](https://pypi.org/project/gspread) (📥 2.8M / month · 📦 1.6K · ⏱️ 18.02.2021):
+- [PyPi](https://pypi.org/project/gspread) (📥 3M / month · 📦 1.6K · ⏱️ 18.02.2021):
 	```
 	pip install gspread
 	```
@@ -3183,43 +3195,31 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/pytube/pytube">pytube</a></b> (🥈31 ·  ⭐ 4.3K) - A lightweight, dependency-free Python library (and command-line.. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code></summary>
 
-- [GitHub](https://github.com/pytube/pytube) (👨‍💻 90 · 🔀 1K · 📦 6.6K · 📋 570 - 1% open · ⏱️ 09.05.2021):
+- [GitHub](https://github.com/pytube/pytube) (👨‍💻 90 · 🔀 1K · 📦 6.7K · 📋 580 - 2% open · ⏱️ 09.05.2021):
 
 	```
 	git clone https://github.com/pytube/pytube
 	```
-- [PyPi](https://pypi.org/project/pytube) (📥 190K / month · 📦 420 · ⏱️ 09.05.2021):
+- [PyPi](https://pypi.org/project/pytube) (📥 200K / month · 📦 420 · ⏱️ 09.05.2021):
 	```
 	pip install pytube
 	```
 </details>
-<details><summary><b><a href="https://github.com/eternnoir/pyTelegramBotAPI">pyTelegramBotAPI</a></b> (🥈31 ·  ⭐ 4.2K) - Python Telegram bot api. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code></summary>
-
-- [GitHub](https://github.com/eternnoir/pyTelegramBotAPI) (👨‍💻 150 · 🔀 1.1K · 📦 14K · 📋 760 - 1% open · ⏱️ 11.05.2021):
-
-	```
-	git clone https://github.com/eternnoir/pyTelegramBotAPI
-	```
-- [PyPi](https://pypi.org/project/pytelegrambotapi) (📥 270K / month · 📦 1.7K · ⏱️ 28.03.2021):
-	```
-	pip install pytelegrambotapi
-	```
-</details>
 <details><summary><b><a href="https://github.com/googlemaps/google-maps-services-python">google-maps-services-python</a></b> (🥈31 ·  ⭐ 3.2K) - Python client library for Google Maps API Web Services. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/googlemaps/google-maps-services-python) (👨‍💻 57 · 🔀 1.1K · 📦 5.5K · 📋 210 - 8% open · ⏱️ 29.04.2021):
+- [GitHub](https://github.com/googlemaps/google-maps-services-python) (👨‍💻 57 · 🔀 1.1K · 📦 5.6K · 📋 210 - 8% open · ⏱️ 29.04.2021):
 
 	```
 	git clone https://github.com/googlemaps/google-maps-services-python
 	```
-- [PyPi](https://pypi.org/project/googlemaps) (📥 660K / month · 📦 2.3K · ⏱️ 28.07.2020):
+- [PyPi](https://pypi.org/project/googlemaps) (📥 610K / month · 📦 2.3K · ⏱️ 28.07.2020):
 	```
 	pip install googlemaps
 	```
 </details>
 <details><summary><b><a href="https://github.com/timgrossmann/InstaPy">InstaPy</a></b> (🥈30 ·  ⭐ 13K) - Instagram Bot - Tool for automated Instagram interactions. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/timgrossmann/InstaPy) (👨‍💻 300 · 🔀 3.2K · 📦 400 · 📋 5.1K - 4% open · ⏱️ 12.03.2021):
+- [GitHub](https://github.com/timgrossmann/InstaPy) (👨‍💻 300 · 🔀 3.2K · 📦 410 · 📋 5.1K - 4% open · ⏱️ 12.03.2021):
 
 	```
 	git clone https://github.com/timgrossmann/InstaPy
@@ -3231,12 +3231,12 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/plamere/spotipy">spotipy</a></b> (🥈30 ·  ⭐ 3.2K) - A light weight Python library for the Spotify Web API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/plamere/spotipy) (👨‍💻 140 · 🔀 680 · 📦 4.7K · 📋 400 - 6% open · ⏱️ 25.04.2021):
+- [GitHub](https://github.com/plamere/spotipy) (👨‍💻 140 · 🔀 680 · 📦 4.8K · 📋 400 - 6% open · ⏱️ 25.04.2021):
 
 	```
 	git clone https://github.com/plamere/spotipy
 	```
-- [PyPi](https://pypi.org/project/spotipy) (📥 230K / month · 📦 920 · ⏱️ 28.02.2021):
+- [PyPi](https://pypi.org/project/spotipy) (📥 240K / month · 📦 920 · ⏱️ 28.02.2021):
 	```
 	pip install spotipy
 	```
@@ -3248,7 +3248,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/goldsmith/Wikipedia
 	```
-- [PyPi](https://pypi.org/project/wikipedia) (📥 240K / month · 📦 1.9K · ⏱️ 15.11.2014):
+- [PyPi](https://pypi.org/project/wikipedia) (📥 250K / month · 📦 1.9K · ⏱️ 15.11.2014):
 	```
 	pip install wikipedia
 	```
@@ -3259,16 +3259,16 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/twilio/twilio-python">twilio</a></b> (🥈30 ·  ⭐ 1.5K) - A Python module for communicating with the Twilio API and generating TwiML. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/twilio/twilio-python) (👨‍💻 120 · 🔀 570 · 📦 16K · 📋 250 - 3% open · ⏱️ 05.05.2021):
+- [GitHub](https://github.com/twilio/twilio-python) (👨‍💻 120 · 🔀 570 · 📦 16K · 📋 250 - 2% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/twilio/twilio-python
 	```
-- [PyPi](https://pypi.org/project/twilio) (📥 1.6M / month · 📦 6.7K · ⏱️ 07.04.2021):
+- [PyPi](https://pypi.org/project/twilio) (📥 1.6M / month · 📦 6.7K · ⏱️ 19.05.2021):
 	```
 	pip install twilio
 	```
-- [Conda](https://anaconda.org/conda-forge/twilio) (📥 48K · ⏱️ 05.05.2021):
+- [Conda](https://anaconda.org/conda-forge/twilio) (📥 48K · ⏱️ 19.05.2021):
 	```
 	conda install -c conda-forge twilio
 	```
@@ -3280,14 +3280,14 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/thumbor/thumbor
 	```
-- [PyPi](https://pypi.org/project/thumbor) (📥 19K / month · 📦 370 · ⏱️ 25.03.2020):
+- [PyPi](https://pypi.org/project/thumbor) (📥 16K / month · 📦 370 · ⏱️ 25.03.2020):
 	```
 	pip install thumbor
 	```
 </details>
 <details><summary><b><a href="https://github.com/slackapi/python-slack-sdk">slackclient</a></b> (🥈29 ·  ⭐ 3.1K) - Slack Developer Kit for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/slackapi/python-slack-sdk) (👨‍💻 120 · 🔀 730 · 📥 310 · 📋 530 - 1% open · ⏱️ 07.05.2021):
+- [GitHub](https://github.com/slackapi/python-slack-sdk) (👨‍💻 120 · 🔀 730 · 📥 310 · 📋 540 - 1% open · ⏱️ 07.05.2021):
 
 	```
 	git clone https://github.com/slackapi/python-slack-sdk
@@ -3296,7 +3296,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	pip install slackclient
 	```
-- [Conda](https://anaconda.org/conda-forge/slackclient) (📥 310K · ⏱️ 13.01.2021):
+- [Conda](https://anaconda.org/conda-forge/slackclient) (📥 320K · ⏱️ 13.01.2021):
 	```
 	conda install -c conda-forge slackclient
 	```
@@ -3327,12 +3327,12 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/ssut/py-googletrans">py-googletrans</a></b> (🥈29 ·  ⭐ 2.4K) - (unofficial) Googletrans: Free and Unlimited Google translate.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ssut/py-googletrans) (👨‍💻 25 · 🔀 450 · 📦 15K · 📋 210 - 10% open · ⏱️ 10.03.2021):
+- [GitHub](https://github.com/ssut/py-googletrans) (👨‍💻 25 · 🔀 450 · 📦 15K · 📋 220 - 8% open · ⏱️ 10.03.2021):
 
 	```
 	git clone https://github.com/ssut/py-googletrans
 	```
-- [PyPi](https://pypi.org/project/googletrans) (📥 1.1M / month · 📦 890 · ⏱️ 09.12.2020):
+- [PyPi](https://pypi.org/project/googletrans) (📥 1.2M / month · 📦 890 · ⏱️ 09.12.2020):
 	```
 	pip install googletrans
 	```
@@ -3344,7 +3344,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/os/slacker
 	```
-- [PyPi](https://pypi.org/project/slacker) (📥 820K / month · 📦 2K · ⏱️ 15.02.2020):
+- [PyPi](https://pypi.org/project/slacker) (📥 830K / month · 📦 2K · ⏱️ 15.02.2020):
 	```
 	pip install slacker
 	```
@@ -3355,7 +3355,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/simple-salesforce/simple-salesforce">simple-salesforce</a></b> (🥈29 ·  ⭐ 1.1K) - A very simple Salesforce.com REST API client for Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/simple-salesforce/simple-salesforce) (👨‍💻 68 · 🔀 490 · 📋 300 - 41% open · ⏱️ 26.04.2021):
+- [GitHub](https://github.com/simple-salesforce/simple-salesforce) (👨‍💻 68 · 🔀 490 · 📋 300 - 41% open · ⏱️ 13.05.2021):
 
 	```
 	git clone https://github.com/simple-salesforce/simple-salesforce
@@ -3369,6 +3369,18 @@ _General purpose web frameworks to build web applications and REST APIs._
 	conda install -c conda-forge simple-salesforce
 	```
 </details>
+<details><summary><b><a href="https://github.com/arc298/instagram-scraper">instagram-scraper</a></b> (🥉28 ·  ⭐ 5K · 📈) - Scrapes an instagram user's photos and videos. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code></summary>
+
+- [GitHub](https://github.com/arc298/instagram-scraper) (👨‍💻 53 · 🔀 1.1K · 📦 220 · 📋 570 - 66% open · ⏱️ 19.05.2021):
+
+	```
+	git clone https://github.com/arc298/instagram-scraper
+	```
+- [PyPi](https://pypi.org/project/instagram-scraper) (📥 8.4K / month · 📦 40 · ⏱️ 10.10.2020):
+	```
+	pip install instagram-scraper
+	```
+</details>
 <details><summary><b><a href="https://github.com/bear/python-twitter">python-twitter</a></b> (🥉28 ·  ⭐ 3.2K · 💤) - A Python wrapper around the Twitter API. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/bear/python-twitter) (👨‍💻 150 · 🔀 940 · 📦 5.5K · 📋 400 - 22% open · ⏱️ 12.05.2020):
@@ -3376,7 +3388,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/bear/python-twitter
 	```
-- [PyPi](https://pypi.org/project/python-twitter) (📥 260K / month · 📦 3.3K · ⏱️ 03.11.2018):
+- [PyPi](https://pypi.org/project/python-twitter) (📥 250K / month · 📦 3.3K · ⏱️ 03.11.2018):
 	```
 	pip install python-twitter
 	```
@@ -3388,7 +3400,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/bisguzar/twitter-scraper
 	```
-- [PyPi](https://pypi.org/project/twitter-scraper) (📥 220K / month · 📦 20 · ⏱️ 17.07.2020):
+- [PyPi](https://pypi.org/project/twitter-scraper) (📥 290K / month · 📦 20 · ⏱️ 17.07.2020):
 	```
 	pip install twitter-scraper
 	```
@@ -3409,33 +3421,25 @@ _General purpose web frameworks to build web applications and REST APIs._
 	conda install -c conda-forge twython
 	```
 </details>
-<details><summary><b><a href="https://github.com/arc298/instagram-scraper">instagram-scraper</a></b> (🥉27 ·  ⭐ 5K · 💤) - Scrapes an instagram user's photos and videos. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code></summary>
+<details><summary><b><a href="https://github.com/hvac/hvac">hvac</a></b> (🥉28 ·  ⭐ 860) - Python 2.7/3.X client for HashiCorp Vault. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/arc298/instagram-scraper) (👨‍💻 53 · 🔀 1.1K · 📦 220 · 📋 570 - 66% open · ⏱️ 10.10.2020):
+- [GitHub](https://github.com/hvac/hvac) (👨‍💻 150 · 🔀 280 · 📥 420 · 📦 1.6K · 📋 280 - 31% open · ⏱️ 19.05.2021):
 
 	```
-	git clone https://github.com/arc298/instagram-scraper
+	git clone https://github.com/hvac/hvac
 	```
-- [PyPi](https://pypi.org/project/instagram-scraper) (📥 8.3K / month · 📦 40 · ⏱️ 10.10.2020):
+- [PyPi](https://pypi.org/project/hvac) (📥 3M / month · 📦 380 · ⏱️ 19.05.2021):
 	```
-	pip install instagram-scraper
+	pip install hvac
+	```
+- [Conda](https://anaconda.org/conda-forge/hvac) (📥 67K · ⏱️ 19.05.2021):
+	```
+	conda install -c conda-forge hvac
 	```
 </details>
-<details><summary><b><a href="https://github.com/wechatpy/wechatpy">wechatpy</a></b> (🥉27 ·  ⭐ 2.8K) - WeChat SDK for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jamalex/notion-py">notion-py</a></b> (🥉27 ·  ⭐ 2.9K) - Unofficial Python API client for Notion.so. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/wechatpy/wechatpy) (👨‍💻 84 · 🔀 640 · 📋 310 - 9% open · ⏱️ 17.03.2021):
-
-	```
-	git clone https://github.com/wechatpy/wechatpy
-	```
-- [PyPi](https://pypi.org/project/wechatpy) (📥 5.6K / month · 📦 230 · ⏱️ 17.03.2021):
-	```
-	pip install wechatpy
-	```
-</details>
-<details><summary><b><a href="https://github.com/jamalex/notion-py">notion-py</a></b> (🥉27 ·  ⭐ 2.8K) - Unofficial Python API client for Notion.so. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/jamalex/notion-py) (👨‍💻 31 · 🔀 310 · 📦 410 · 📋 220 - 54% open · ⏱️ 05.02.2021):
+- [GitHub](https://github.com/jamalex/notion-py) (👨‍💻 31 · 🔀 310 · 📦 420 · 📋 220 - 54% open · ⏱️ 05.02.2021):
 
 	```
 	git clone https://github.com/jamalex/notion-py
@@ -3445,30 +3449,26 @@ _General purpose web frameworks to build web applications and REST APIs._
 	pip install notion
 	```
 </details>
-<details><summary><b><a href="https://github.com/hvac/hvac">hvac</a></b> (🥉27 ·  ⭐ 860) - Python 2.7/3.X client for HashiCorp Vault. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/wechatpy/wechatpy">wechatpy</a></b> (🥉27 ·  ⭐ 2.9K) - WeChat SDK for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/hvac/hvac) (👨‍💻 150 · 🔀 270 · 📥 420 · 📦 1.6K · 📋 280 - 30% open · ⏱️ 07.05.2021):
+- [GitHub](https://github.com/wechatpy/wechatpy) (👨‍💻 84 · 🔀 640 · 📋 320 - 9% open · ⏱️ 17.03.2021):
 
 	```
-	git clone https://github.com/hvac/hvac
+	git clone https://github.com/wechatpy/wechatpy
 	```
-- [PyPi](https://pypi.org/project/hvac) (📥 3M / month · 📦 380 · ⏱️ 07.05.2021):
+- [PyPi](https://pypi.org/project/wechatpy) (📥 5.5K / month · 📦 230 · ⏱️ 17.03.2021):
 	```
-	pip install hvac
-	```
-- [Conda](https://anaconda.org/conda-forge/hvac) (📥 66K · ⏱️ 07.05.2021):
-	```
-	conda install -c conda-forge hvac
+	pip install wechatpy
 	```
 </details>
 <details><summary><b><a href="https://github.com/coursera-dl/coursera-dl">coursera-dl</a></b> (🥉26 ·  ⭐ 8.4K) - Script for downloading Coursera.org videos and naming them. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/coursera-dl/coursera-dl) (👨‍💻 85 · 🔀 2K · 📦 130 · 📋 610 - 26% open · ⏱️ 12.02.2021):
+- [GitHub](https://github.com/coursera-dl/coursera-dl) (👨‍💻 85 · 🔀 2K · 📦 140 · 📋 610 - 26% open · ⏱️ 12.02.2021):
 
 	```
 	git clone https://github.com/coursera-dl/coursera-dl
 	```
-- [PyPi](https://pypi.org/project/coursera-dl) (📥 1.8K / month · 📦 24 · ⏱️ 16.12.2019):
+- [PyPi](https://pypi.org/project/coursera-dl) (📥 1.9K / month · 📦 24 · ⏱️ 16.12.2019):
 	```
 	pip install coursera-dl
 	```
@@ -3484,7 +3484,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/sherlock-project/sherlock
 	```
-- [PyPi](https://pypi.org/project/sherlock) (📥 4.7K / month · 📦 6 · ⏱️ 11.05.2019):
+- [PyPi](https://pypi.org/project/sherlock) (📥 4.3K / month · 📦 6 · ⏱️ 11.05.2019):
 	```
 	pip install sherlock
 	```
@@ -3501,43 +3501,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 	pip install igramscraper
 	```
 </details>
-<details><summary><b><a href="https://github.com/alberanid/imdbpy">imdbpy</a></b> (🥉25 ·  ⭐ 810) - IMDbPY is a Python package useful to retrieve and manage the data of.. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code></summary>
-
-- [GitHub](https://github.com/alberanid/imdbpy) (👨‍💻 54 · 🔀 230 · 📥 7 · 📋 210 - 14% open · ⏱️ 12.05.2021):
-
-	```
-	git clone https://github.com/alberanid/imdbpy
-	```
-- [PyPi](https://pypi.org/project/imdbpy) (📥 24K / month · 📦 210 · ⏱️ 18.04.2021):
-	```
-	pip install imdbpy
-	```
-</details>
-<details><summary><b><a href="https://github.com/attardi/wikiextractor">WikiExtractor</a></b> (🥉24 ·  ⭐ 2.6K) - A tool for extracting plain text from Wikipedia dumps. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
-
-- [GitHub](https://github.com/attardi/wikiextractor) (👨‍💻 30 · 🔀 770 · 📦 59 · 📋 200 - 45% open · ⏱️ 18.03.2021):
-
-	```
-	git clone https://github.com/attardi/wikiextractor
-	```
-- [PyPi](https://pypi.org/project/wikiextractor) (📥 1.5K / month · 📦 8 · ⏱️ 05.12.2020):
-	```
-	pip install wikiextractor
-	```
-</details>
-<details><summary><b><a href="https://github.com/simon-weber/gmusicapi">gmusicapi</a></b> (🥉24 ·  ⭐ 2.6K · 💤) - An unofficial client library for Google Music. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
-
-- [GitHub](https://github.com/simon-weber/gmusicapi) (👨‍💻 51 · 🔀 300 · 📦 430 · 📋 510 - 11% open · ⏱️ 25.09.2020):
-
-	```
-	git clone https://github.com/simon-weber/gmusicapi
-	```
-- [PyPi](https://pypi.org/project/gmusicapi) (📥 990 / month · 📦 270 · ⏱️ 27.03.2020):
-	```
-	pip install gmusicapi
-	```
-</details>
-<details><summary><b><a href="https://github.com/taspinar/twitterscraper">twitterscraper</a></b> (🥉24 ·  ⭐ 1.7K · 💤) - Scrape Twitter for Tweets. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/taspinar/twitterscraper">twitterscraper</a></b> (🥉25 ·  ⭐ 1.7K · 💤) - Scrape Twitter for Tweets. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/taspinar/twitterscraper) (👨‍💻 34 · 🔀 500 · 📦 360 · 📋 280 - 45% open · ⏱️ 28.07.2020):
 
@@ -3549,50 +3513,86 @@ _General purpose web frameworks to build web applications and REST APIs._
 	pip install twitterscraper
 	```
 </details>
+<details><summary><b><a href="https://github.com/alberanid/imdbpy">imdbpy</a></b> (🥉25 ·  ⭐ 810) - IMDbPY is a Python package useful to retrieve and manage the data of.. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code></summary>
+
+- [GitHub](https://github.com/alberanid/imdbpy) (👨‍💻 54 · 🔀 230 · 📥 9 · 📋 220 - 15% open · ⏱️ 12.05.2021):
+
+	```
+	git clone https://github.com/alberanid/imdbpy
+	```
+- [PyPi](https://pypi.org/project/imdbpy) (📥 27K / month · 📦 210 · ⏱️ 18.04.2021):
+	```
+	pip install imdbpy
+	```
+</details>
+<details><summary><b><a href="https://github.com/attardi/wikiextractor">WikiExtractor</a></b> (🥉24 ·  ⭐ 2.6K) - A tool for extracting plain text from Wikipedia dumps. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/attardi/wikiextractor) (👨‍💻 30 · 🔀 770 · 📦 61 · 📋 200 - 45% open · ⏱️ 18.03.2021):
+
+	```
+	git clone https://github.com/attardi/wikiextractor
+	```
+- [PyPi](https://pypi.org/project/wikiextractor) (📥 1.4K / month · 📦 8 · ⏱️ 05.12.2020):
+	```
+	pip install wikiextractor
+	```
+</details>
+<details><summary><b><a href="https://github.com/simon-weber/gmusicapi">gmusicapi</a></b> (🥉24 ·  ⭐ 2.6K · 💤) - An unofficial client library for Google Music. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/simon-weber/gmusicapi) (👨‍💻 51 · 🔀 300 · 📦 430 · 📋 510 - 11% open · ⏱️ 25.09.2020):
+
+	```
+	git clone https://github.com/simon-weber/gmusicapi
+	```
+- [PyPi](https://pypi.org/project/gmusicapi) (📥 890 / month · 📦 270 · ⏱️ 27.03.2020):
+	```
+	pip install gmusicapi
+	```
+</details>
 <details><summary><b><a href="https://github.com/mikf/gallery-dl">gallery-dl</a></b> (🥉23 ·  ⭐ 3.3K) - Command-line program to download image galleries and.. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/mikf/gallery-dl) (👨‍💻 42 · 🔀 300 · 📥 100K · 📋 1.4K - 18% open · ⏱️ 07.05.2021):
+- [GitHub](https://github.com/mikf/gallery-dl) (👨‍💻 42 · 🔀 300 · 📥 100K · 📋 1.4K - 18% open · ⏱️ 17.05.2021):
 
 	```
 	git clone https://github.com/mikf/gallery-dl
 	```
-- [PyPi](https://pypi.org/project/gallery-dl) (📥 5K / month · 📦 8 · ⏱️ 07.05.2021):
+- [PyPi](https://pypi.org/project/gallery-dl) (📥 5.3K / month · 📦 8 · ⏱️ 07.05.2021):
 	```
 	pip install gallery-dl
 	```
 </details>
 <details><summary><b><a href="https://github.com/slackapi/python-slack-sdk">python-slack-sdk</a></b> (🥉23 ·  ⭐ 3.1K) - Slack Developer Kit for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/slackapi/python-slack-sdk) (👨‍💻 120 · 🔀 730 · 📥 310 · 📋 530 - 1% open · ⏱️ 07.05.2021):
+- [GitHub](https://github.com/slackapi/python-slack-sdk) (👨‍💻 120 · 🔀 730 · 📥 310 · 📋 540 - 1% open · ⏱️ 07.05.2021):
 
 	```
 	git clone https://github.com/slackapi/python-slack-sdk
 	```
-- [PyPi](https://pypi.org/project/slack-sdk) (📥 810K / month · ⏱️ 30.04.2021):
+- [PyPi](https://pypi.org/project/slack-sdk) (📥 790K / month · ⏱️ 30.04.2021):
 	```
 	pip install slack-sdk
 	```
 </details>
 <details><summary><b><a href="https://github.com/ellisonleao/pyshorteners">pyshorteners</a></b> (🥉23 ·  ⭐ 300 · 💤) - Generating short urls with python has never been easier. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/ellisonleao/pyshorteners) (👨‍💻 24 · 🔀 53 · 📦 900 · 📋 71 - 2% open · ⏱️ 29.07.2020):
+- [GitHub](https://github.com/ellisonleao/pyshorteners) (👨‍💻 24 · 🔀 53 · 📦 920 · 📋 71 - 1% open · ⏱️ 29.07.2020):
 
 	```
 	git clone https://github.com/ellisonleao/pyshorteners
 	```
-- [PyPi](https://pypi.org/project/pyshorteners) (📥 87K / month · 📦 140 · ⏱️ 19.03.2020):
+- [PyPi](https://pypi.org/project/pyshorteners) (📥 90K / month · 📦 140 · ⏱️ 19.03.2020):
 	```
 	pip install pyshorteners
 	```
 </details>
 <details><summary><b><a href="https://github.com/fastai/ghapi">ghapi</a></b> (🥉19 ·  ⭐ 200 · 🐣) - A delightful and complete interface to GitHub's amazing API. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/fastai/ghapi) (👨‍💻 6 · 🔀 15 · 📋 44 - 36% open · ⏱️ 28.04.2021):
+- [GitHub](https://github.com/fastai/ghapi) (👨‍💻 6 · 🔀 16 · 📋 45 - 35% open · ⏱️ 28.04.2021):
 
 	```
 	git clone https://github.com/fastai/ghapi
 	```
-- [PyPi](https://pypi.org/project/ghapi) (📥 50K / month · ⏱️ 21.01.2021):
+- [PyPi](https://pypi.org/project/ghapi) (📥 52K / month · ⏱️ 21.01.2021):
 	```
 	pip install ghapi
 	```
@@ -3607,7 +3607,7 @@ _General purpose web frameworks to build web applications and REST APIs._
 </details>
 <details><summary><b><a href="https://github.com/mxrch/GHunt">GHunt</a></b> (🥉17 ·  ⭐ 9.4K) - Investigate Google emails and documents. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/mxrch/GHunt) (👨‍💻 21 · 🔀 690 · 📋 180 - 10% open · ⏱️ 10.04.2021):
+- [GitHub](https://github.com/mxrch/GHunt) (👨‍💻 21 · 🔀 690 · 📋 190 - 11% open · ⏱️ 10.04.2021):
 
 	```
 	git clone https://github.com/mxrch/GHunt
@@ -3636,19 +3636,19 @@ _General purpose web frameworks to build web applications and REST APIs._
 	```
 	git clone https://github.com/kootenpv/yagmail
 	```
-- [PyPi](https://pypi.org/project/yagmail) (📥 100K / month · 📦 760 · ⏱️ 10.05.2021):
+- [PyPi](https://pypi.org/project/yagmail) (📥 110K / month · 📦 760 · ⏱️ 10.05.2021):
 	```
 	pip install yagmail
 	```
 </details>
-<details><summary><b><a href="https://github.com/mailgun/flanker">flanker</a></b> (🥈27 ·  ⭐ 1.5K) - Python email address and Mime parsing library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/mailgun/flanker">flanker</a></b> (🥇28 ·  ⭐ 1.5K) - Python email address and Mime parsing library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/mailgun/flanker) (👨‍💻 55 · 🔀 170 · 📦 140 · 📋 87 - 58% open · ⏱️ 29.03.2021):
 
 	```
 	git clone https://github.com/mailgun/flanker
 	```
-- [PyPi](https://pypi.org/project/flanker) (📥 56K / month · 📦 180 · ⏱️ 05.12.2019):
+- [PyPi](https://pypi.org/project/flanker) (📥 67K / month · 📦 180 · ⏱️ 05.12.2019):
 	```
 	pip install flanker
 	```
@@ -3665,52 +3665,63 @@ _General purpose web frameworks to build web applications and REST APIs._
 	pip install modoboa
 	```
 </details>
-<details><summary><b><a href="https://github.com/marrow/mailer">mailer</a></b> (🥉22 ·  ⭐ 230) - A light-weight, modular, message representation and mail delivery framework.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/marrow/mailer">mailer</a></b> (🥉22 ·  ⭐ 220) - A light-weight, modular, message representation and mail delivery framework.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/marrow/mailer) (👨‍💻 20 · 🔀 50 · 📥 110 · 📋 71 - 35% open · ⏱️ 20.04.2021):
 
 	```
 	git clone https://github.com/marrow/mailer
 	```
-- [PyPi](https://pypi.org/project/mailer) (📥 17K / month · 📦 160 · ⏱️ 22.04.2015):
+- [PyPi](https://pypi.org/project/mailer) (📥 18K / month · 📦 160 · ⏱️ 22.04.2015):
 	```
 	pip install mailer
 	```
-- [Conda](https://anaconda.org/conda-forge/mailer) (📥 34K · ⏱️ 10.01.2021):
+- [Conda](https://anaconda.org/conda-forge/mailer) (📥 35K · ⏱️ 10.01.2021):
 	```
 	conda install -c conda-forge mailer
 	```
 </details>
-<details><summary><b><a href="https://github.com/sabuhish/fastapi-mail">fastapi-mail</a></b> (🥉22 ·  ⭐ 150) - Fastapi mail system sending mails(individual, bulk).. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/sabuhish/fastapi-mail">fastapi-mail</a></b> (🥉22 ·  ⭐ 160) - Fastapi mail system sending mails(individual, bulk).. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/sabuhish/fastapi-mail) (👨‍💻 16 · 🔀 21 · 📦 61 · 📋 25 - 4% open · ⏱️ 02.05.2021):
+- [GitHub](https://github.com/sabuhish/fastapi-mail) (👨‍💻 16 · 🔀 22 · 📦 71 · 📋 25 - 4% open · ⏱️ 14.05.2021):
 
 	```
 	git clone https://github.com/sabuhish/fastapi-mail
 	```
-- [PyPi](https://pypi.org/project/fastapi-mail) (📥 7.4K / month · ⏱️ 01.05.2021):
+- [PyPi](https://pypi.org/project/fastapi-mail) (📥 7.2K / month · ⏱️ 01.05.2021):
 	```
 	pip install fastapi-mail
 	```
 </details>
+<details><summary><b><a href="https://github.com/Pylons/pyramid_mailer">pyramid_mailer</a></b> (🥉22 ·  ⭐ 51) - A package for sending email from your Pyramid application. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://trypyramid.com/img/pyramid-16x16.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/Pylons/pyramid_mailer) (👨‍💻 35 · 🔀 41 · 📋 42 - 21% open · ⏱️ 15.05.2021):
+
+	```
+	git clone https://github.com/Pylons/pyramid_mailer
+	```
+- [PyPi](https://pypi.org/project/pyramid_mailer) (📥 28K / month · 📦 190 · ⏱️ 13.12.2016):
+	```
+	pip install pyramid_mailer
+	```
+</details>
 <details><summary><b><a href="https://github.com/moggers87/salmon">salmon</a></b> (🥉19 ·  ⭐ 480) - A Python Mail Server. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/moggers87/salmon) (👨‍💻 15 · 🔀 50 · 📥 38 · 📦 11 · 📋 84 - 16% open · ⏱️ 02.03.2021):
+- [GitHub](https://github.com/moggers87/salmon) (👨‍💻 15 · 🔀 50 · 📥 41 · 📦 11 · 📋 84 - 16% open · ⏱️ 02.03.2021):
 
 	```
 	git clone https://github.com/moggers87/salmon
 	```
-- [PyPi](https://pypi.org/project/salmon-mail) (📥 2K / month · 📦 1 · ⏱️ 31.12.2019):
+- [PyPi](https://pypi.org/project/salmon-mail) (📥 2.4K / month · 📦 1 · ⏱️ 31.12.2019):
 	```
 	pip install salmon-mail
 	```
 </details>
-<details><summary>Show 5 hidden projects...</summary>
+<details><summary>Show 4 hidden projects...</summary>
 
 - <b><a href="https://github.com/mattupstate/flask-mail">flask-mail</a></b> (🥇28 ·  ⭐ 510 · 💀) - Flask-Mail adds SMTP mail sending to your Flask applications. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://github.com/nylas/sync-engine">sync-engine</a></b> (🥈23 ·  ⭐ 3.5K · 💀) - IMAP/SMTP sync system with modern APIs. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
-- <b><a href="https://github.com/OfflineIMAP/offlineimap">offlineimap</a></b> (🥉22 ·  ⭐ 1.6K · 💀) - Read/sync your IMAP mailboxes (python2). <code><a href="https://tldrlegal.com/search?q=libpng-2.0">❗️libpng-2.0</a></code>
-- <b><a href="https://github.com/Pylons/pyramid_mailer">pyramid_mailer</a></b> (🥉22 ·  ⭐ 51 · 💀) - A package for sending email from your Pyramid.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://trypyramid.com/img/pyramid-16x16.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/OfflineIMAP/offlineimap">offlineimap</a></b> (🥈23 ·  ⭐ 1.6K · 💀) - Read/sync your IMAP mailboxes (python2). <code><a href="https://tldrlegal.com/search?q=libpng-2.0">❗️libpng-2.0</a></code>
 - <b><a href="https://github.com/charlierguo/gmail">gmail</a></b> (🥉21 ·  ⭐ 1.6K · 💀) - A Pythonic interface for Google Mail. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
 <br>
@@ -3728,7 +3739,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/scrapy/scrapy
 	```
-- [PyPi](https://pypi.org/project/scrapy) (📥 870K / month · 📦 8.4K · ⏱️ 17.11.2020):
+- [PyPi](https://pypi.org/project/scrapy) (📥 850K / month · 📦 8.4K · ⏱️ 17.11.2020):
 	```
 	pip install scrapy
 	```
@@ -3744,19 +3755,19 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/soimort/you-get
 	```
-- [PyPi](https://pypi.org/project/you-get) (📥 31K / month · 📦 36 · ⏱️ 29.03.2021):
+- [PyPi](https://pypi.org/project/you-get) (📥 29K / month · 📦 36 · ⏱️ 29.03.2021):
 	```
 	pip install you-get
 	```
 </details>
 <details><summary><b><a href="https://github.com/codelucas/newspaper">newspaper3k</a></b> (🥇30 ·  ⭐ 11K · 💤) - News, full-text, and article metadata extraction in Python 3... <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/codelucas/newspaper) (👨‍💻 100 · 🔀 1.8K · 📦 2.6K · 📋 680 - 63% open · ⏱️ 02.09.2020):
+- [GitHub](https://github.com/codelucas/newspaper) (👨‍💻 100 · 🔀 1.8K · 📦 2.7K · 📋 680 - 63% open · ⏱️ 02.09.2020):
 
 	```
 	git clone https://github.com/codelucas/newspaper
 	```
-- [PyPi](https://pypi.org/project/newspaper3k) (📥 100K / month · 📦 440 · ⏱️ 28.09.2018):
+- [PyPi](https://pypi.org/project/newspaper3k) (📥 110K / month · 📦 440 · ⏱️ 28.09.2018):
 	```
 	pip install newspaper3k
 	```
@@ -3784,11 +3795,11 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/scrapy/parsel
 	```
-- [PyPi](https://pypi.org/project/parsel) (📥 930K / month · 📦 2.9K · ⏱️ 07.05.2020):
+- [PyPi](https://pypi.org/project/parsel) (📥 910K / month · 📦 2.9K · ⏱️ 07.05.2020):
 	```
 	pip install parsel
 	```
-- [Conda](https://anaconda.org/conda-forge/parsel) (📥 18K · ⏱️ 02.06.2020):
+- [Conda](https://anaconda.org/conda-forge/parsel) (📥 19K · ⏱️ 02.06.2020):
 	```
 	conda install -c conda-forge parsel
 	```
@@ -3804,7 +3815,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	pip install soupsieve
 	```
-- [Conda](https://anaconda.org/conda-forge/soupsieve) (📥 2.8M · ⏱️ 17.08.2020):
+- [Conda](https://anaconda.org/conda-forge/soupsieve) (📥 2.9M · ⏱️ 17.08.2020):
 	```
 	conda install -c conda-forge soupsieve
 	```
@@ -3816,25 +3827,37 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/binux/pyspider
 	```
-- [PyPi](https://pypi.org/project/pyspider) (📥 5.1K / month · 📦 60 · ⏱️ 18.04.2018):
+- [PyPi](https://pypi.org/project/pyspider) (📥 5.5K / month · 📦 60 · ⏱️ 18.04.2018):
 	```
 	pip install pyspider
 	```
 </details>
-<details><summary><b><a href="https://github.com/MechanicalSoup/MechanicalSoup">MechanicalSoup</a></b> (🥈28 ·  ⭐ 3.7K) - A Python library for automating interaction with websites. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/MechanicalSoup/MechanicalSoup">MechanicalSoup</a></b> (🥈28 ·  ⭐ 3.8K) - A Python library for automating interaction with websites. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/MechanicalSoup/MechanicalSoup) (👨‍💻 45 · 🔀 350 · 📥 39 · 📋 160 - 17% open · ⏱️ 01.05.2021):
 
 	```
 	git clone https://github.com/MechanicalSoup/MechanicalSoup
 	```
-- [PyPi](https://pypi.org/project/MechanicalSoup) (📥 280K / month · 📦 430 · ⏱️ 05.01.2021):
+- [PyPi](https://pypi.org/project/MechanicalSoup) (📥 350K / month · 📦 430 · ⏱️ 05.01.2021):
 	```
 	pip install MechanicalSoup
 	```
 - [Conda](https://anaconda.org/conda-forge/mechanicalsoup) (📥 110K · ⏱️ 08.01.2021):
 	```
 	conda install -c conda-forge mechanicalsoup
+	```
+</details>
+<details><summary><b><a href="https://github.com/VeNoMouS/cloudscraper">cloudscraper</a></b> (🥈26 ·  ⭐ 960) - A Python module to bypass Cloudflare's anti-bot page. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/VeNoMouS/cloudscraper) (👨‍💻 8 · 🔀 150 · 📦 600 · ⏱️ 06.04.2021):
+
+	```
+	git clone https://github.com/venomous/cloudscraper
+	```
+- [PyPi](https://pypi.org/project/cloudscraper) (📥 93K / month · 📦 8 · ⏱️ 28.01.2021):
+	```
+	pip install cloudscraper
 	```
 </details>
 <details><summary><b><a href="https://github.com/scrapinghub/extruct">extruct</a></b> (🥈26 ·  ⭐ 590) - Extract embedded metadata from HTML markup. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
@@ -3844,14 +3867,14 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/scrapinghub/extruct
 	```
-- [PyPi](https://pypi.org/project/extruct) (📥 62K / month · 📦 42 · ⏱️ 28.12.2020):
+- [PyPi](https://pypi.org/project/extruct) (📥 63K / month · 📦 42 · ⏱️ 28.12.2020):
 	```
 	pip install extruct
 	```
 </details>
 <details><summary><b><a href="https://github.com/coleifer/micawber">micawber</a></b> (🥈26 ·  ⭐ 540) - a small library for extracting rich content from urls. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/coleifer/micawber) (👨‍💻 27 · 🔀 82 · 📦 540 · ⏱️ 10.05.2021):
+- [GitHub](https://github.com/coleifer/micawber) (👨‍💻 27 · 🔀 82 · 📦 550 · ⏱️ 10.05.2021):
 
 	```
 	git clone https://github.com/coleifer/micawber
@@ -3861,28 +3884,16 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	pip install micawber
 	```
 </details>
-<details><summary><b><a href="https://github.com/lorien/grab">Grab</a></b> (🥈25 ·  ⭐ 2.1K) - Web Scraping Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/lorien/grab">Grab</a></b> (🥉25 ·  ⭐ 2.1K) - Web Scraping Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/lorien/grab) (👨‍💻 65 · 🔀 250 · 📦 310 · 📋 220 - 12% open · ⏱️ 08.12.2020):
 
 	```
 	git clone https://github.com/lorien/grab
 	```
-- [PyPi](https://pypi.org/project/grab) (📥 4.3K / month · 📦 210 · ⏱️ 24.06.2018):
+- [PyPi](https://pypi.org/project/grab) (📥 4.4K / month · 📦 210 · ⏱️ 24.06.2018):
 	```
 	pip install grab
-	```
-</details>
-<details><summary><b><a href="https://github.com/VeNoMouS/cloudscraper">cloudscraper</a></b> (🥈25 ·  ⭐ 940) - A Python module to bypass Cloudflare's anti-bot page. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/VeNoMouS/cloudscraper) (👨‍💻 8 · 🔀 150 · 📦 570 · ⏱️ 06.04.2021):
-
-	```
-	git clone https://github.com/venomous/cloudscraper
-	```
-- [PyPi](https://pypi.org/project/cloudscraper) (📥 85K / month · 📦 8 · ⏱️ 28.01.2021):
-	```
-	pip install cloudscraper
 	```
 </details>
 <details><summary><b><a href="https://github.com/howie6879/ruia">ruia</a></b> (🥉23 ·  ⭐ 1.4K) - Async Python 3.6+ web scraping micro-framework based on asyncio. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -3892,55 +3903,55 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/howie6879/ruia
 	```
-- [PyPi](https://pypi.org/project/ruia) (📥 410 / month · 📦 6 · ⏱️ 07.05.2021):
+- [PyPi](https://pypi.org/project/ruia) (📥 290 / month · 📦 6 · ⏱️ 07.05.2021):
 	```
 	pip install ruia
 	```
 </details>
 <details><summary><b><a href="https://github.com/Gerapy/Gerapy">Gerapy</a></b> (🥉22 ·  ⭐ 2.4K) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/Gerapy/Gerapy) (👨‍💻 11 · 🔀 510 · 📦 110 · 📋 160 - 30% open · ⏱️ 21.03.2021):
+- [GitHub](https://github.com/Gerapy/Gerapy) (👨‍💻 11 · 🔀 510 · 📦 110 · 📋 160 - 30% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/Gerapy/Gerapy
 	```
-- [PyPi](https://pypi.org/project/gerapy) (📥 410 / month · 📦 8 · ⏱️ 27.08.2020):
+- [PyPi](https://pypi.org/project/gerapy) (📥 440 / month · 📦 8 · ⏱️ 27.08.2020):
 	```
 	pip install gerapy
 	```
 </details>
 <details><summary><b><a href="https://github.com/alirezamika/autoscraper">AutoScraper</a></b> (🥉21 ·  ⭐ 3.5K) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/alirezamika/autoscraper) (👨‍💻 6 · 🔀 340 · 📦 39 · 📋 36 - 13% open · ⏱️ 03.02.2021):
+- [GitHub](https://github.com/alirezamika/autoscraper) (👨‍💻 6 · 🔀 340 · 📦 41 · 📋 36 - 13% open · ⏱️ 03.02.2021):
 
 	```
 	git clone https://github.com/alirezamika/autoscraper
 	```
-- [PyPi](https://pypi.org/project/autoscraper) (📥 2.2K / month · ⏱️ 23.01.2021):
+- [PyPi](https://pypi.org/project/autoscraper) (📥 2.3K / month · ⏱️ 23.01.2021):
 	```
 	pip install autoscraper
 	```
 </details>
 <details><summary><b><a href="https://github.com/adbar/trafilatura">trafilatura</a></b> (🥉21 ·  ⭐ 130) - Web scraping library and command-line tool for text discovery.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/adbar/trafilatura) (👨‍💻 11 · 🔀 31 · 📦 62 · 📋 59 - 23% open · ⏱️ 12.05.2021):
+- [GitHub](https://github.com/adbar/trafilatura) (👨‍💻 11 · 🔀 32 · 📦 65 · 📋 61 - 19% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/adbar/trafilatura
 	```
-- [PyPi](https://pypi.org/project/trafilatura) (📥 48K / month · ⏱️ 11.03.2021):
+- [PyPi](https://pypi.org/project/trafilatura) (📥 47K / month · ⏱️ 11.03.2021):
 	```
 	pip install trafilatura
 	```
 </details>
-<details><summary><b><a href="https://github.com/maxhumber/gazpacho">gazpacho</a></b> (🥉20 ·  ⭐ 550) - The simple, fast, and modern web scraping library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/maxhumber/gazpacho">gazpacho</a></b> (🥉20 ·  ⭐ 560) - The simple, fast, and modern web scraping library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/maxhumber/gazpacho) (👨‍💻 16 · 🔀 52 · 📦 100 · 📋 42 - 23% open · ⏱️ 24.04.2021):
+- [GitHub](https://github.com/maxhumber/gazpacho) (👨‍💻 16 · 🔀 52 · 📦 110 · 📋 42 - 23% open · ⏱️ 24.04.2021):
 
 	```
 	git clone https://github.com/maxhumber/gazpacho
 	```
-- [PyPi](https://pypi.org/project/gazpacho) (📥 7.5K / month · 📦 2 · ⏱️ 09.10.2020):
+- [PyPi](https://pypi.org/project/gazpacho) (📥 7.8K / month · 📦 2 · ⏱️ 09.10.2020):
 	```
 	pip install gazpacho
 	```
@@ -3970,7 +3981,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 </details>
 <details><summary><b><a href="https://github.com/maurosoria/dirsearch">dirsearch</a></b> (🥉19 ·  ⭐ 6.1K) - Web path scanner. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/maurosoria/dirsearch) (👨‍💻 74 · 🔀 1.5K · 📋 330 - 19% open · ⏱️ 11.05.2021):
+- [GitHub](https://github.com/maurosoria/dirsearch) (👨‍💻 77 · 🔀 1.5K · 📋 330 - 19% open · ⏱️ 20.05.2021):
 
 	```
 	git clone https://github.com/maurosoria/dirsearch
@@ -3983,7 +3994,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/bomquote/transistor
 	```
-- [PyPi](https://pypi.org/project/transistor) (📥 68 / month · ⏱️ 03.08.2020):
+- [PyPi](https://pypi.org/project/transistor) (📥 65 / month · ⏱️ 03.08.2020):
 	```
 	pip install transistor
 	```
@@ -3992,10 +4003,10 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 
 - <b><a href="https://github.com/clips/pattern">Pattern</a></b> (🥈28 ·  ⭐ 7.9K · 💀) - Web mining module for Python, with tools for scraping, natural.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://github.com/grangier/python-goose">python-goose</a></b> (🥈27 ·  ⭐ 3.7K · 💀) - Html Content / Article Extractor, web scrapping lib in.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/jmcarp/robobrowser">robobrowser</a></b> (🥉24 ·  ⭐ 3.5K · 💀) - Your friendly neighborhood web scraper. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/jmcarp/robobrowser">robobrowser</a></b> (🥉24 ·  ⭐ 3.6K · 💀) - Your friendly neighborhood web scraper. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://github.com/scrapy/scrapely">scrapely</a></b> (🥉24 ·  ⭐ 1.8K · 💀) - A pure-python HTML screen-scraping library. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://github.com/scrapinghub/frontera">frontera</a></b> (🥉22 ·  ⭐ 1.2K · 💀) - A scalable frontier for web crawlers. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/s0md3v/Photon">Photon</a></b> (🥉20 ·  ⭐ 7.8K · 💀) - Incredibly fast crawler designed for OSINT. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/s0md3v/Photon">Photon</a></b> (🥉20 ·  ⭐ 7.9K · 💀) - Incredibly fast crawler designed for OSINT. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
 - <b><a href="https://github.com/qinxuye/cola">Cola</a></b> (🥉18 ·  ⭐ 1.4K · 💀) - A high-level distributed crawling framework. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/gaojiuli/gain">gain</a></b> (🥉17 ·  ⭐ 2K · 💀) - Web crawling framework based on asyncio. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
 - <b><a href="https://github.com/hannob/snallygaster">snallygaster</a></b> (🥉17 ·  ⭐ 1.8K) - Tool to scan for secret files on HTTP servers. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">❗️CC0-1.0</a></code>
@@ -4010,52 +4021,52 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 
 <details><summary><b><a href="https://github.com/getsentry/sentry">sentry</a></b> (🥇32 ·  ⭐ 28K) - Sentry is cross-platform application monitoring, with a focus on.. <code><a href="https://tldrlegal.com/search?q=SSPL-1.0">❗️SSPL-1.0</a></code></summary>
 
-- [GitHub](https://github.com/getsentry/sentry) (👨‍💻 580 · 🔀 3.1K · 📥 39K · 📦 510 · 📋 4.6K - 6% open · ⏱️ 12.05.2021):
+- [GitHub](https://github.com/getsentry/sentry) (👨‍💻 590 · 🔀 3.1K · 📥 39K · 📦 510 · 📋 4.6K - 6% open · ⏱️ 20.05.2021):
 
 	```
 	git clone https://github.com/getsentry/sentry
 	```
-- [PyPi](https://pypi.org/project/sentry) (📥 31K / month · 📦 640 · ⏱️ 15.04.2021):
+- [PyPi](https://pypi.org/project/sentry) (📥 33K / month · 📦 640 · ⏱️ 19.05.2021):
 	```
 	pip install sentry
 	```
-- [Conda](https://anaconda.org/conda-forge/sentry-sdk) (📥 80K · ⏱️ 11.05.2021):
+- [Conda](https://anaconda.org/conda-forge/sentry-sdk) (📥 81K · ⏱️ 11.05.2021):
 	```
 	conda install -c conda-forge sentry-sdk
 	```
 </details>
 <details><summary><b><a href="https://github.com/prometheus/client_python">Prometheus Client</a></b> (🥈26 ·  ⭐ 2.2K) - Python client for the Prometheus monitoring system. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/prometheus/client_python) (👨‍💻 100 · 🔀 540 · 📋 340 - 8% open · ⏱️ 11.05.2021):
+- [GitHub](https://github.com/prometheus/client_python) (👨‍💻 110 · 🔀 540 · 📋 340 - 8% open · ⏱️ 17.05.2021):
 
 	```
 	git clone https://github.com/prometheus/client_python
 	```
-- [PyPi](https://pypi.org/project/prometheus-client) (📥 21M / month · ⏱️ 08.04.2021):
+- [PyPi](https://pypi.org/project/prometheus-client) (📥 20M / month · ⏱️ 08.04.2021):
 	```
 	pip install prometheus-client
 	```
 </details>
 <details><summary><b><a href="https://github.com/flask-dashboard/Flask-MonitoringDashboard">Flask-MonitoringDashboard</a></b> (🥈26 ·  ⭐ 520) - Automatically monitor the evolving performance of.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/flask-dashboard/Flask-MonitoringDashboard) (👨‍💻 26 · 🔀 120 · 📦 850 · 📋 170 - 26% open · ⏱️ 06.05.2021):
+- [GitHub](https://github.com/flask-dashboard/Flask-MonitoringDashboard) (👨‍💻 26 · 🔀 120 · 📦 870 · 📋 170 - 26% open · ⏱️ 06.05.2021):
 
 	```
 	git clone https://github.com/flask-dashboard/Flask-MonitoringDashboard
 	```
-- [PyPi](https://pypi.org/project/flask-monitoringdashboard) (📥 25K / month · 📦 14 · ⏱️ 09.09.2020):
+- [PyPi](https://pypi.org/project/flask-monitoringdashboard) (📥 20K / month · 📦 14 · ⏱️ 09.09.2020):
 	```
 	pip install flask-monitoringdashboard
 	```
 </details>
 <details><summary><b><a href="https://github.com/rycus86/prometheus_flask_exporter">prometheus-flask-exporter</a></b> (🥈25 ·  ⭐ 340) - Prometheus exporter for Flask applications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/rycus86/prometheus_flask_exporter) (👨‍💻 18 · 🔀 72 · 📋 82 - 13% open · ⏱️ 04.05.2021):
+- [GitHub](https://github.com/rycus86/prometheus_flask_exporter) (👨‍💻 18 · 🔀 72 · 📋 84 - 14% open · ⏱️ 04.05.2021):
 
 	```
 	git clone https://github.com/rycus86/prometheus_flask_exporter
 	```
-- [PyPi](https://pypi.org/project/prometheus-flask-exporter) (📥 4.7M / month · 📦 40 · ⏱️ 04.05.2021):
+- [PyPi](https://pypi.org/project/prometheus-flask-exporter) (📥 4.8M / month · 📦 40 · ⏱️ 04.05.2021):
 	```
 	pip install prometheus-flask-exporter
 	```
@@ -4067,39 +4078,39 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/lebinh/ngxtop
 	```
-- [PyPi](https://pypi.org/project/ngxtop) (📥 5.7K / month · 📦 18 · ⏱️ 21.12.2020):
+- [PyPi](https://pypi.org/project/ngxtop) (📥 5.4K / month · 📦 18 · ⏱️ 21.12.2020):
 	```
 	pip install ngxtop
 	```
 </details>
 <details><summary><b><a href="https://github.com/allinurl/goaccess">GoAccess</a></b> (🥉18 ·  ⭐ 13K) - GoAccess is a real-time web log analyzer and interactive viewer that runs.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/allinurl/goaccess) (👨‍💻 130 · 🔀 870 · 📋 1.8K - 18% open · ⏱️ 12.05.2021):
+- [GitHub](https://github.com/allinurl/goaccess) (👨‍💻 130 · 🔀 870 · 📋 1.8K - 18% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/allinurl/goaccess
 	```
 </details>
-<details><summary><b><a href="https://github.com/yoobool/flask-state">flask-state</a></b> (🥉18 ·  ⭐ 600) - Display machine state using Python3 with Flask. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/yoobool/flask-state">flask-state</a></b> (🥉18 ·  ⭐ 610) - Display machine state using Python3 with Flask. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/yoobool/flask-state) (👨‍💻 10 · 🔀 48 · 📋 22 - 27% open · ⏱️ 11.05.2021):
 
 	```
 	git clone https://github.com/yoobool/flask-state
 	```
-- [PyPi](https://pypi.org/project/Flask-State) (📥 220 / month · ⏱️ 11.05.2021):
+- [PyPi](https://pypi.org/project/Flask-State) (📥 190 / month · ⏱️ 11.05.2021):
 	```
 	pip install Flask-State
 	```
 </details>
-<details><summary><b><a href="https://github.com/tomwojcik/starlette-context">starlette context</a></b> (🥉17 ·  ⭐ 140) - Middleware for Starlette that allows you to store and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/tomwojcik/starlette-context">starlette context</a></b> (🥉17 ·  ⭐ 150) - Middleware for Starlette that allows you to store and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/tomwojcik/starlette-context) (👨‍💻 4 · 🔀 8 · 📋 19 - 10% open · ⏱️ 22.04.2021):
+- [GitHub](https://github.com/tomwojcik/starlette-context) (👨‍💻 4 · 🔀 8 · 📋 19 - 10% open · ⏱️ 17.05.2021):
 
 	```
 	git clone https://github.com/tomwojcik/starlette-context
 	```
-- [PyPi](https://pypi.org/project/starlette-context) (📥 31K / month · ⏱️ 22.04.2021):
+- [PyPi](https://pypi.org/project/starlette-context) (📥 32K / month · ⏱️ 22.04.2021):
 	```
 	pip install starlette-context
 	```
@@ -4111,7 +4122,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/perdy/starlette-prometheus
 	```
-- [PyPi](https://pypi.org/project/starlette-prometheus) (📥 25K / month · ⏱️ 09.07.2020):
+- [PyPi](https://pypi.org/project/starlette-prometheus) (📥 26K / month · ⏱️ 09.07.2020):
 	```
 	pip install starlette-prometheus
 	```
@@ -4123,7 +4134,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/steinnes/timing-asgi
 	```
-- [PyPi](https://pypi.org/project/timing-asgi) (📥 4.5K / month · ⏱️ 13.11.2020):
+- [PyPi](https://pypi.org/project/timing-asgi) (📥 2.6K / month · ⏱️ 13.11.2020):
 	```
 	pip install timing-asgi
 	```
@@ -4136,19 +4147,19 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 
 <details><summary><b><a href="https://github.com/h2oai/wave">wave</a></b> (🥇27 ·  ⭐ 2.6K) - Realtime Web Apps and Dashboards for Python and R. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/h2oai/wave) (👨‍💻 21 · 🔀 110 · 📥 40K · 📋 480 - 37% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/h2oai/wave) (👨‍💻 21 · 🔀 110 · 📥 45K · 📋 480 - 37% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/h2oai/wave
 	```
-- [PyPi](https://pypi.org/project/wave) (📥 7.8K / month · 📦 320 · ⏱️ 09.01.2011):
+- [PyPi](https://pypi.org/project/wave) (📥 7.6K / month · 📦 320 · ⏱️ 09.01.2011):
 	```
 	pip install wave
 	```
 </details>
 <details><summary><b><a href="https://github.com/flaskbb/flaskbb">flaskbb</a></b> (🥈22 ·  ⭐ 2K) - A classic Forum Software in Python using Flask. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/flaskbb/flaskbb) (👨‍💻 57 · 🔀 510 · 📦 22 · 📋 310 - 10% open · ⏱️ 10.05.2021):
+- [GitHub](https://github.com/flaskbb/flaskbb) (👨‍💻 57 · 🔀 510 · 📦 22 · 📋 310 - 10% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/flaskbb/flaskbb
@@ -4165,7 +4176,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/wooey/wooey
 	```
-- [PyPi](https://pypi.org/project/wooey) (📥 230 / month · 📦 1 · ⏱️ 16.04.2020):
+- [PyPi](https://pypi.org/project/wooey) (📥 160 / month · 📦 1 · ⏱️ 16.04.2020):
 	```
 	pip install wooey
 	```
@@ -4191,7 +4202,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/flask-admin/flask-admin
 	```
-- [PyPi](https://pypi.org/project/flask-admin) (📥 1M / month · 📦 4.6K · ⏱️ 17.04.2021):
+- [PyPi](https://pypi.org/project/flask-admin) (📥 1.1M / month · 📦 4.6K · ⏱️ 17.04.2021):
 	```
 	pip install flask-admin
 	```
@@ -4202,12 +4213,12 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 </details>
 <details><summary><b><a href="https://github.com/jazzband/django-debug-toolbar">django-debug-toolbar</a></b> (🥇31 ·  ⭐ 6.5K) - A configurable set of panels that display various.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/jazzband/django-debug-toolbar) (👨‍💻 240 · 🔀 920 · 📥 160 · 📦 38K · 📋 770 - 12% open · ⏱️ 09.05.2021):
+- [GitHub](https://github.com/jazzband/django-debug-toolbar) (👨‍💻 240 · 🔀 920 · 📥 160 · 📦 39K · 📋 780 - 12% open · ⏱️ 14.05.2021):
 
 	```
 	git clone https://github.com/jazzband/django-debug-toolbar
 	```
-- [PyPi](https://pypi.org/project/django-debug-toolbar) (📥 1.6M / month · 📦 25K · ⏱️ 14.04.2021):
+- [PyPi](https://pypi.org/project/django-debug-toolbar) (📥 1.5M / month · 📦 25K · ⏱️ 14.04.2021):
 	```
 	pip install django-debug-toolbar
 	```
@@ -4223,7 +4234,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/sehmaschine/django-grappelli
 	```
-- [PyPi](https://pypi.org/project/django-grappelli) (📥 130K / month · 📦 3.4K · ⏱️ 15.04.2021):
+- [PyPi](https://pypi.org/project/django-grappelli) (📥 120K / month · 📦 3.4K · ⏱️ 15.04.2021):
 	```
 	pip install django-grappelli
 	```
@@ -4239,14 +4250,14 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/django-admin-bootstrapped/django-admin-bootstrapped
 	```
-- [PyPi](https://pypi.org/project/django-admin-bootstrapped) (📥 5.5K / month · 📦 1.6K · ⏱️ 15.12.2015):
+- [PyPi](https://pypi.org/project/django-admin-bootstrapped) (📥 5.7K / month · 📦 1.6K · ⏱️ 15.12.2015):
 	```
 	pip install django-admin-bootstrapped
 	```
 </details>
 <details><summary><b><a href="https://github.com/fabiocaccamo/django-admin-interface">django-admin-interface</a></b> (🥉24 ·  ⭐ 810) - django's default admin interface made customizable... <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/fabiocaccamo/django-admin-interface) (👨‍💻 15 · 🔀 87 · 📦 700 · 📋 96 - 4% open · ⏱️ 06.05.2021):
+- [GitHub](https://github.com/fabiocaccamo/django-admin-interface) (👨‍💻 15 · 🔀 87 · 📦 730 · 📋 96 - 4% open · ⏱️ 06.05.2021):
 
 	```
 	git clone https://github.com/fabiocaccamo/django-admin-interface
@@ -4263,7 +4274,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/semente/django-smuggler
 	```
-- [PyPi](https://pypi.org/project/django-smuggler) (📥 6.8K / month · 📦 73 · ⏱️ 28.09.2020):
+- [PyPi](https://pypi.org/project/django-smuggler) (📥 6.3K / month · 📦 73 · ⏱️ 28.09.2020):
 	```
 	pip install django-smuggler
 	```
@@ -4275,26 +4286,26 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/jazzband/django-admin2
 	```
-- [PyPi](https://pypi.org/project/django-admin2) (📥 39 / month · 📦 14 · ⏱️ 10.01.2017):
+- [PyPi](https://pypi.org/project/django-admin2) (📥 47 / month · 📦 14 · ⏱️ 10.01.2017):
 	```
 	pip install django-admin2
 	```
 </details>
-<details><summary><b><a href="https://github.com/fastapi-admin/fastapi-admin">fastapi-admin</a></b> (🥉18 ·  ⭐ 620) - A fast admin dashboard based on FastAPI and TortoiseORM.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/fastapi-admin/fastapi-admin">fastapi-admin</a></b> (🥉18 ·  ⭐ 660) - A fast admin dashboard based on FastAPI and TortoiseORM.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/fastapi-admin/fastapi-admin) (👨‍💻 5 · 🔀 93 · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/fastapi-admin/fastapi-admin) (👨‍💻 5 · 🔀 97 · ⏱️ 20.05.2021):
 
 	```
 	git clone https://github.com/long2ice/fastapi-admin
 	```
-- [PyPi](https://pypi.org/project/fastapi-admin) (📥 740 / month · ⏱️ 09.05.2021):
+- [PyPi](https://pypi.org/project/fastapi-admin) (📥 820 / month · ⏱️ 09.05.2021):
 	```
 	pip install fastapi-admin
 	```
 </details>
-<details><summary><b><a href="https://github.com/schenkd/nginx-ui">nginx-ui</a></b> (🥉17 ·  ⭐ 3.8K · 💤) - Nginx UI allows you to access and modify the nginx configurations.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/schenkd/nginx-ui">nginx-ui</a></b> (🥉17 ·  ⭐ 3.9K · 💤) - Nginx UI allows you to access and modify the nginx configurations.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/schenkd/nginx-ui) (👨‍💻 3 · 🔀 180 · 📋 30 - 63% open · ⏱️ 25.06.2020):
+- [GitHub](https://github.com/schenkd/nginx-ui) (👨‍💻 3 · 🔀 190 · 📋 30 - 63% open · ⏱️ 25.06.2020):
 
 	```
 	git clone https://github.com/schenkd/nginx-ui
@@ -4318,19 +4329,19 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 
 <details><summary><b><a href="https://github.com/Kong/kong">Kong</a></b> (🥇29 ·  ⭐ 30K) - The Cloud-Native API Gateway. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Kong/kong) (👨‍💻 240 · 🔀 3.8K · 📥 520K · 📋 3.5K - 11% open · ⏱️ 12.05.2021):
+- [GitHub](https://github.com/Kong/kong) (👨‍💻 240 · 🔀 3.8K · 📥 520K · 📋 3.6K - 11% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/kong/kong
 	```
-- [Docker Hub](https://hub.docker.com/r/_/kong) (📥 240M · ⭐ 570 · ⏱️ 11.05.2021):
+- [Docker Hub](https://hub.docker.com/r/_/kong) (📥 240M · ⭐ 570 · ⏱️ 19.05.2021):
 	```
 	docker pull kong
 	```
 </details>
 <details><summary><b><a href="https://github.com/TykTechnologies/tyk">tyk</a></b> (🥉22 ·  ⭐ 6.3K) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/TykTechnologies/tyk) (👨‍💻 77 · 🔀 800 · 📥 18K · 📋 1.8K - 18% open · ⏱️ 12.05.2021):
+- [GitHub](https://github.com/TykTechnologies/tyk) (👨‍💻 77 · 🔀 790 · 📥 18K · 📋 1.8K - 18% open · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/TykTechnologies/tyk
@@ -4344,7 +4355,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 
 <details><summary><b><a href="https://github.com/pallets/flask-sqlalchemy">flask-sqlalchemy</a></b> (🥇33 ·  ⭐ 3.5K) - Adds SQLAlchemy support to Flask. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pallets/flask-sqlalchemy) (👨‍💻 100 · 🔀 820 · 📥 360 · 📦 180K · 📋 550 - 7% open · ⏱️ 11.05.2021):
+- [GitHub](https://github.com/pallets/flask-sqlalchemy) (👨‍💻 100 · 🔀 820 · 📥 360 · 📦 190K · 📋 550 - 7% open · ⏱️ 11.05.2021):
 
 	```
 	git clone https://github.com/pallets/flask-sqlalchemy
@@ -4358,14 +4369,14 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	conda install -c conda-forge flask-sqlalchemy
 	```
 </details>
-<details><summary><b><a href="https://github.com/miguelgrinberg/Flask-Migrate">Flask-Migrate</a></b> (🥇33 ·  ⭐ 1.9K) - SQLAlchemy database migrations for Flask applications using.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/miguelgrinberg/Flask-Migrate">Flask-Migrate</a></b> (🥇31 ·  ⭐ 1.9K · 📉) - SQLAlchemy database migrations for Flask applications.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/miguelgrinberg/Flask-Migrate) (👨‍💻 43 · 🔀 190 · 📦 71K · 📋 340 - 2% open · ⏱️ 24.03.2021):
+- [GitHub](https://github.com/miguelgrinberg/Flask-Migrate) (👨‍💻 43 · 🔀 190 · 📦 72K · 📋 340 - 1% open · ⏱️ 15.05.2021):
 
 	```
 	git clone https://github.com/miguelgrinberg/Flask-Migrate
 	```
-- [PyPi](https://pypi.org/project/flask-migrate) (📥 1M / month · 📦 19K · ⏱️ 19.01.2021):
+- [PyPi](https://pypi.org/project/flask-migrate) (📥 1M / month · 📦 19K · ⏱️ 15.05.2021):
 	```
 	pip install flask-migrate
 	```
@@ -4374,7 +4385,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	conda install -c conda-forge flask-migrate
 	```
 </details>
-<details><summary><b><a href="https://github.com/corydolphin/flask-cors">flask-cors</a></b> (🥇31 ·  ⭐ 710) - Cross Origin Resource Sharing ( CORS ) support for Flask. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/corydolphin/flask-cors">flask-cors</a></b> (🥇31 ·  ⭐ 720) - Cross Origin Resource Sharing ( CORS ) support for Flask. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/corydolphin/flask-cors) (👨‍💻 36 · 🔀 99 · 📦 100K · 📋 130 - 22% open · ⏱️ 05.01.2021):
 
@@ -4385,19 +4396,19 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	pip install flask-cors
 	```
-- [Conda](https://anaconda.org/conda-forge/flask-cors) (📥 350K · ⏱️ 15.06.2019):
+- [Conda](https://anaconda.org/conda-forge/flask-cors) (📥 370K · ⏱️ 15.06.2019):
 	```
 	conda install -c conda-forge flask-cors
 	```
 </details>
-<details><summary><b><a href="https://github.com/sh4nks/flask-caching">flask-caching</a></b> (🥇29 ·  ⭐ 600) - A caching extension for Flask. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/sh4nks/flask-caching">flask-caching</a></b> (🥇29 ·  ⭐ 610) - A caching extension for Flask. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/sh4nks/flask-caching) (👨‍💻 93 · 🔀 130 · 📦 7.1K · 📋 150 - 9% open · ⏱️ 12.04.2021):
+- [GitHub](https://github.com/sh4nks/flask-caching) (👨‍💻 95 · 🔀 130 · 📦 7.2K · 📋 150 - 9% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/sh4nks/flask-caching
 	```
-- [PyPi](https://pypi.org/project/flask-caching) (📥 1.7M / month · 📦 1.3K · ⏱️ 17.03.2021):
+- [PyPi](https://pypi.org/project/flask-caching) (📥 1.6M / month · 📦 1.3K · ⏱️ 17.03.2021):
 	```
 	pip install flask-caching
 	```
@@ -4420,12 +4431,12 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 </details>
 <details><summary><b><a href="https://github.com/flask-api/flask-api">flask-api</a></b> (🥈27 ·  ⭐ 1.2K) - Browsable web APIs for Flask. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/flask-api/flask-api) (👨‍💻 32 · 🔀 150 · 📦 4.4K · 📋 63 - 19% open · ⏱️ 06.04.2021):
+- [GitHub](https://github.com/flask-api/flask-api) (👨‍💻 32 · 🔀 150 · 📦 4.4K · 📋 63 - 19% open · ⏱️ 14.05.2021):
 
 	```
 	git clone https://github.com/flask-api/flask-api
 	```
-- [PyPi](https://pypi.org/project/flask-api) (📥 390K / month · 📦 1.3K · ⏱️ 27.11.2019):
+- [PyPi](https://pypi.org/project/flask-api) (📥 420K / month · 📦 1.3K · ⏱️ 14.05.2021):
 	```
 	pip install flask-api
 	```
@@ -4441,19 +4452,31 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	pip install flask-babel
 	```
-- [Conda](https://anaconda.org/conda-forge/flask-babel) (📥 66K · ⏱️ 28.08.2020):
+- [Conda](https://anaconda.org/conda-forge/flask-babel) (📥 67K · ⏱️ 28.08.2020):
 	```
 	conda install -c conda-forge flask-babel
 	```
 </details>
+<details><summary><b><a href="https://github.com/fengsp/flask-session">flask-session</a></b> (🥈26 ·  ⭐ 350 · 💤) - Server side session extension for Flask. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/fengsp/flask-session) (👨‍💻 7 · 🔀 150 · 📦 15K · 📋 100 - 66% open · ⏱️ 14.05.2020):
+
+	```
+	git clone https://github.com/fengsp/flask-session
+	```
+- [PyPi](https://pypi.org/project/flask-session) (📥 140K / month · 📦 2K · ⏱️ 14.05.2020):
+	```
+	pip install flask-session
+	```
+</details>
 <details><summary><b><a href="https://github.com/miguelgrinberg/Flask-Moment">Flask-Moment</a></b> (🥈26 ·  ⭐ 330) - Formatting of dates and times in Flask templates using.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/miguelgrinberg/Flask-Moment) (👨‍💻 18 · 🔀 47 · 📦 16K · 📋 40 - 12% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/miguelgrinberg/Flask-Moment) (👨‍💻 19 · 🔀 48 · 📦 16K · 📋 40 - 12% open · ⏱️ 17.05.2021):
 
 	```
 	git clone https://github.com/miguelgrinberg/Flask-Moment
 	```
-- [PyPi](https://pypi.org/project/flask-moment) (📥 38K / month · 📦 4.5K · ⏱️ 17.12.2020):
+- [PyPi](https://pypi.org/project/flask-moment) (📥 35K / month · 📦 4.5K · ⏱️ 17.12.2020):
 	```
 	pip install flask-moment
 	```
@@ -4469,7 +4492,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/johnwheeler/flask-ask
 	```
-- [PyPi](https://pypi.org/project/flask-ask) (📥 750 / month · 📦 260 · ⏱️ 28.02.2018):
+- [PyPi](https://pypi.org/project/flask-ask) (📥 700 / month · 📦 260 · ⏱️ 28.02.2018):
 	```
 	pip install flask-ask
 	```
@@ -4488,30 +4511,18 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 </details>
 <details><summary><b><a href="https://github.com/jmcarp/flask-apispec">flask-apispec</a></b> (🥈25 ·  ⭐ 540 · 💤) - Build and document REST APIs with Flask and apispec. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/jmcarp/flask-apispec) (👨‍💻 29 · 🔀 120 · 📦 490 · 📋 150 - 58% open · ⏱️ 25.10.2020):
+- [GitHub](https://github.com/jmcarp/flask-apispec) (👨‍💻 29 · 🔀 120 · 📦 500 · 📋 150 - 58% open · ⏱️ 25.10.2020):
 
 	```
 	git clone https://github.com/jmcarp/flask-apispec
 	```
-- [PyPi](https://pypi.org/project/flask-apispec) (📥 74K / month · 📦 62 · ⏱️ 25.10.2020):
+- [PyPi](https://pypi.org/project/flask-apispec) (📥 71K / month · 📦 62 · ⏱️ 25.10.2020):
 	```
 	pip install flask-apispec
 	```
 - [Conda](https://anaconda.org/conda-forge/flask-apispec) (📥 89K · ⏱️ 25.10.2020):
 	```
 	conda install -c conda-forge flask-apispec
-	```
-</details>
-<details><summary><b><a href="https://github.com/fengsp/flask-session">flask-session</a></b> (🥈25 ·  ⭐ 350 · 💤) - Server side session extension for Flask. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/fengsp/flask-session) (👨‍💻 7 · 🔀 150 · 📦 15K · 📋 100 - 66% open · ⏱️ 14.05.2020):
-
-	```
-	git clone https://github.com/fengsp/flask-session
-	```
-- [PyPi](https://pypi.org/project/flask-session) (📥 130K / month · 📦 2K · ⏱️ 14.05.2020):
-	```
-	pip install flask-session
 	```
 </details>
 <details><summary><b><a href="https://github.com/lixxu/flask-paginate">flask-paginate</a></b> (🥈25 ·  ⭐ 230) - Pagination support for flask. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
@@ -4521,7 +4532,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/lixxu/flask-paginate
 	```
-- [PyPi](https://pypi.org/project/flask-paginate) (📥 37K / month · 📦 84 · ⏱️ 31.01.2021):
+- [PyPi](https://pypi.org/project/flask-paginate) (📥 42K / month · 📦 84 · ⏱️ 31.01.2021):
 	```
 	pip install flask-paginate
 	```
@@ -4537,14 +4548,14 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	pip install flask-seasurf
 	```
-- [Conda](https://anaconda.org/conda-forge/flask-seasurf) (📥 20K · ⏱️ 27.11.2020):
+- [Conda](https://anaconda.org/conda-forge/flask-seasurf) (📥 21K · ⏱️ 27.11.2020):
 	```
 	conda install -c conda-forge flask-seasurf
 	```
 </details>
 <details><summary><b><a href="https://github.com/Frozen-Flask/Frozen-Flask">Frozen-Flask</a></b> (🥉24 ·  ⭐ 680) - Freezes a Flask application into a set of static files. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/Frozen-Flask/Frozen-Flask) (👨‍💻 24 · 🔀 65 · 📥 54 · 📦 2K · 📋 58 - 31% open · ⏱️ 26.11.2020):
+- [GitHub](https://github.com/Frozen-Flask/Frozen-Flask) (👨‍💻 24 · 🔀 65 · 📥 54 · 📦 2K · 📋 59 - 32% open · ⏱️ 26.11.2020):
 
 	```
 	git clone https://github.com/Frozen-Flask/Frozen-Flask
@@ -4574,14 +4585,14 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	conda install -c conda-forge flask-marshmallow
 	```
 </details>
-<details><summary><b><a href="https://github.com/GoogleCloudPlatform/flask-talisman">flask-talisman</a></b> (🥉23 ·  ⭐ 750 · 💤) - HTTP security headers for Flask. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/GoogleCloudPlatform/flask-talisman">flask-talisman</a></b> (🥉23 ·  ⭐ 760 · 💤) - HTTP security headers for Flask. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/GoogleCloudPlatform/flask-talisman) (👨‍💻 19 · 🔀 61 · 📦 1.3K · 📋 35 - 40% open · ⏱️ 13.07.2020):
+- [GitHub](https://github.com/GoogleCloudPlatform/flask-talisman) (👨‍💻 19 · 🔀 62 · 📦 1.3K · 📋 35 - 40% open · ⏱️ 13.07.2020):
 
 	```
 	git clone https://github.com/GoogleCloudPlatform/flask-talisman
 	```
-- [PyPi](https://pypi.org/project/flask-talisman) (📥 220K / month · 📦 160 · ⏱️ 28.05.2019):
+- [PyPi](https://pypi.org/project/flask-talisman) (📥 210K / month · 📦 160 · ⏱️ 28.05.2019):
 	```
 	pip install flask-talisman
 	```
@@ -4593,19 +4604,19 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/alecthomas/flask_injector
 	```
-- [PyPi](https://pypi.org/project/flask_injector) (📥 38K / month · 📦 110 · ⏱️ 22.02.2020):
+- [PyPi](https://pypi.org/project/flask_injector) (📥 36K / month · 📦 110 · ⏱️ 22.02.2020):
 	```
 	pip install flask_injector
 	```
 </details>
 <details><summary><b><a href="https://github.com/muatik/flask-profiler">flask-profiler</a></b> (🥉22 ·  ⭐ 640 · 💤) - a flask profiler which watches endpoint calls and tries.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/muatik/flask-profiler) (👨‍💻 29 · 🔀 81 · 📋 57 - 47% open · ⏱️ 20.10.2020):
+- [GitHub](https://github.com/muatik/flask-profiler) (👨‍💻 29 · 🔀 81 · 📋 58 - 46% open · ⏱️ 20.10.2020):
 
 	```
 	git clone https://github.com/muatik/flask-profiler
 	```
-- [PyPi](https://pypi.org/project/flask-profiler) (📥 18K / month · 📦 12 · ⏱️ 19.11.2018):
+- [PyPi](https://pypi.org/project/flask-profiler) (📥 17K / month · 📦 12 · ⏱️ 19.11.2018):
 	```
 	pip install flask-profiler
 	```
@@ -4617,43 +4628,43 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/pyexcel-webwares/Flask-Excel
 	```
-- [PyPi](https://pypi.org/project/flask-excel) (📥 16K / month · 📦 140 · ⏱️ 20.07.2017):
+- [PyPi](https://pypi.org/project/flask-excel) (📥 15K / month · 📦 140 · ⏱️ 20.07.2017):
 	```
 	pip install flask-excel
 	```
 </details>
-<details><summary><b><a href="https://github.com/plangrid/flask-rebar">flask-rebar</a></b> (🥉21 ·  ⭐ 170) - Flask-Rebar combines flask, marshmallow, and swagger for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/plangrid/flask-rebar">flask-rebar</a></b> (🥉22 ·  ⭐ 170) - Flask-Rebar combines flask, marshmallow, and swagger for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/plangrid/flask-rebar) (👨‍💻 30 · 🔀 28 · 📦 28 · 📋 85 - 49% open · ⏱️ 07.05.2021):
+- [GitHub](https://github.com/plangrid/flask-rebar) (👨‍💻 30 · 🔀 29 · 📦 28 · 📋 88 - 51% open · ⏱️ 07.05.2021):
 
 	```
 	git clone https://github.com/plangrid/flask-rebar
 	```
-- [PyPi](https://pypi.org/project/flask-rebar) (📥 3.3K / month · 📦 6 · ⏱️ 10.09.2020):
+- [PyPi](https://pypi.org/project/flask-rebar) (📥 3.3K / month · 📦 6 · ⏱️ 17.05.2021):
 	```
 	pip install flask-rebar
 	```
 </details>
 <details><summary><b><a href="https://github.com/thomaxxl/safrs">safrs</a></b> (🥉20 ·  ⭐ 270) - SqlAlchemy Flask-Restful Swagger Json:API OpenAPI. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/thomaxxl/safrs) (👨‍💻 15 · 🔀 52 · 📦 27 · 📋 71 - 1% open · ⏱️ 10.05.2021):
+- [GitHub](https://github.com/thomaxxl/safrs) (👨‍💻 15 · 🔀 52 · 📦 27 · 📋 71 - 1% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/thomaxxl/safrs
 	```
-- [PyPi](https://pypi.org/project/safrs) (📥 780 / month · ⏱️ 26.04.2021):
+- [PyPi](https://pypi.org/project/safrs) (📥 730 / month · ⏱️ 26.04.2021):
 	```
 	pip install safrs
 	```
 </details>
 <details><summary><b><a href="https://github.com/honmaple/flask-msearch">flask-msearch</a></b> (🥉20 ·  ⭐ 170) - Full text search for flask. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/honmaple/flask-msearch) (👨‍💻 4 · 🔀 25 · 📦 200 · 📋 42 - 30% open · ⏱️ 22.03.2021):
+- [GitHub](https://github.com/honmaple/flask-msearch) (👨‍💻 4 · 🔀 25 · 📦 200 · 📋 43 - 30% open · ⏱️ 22.03.2021):
 
 	```
 	git clone https://github.com/honmaple/flask-msearch
 	```
-- [PyPi](https://pypi.org/project/flask-msearch) (📥 620 / month · 📦 12 · ⏱️ 22.03.2021):
+- [PyPi](https://pypi.org/project/flask-msearch) (📥 640 / month · 📦 12 · ⏱️ 22.03.2021):
 	```
 	pip install flask-msearch
 	```
@@ -4665,24 +4676,24 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/cenobites/flask-jsonrpc
 	```
-- [PyPi](https://pypi.org/project/rpc) (📥 530 / month · 📦 6 · ⏱️ 28.04.2012):
+- [PyPi](https://pypi.org/project/rpc) (📥 490 / month · 📦 6 · ⏱️ 28.04.2012):
 	```
 	pip install rpc
 	```
 </details>
 <details><summary><b><a href="https://github.com/bauerji/flask_pydantic">flask_pydantic</a></b> (🥉18 ·  ⭐ 110) - flask extension for integration with the awesome pydantic.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/bauerji/flask_pydantic) (👨‍💻 8 · 🔀 17 · 📦 25 · 📋 19 - 15% open · ⏱️ 09.05.2021):
+- [GitHub](https://github.com/bauerji/flask_pydantic) (👨‍💻 8 · 🔀 18 · 📦 28 · 📋 19 - 15% open · ⏱️ 09.05.2021):
 
 	```
 	git clone https://github.com/bauerji/flask_pydantic
 	```
-- [PyPi](https://pypi.org/project/flask_pydantic) (📥 6.2K / month · ⏱️ 09.05.2021):
+- [PyPi](https://pypi.org/project/flask_pydantic) (📥 6.4K / month · ⏱️ 09.05.2021):
 	```
 	pip install flask_pydantic
 	```
 </details>
-<details><summary><b><a href="https://github.com/cookiecutter-flask/cookiecutter-flask">cookiecutter-flask</a></b> (🥉17 ·  ⭐ 3.7K) - A flask template with Bootstrap 4, asset.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/cookiecutter-flask/cookiecutter-flask">cookiecutter-flask</a></b> (🥉17 ·  ⭐ 3.8K) - A flask template with Bootstrap 4, asset.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/cookiecutter-flask/cookiecutter-flask) (👨‍💻 61 · 🔀 680 · 📋 160 - 6% open · ⏱️ 13.05.2021):
 
@@ -4692,12 +4703,12 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 </details>
 <details><summary><b><a href="https://github.com/joegasewicz/flask-file-upload">flask-file-upload</a></b> (🥉17 ·  ⭐ 120) - Easy file uploads for Flask. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/joegasewicz/flask-file-upload) (👨‍💻 4 · 🔀 9 · 📦 17 · 📋 68 - 33% open · ⏱️ 18.04.2021):
+- [GitHub](https://github.com/joegasewicz/flask-file-upload) (👨‍💻 4 · 🔀 9 · 📦 17 · 📋 69 - 31% open · ⏱️ 14.05.2021):
 
 	```
 	git clone https://github.com/joegasewicz/flask-file-upload
 	```
-- [PyPi](https://pypi.org/project/flask-file-upload) (📥 300 / month · ⏱️ 25.09.2020):
+- [PyPi](https://pypi.org/project/flask-file-upload) (📥 340 / month · ⏱️ 13.05.2021):
 	```
 	pip install flask-file-upload
 	```
@@ -4709,7 +4720,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/numberly/flask2postman
 	```
-- [PyPi](https://pypi.org/project/flask2postman) (📥 210 / month · 📦 1 · ⏱️ 16.01.2020):
+- [PyPi](https://pypi.org/project/flask2postman) (📥 220 / month · 📦 1 · ⏱️ 16.01.2020):
 	```
 	pip install flask2postman
 	```
@@ -4729,93 +4740,105 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/mfreeborn/fastapi-sqlalchemy">fastapi-sqlalchemy</a></b> (🥇21 ·  ⭐ 260 · 💤) - Adds simple SQLAlchemy support to FastAPI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/mfreeborn/fastapi-sqlalchemy">fastapi-sqlalchemy</a></b> (🥇21 ·  ⭐ 270 · 💤) - Adds simple SQLAlchemy support to FastAPI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/mfreeborn/fastapi-sqlalchemy) (👨‍💻 5 · 🔀 21 · 📦 160 · 📋 17 - 52% open · ⏱️ 25.09.2020):
+- [GitHub](https://github.com/mfreeborn/fastapi-sqlalchemy) (👨‍💻 5 · 🔀 22 · 📦 170 · 📋 17 - 52% open · ⏱️ 25.09.2020):
 
 	```
 	git clone https://github.com/mfreeborn/fastapi-sqlalchemy
 	```
-- [PyPi](https://pypi.org/project/fastapi-sqlalchemy) (📥 19K / month · ⏱️ 25.09.2020):
+- [PyPi](https://pypi.org/project/fastapi-sqlalchemy) (📥 20K / month · ⏱️ 25.09.2020):
 	```
 	pip install fastapi-sqlalchemy
 	```
 </details>
 <details><summary><b><a href="https://github.com/DeanWay/fastapi-versioning">fastapi-versioning</a></b> (🥇19 ·  ⭐ 180) - api versioning for fastapi web applications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/DeanWay/fastapi-versioning) (👨‍💻 15 · 🔀 27 · 📋 26 - 53% open · ⏱️ 06.05.2021):
+- [GitHub](https://github.com/DeanWay/fastapi-versioning) (👨‍💻 15 · 🔀 27 · 📋 25 - 48% open · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/DeanWay/fastapi-versioning
 	```
-- [PyPi](https://pypi.org/project/fastapi-versioning) (📥 8.1K / month · 📦 1 · ⏱️ 04.05.2021):
+- [PyPi](https://pypi.org/project/fastapi-versioning) (📥 9.6K / month · 📦 1 · ⏱️ 18.05.2021):
 	```
 	pip install fastapi-versioning
 	```
 </details>
 <details><summary><b><a href="https://github.com/identixone/fastapi_contrib">fastapi_contrib</a></b> (🥈18 ·  ⭐ 330) - Opinionated set of utilities on top of FastAPI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/identixone/fastapi_contrib) (👨‍💻 9 · 🔀 20 · 📋 25 - 24% open · ⏱️ 01.03.2021):
+- [GitHub](https://github.com/identixone/fastapi_contrib) (👨‍💻 9 · 🔀 19 · 📋 25 - 24% open · ⏱️ 01.03.2021):
 
 	```
 	git clone https://github.com/identixone/fastapi_contrib
 	```
-- [PyPi](https://pypi.org/project/fastapi_contrib) (📥 9.5K / month · ⏱️ 01.03.2021):
+- [PyPi](https://pypi.org/project/fastapi_contrib) (📥 9.1K / month · ⏱️ 01.03.2021):
 	```
 	pip install fastapi_contrib
 	```
 </details>
 <details><summary><b><a href="https://github.com/madkote/fastapi-plugins">fastapi-plugins</a></b> (🥈18 ·  ⭐ 130) - FastAPI framework plugins. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/madkote/fastapi-plugins) (👨‍💻 3 · 🔀 5 · 📦 24 · 📋 12 - 25% open · ⏱️ 31.03.2021):
+- [GitHub](https://github.com/madkote/fastapi-plugins) (👨‍💻 3 · 🔀 5 · 📦 25 · 📋 12 - 25% open · ⏱️ 31.03.2021):
 
 	```
 	git clone https://github.com/madkote/fastapi-plugins
 	```
-- [PyPi](https://pypi.org/project/fastapi-plugins) (📥 2.5K / month · ⏱️ 31.03.2021):
+- [PyPi](https://pypi.org/project/fastapi-plugins) (📥 2.4K / month · ⏱️ 31.03.2021):
 	```
 	pip install fastapi-plugins
 	```
 </details>
-<details><summary><b><a href="https://github.com/laurentS/slowapi">slowapi</a></b> (🥉17 ·  ⭐ 220) - A rate limiter for Starlette and FastAPI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/laurentS/slowapi">slowapi</a></b> (🥉17 ·  ⭐ 230) - A rate limiter for Starlette and FastAPI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/laurentS/slowapi) (👨‍💻 7 · 🔀 14 · 📋 36 - 36% open · ⏱️ 14.03.2021):
+- [GitHub](https://github.com/laurentS/slowapi) (👨‍💻 7 · 🔀 15 · 📋 37 - 35% open · ⏱️ 14.03.2021):
 
 	```
 	git clone https://github.com/laurents/slowapi
 	```
-- [PyPi](https://pypi.org/project/slowapi) (📥 6.1K / month · ⏱️ 23.12.2020):
+- [PyPi](https://pypi.org/project/slowapi) (📥 6.7K / month · ⏱️ 23.12.2020):
 	```
 	pip install slowapi
 	```
 </details>
-<details><summary><b><a href="https://github.com/koxudaxi/fastapi-code-generator">fastapi-code-generator</a></b> (🥉17 ·  ⭐ 200) - This code generator creates FastAPI app from an.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/koxudaxi/fastapi-code-generator">fastapi-code-generator</a></b> (🥉17 ·  ⭐ 210) - This code generator creates FastAPI app from an.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/koxudaxi/fastapi-code-generator) (👨‍💻 9 · 🔀 17 · 📋 28 - 35% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/koxudaxi/fastapi-code-generator) (👨‍💻 9 · 🔀 18 · 📋 28 - 35% open · ⏱️ 13.05.2021):
 
 	```
 	git clone https://github.com/koxudaxi/fastapi-code-generator
 	```
-- [PyPi](https://pypi.org/project/fastapi-code-generator) (📥 580 / month · ⏱️ 04.05.2021):
+- [PyPi](https://pypi.org/project/fastapi-code-generator) (📥 690 / month · ⏱️ 04.05.2021):
 	```
 	pip install fastapi-code-generator
 	```
 </details>
-<details><summary><b><a href="https://github.com/stephenhillier/starlette_exporter">starlette_exporter</a></b> (🥉17 ·  ⭐ 93) - Prometheus exporter for Starlette and FastAPI. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/stephenhillier/starlette_exporter">starlette_exporter</a></b> (🥉17 ·  ⭐ 95) - Prometheus exporter for Starlette and FastAPI. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/stephenhillier/starlette_exporter) (👨‍💻 6 · 🔀 9 · 📋 10 - 30% open · ⏱️ 11.05.2021):
+- [GitHub](https://github.com/stephenhillier/starlette_exporter) (👨‍💻 6 · 🔀 9 · 📋 13 - 23% open · ⏱️ 17.05.2021):
 
 	```
 	git clone https://github.com/stephenhillier/starlette_exporter
 	```
-- [PyPi](https://pypi.org/project/starlette_exporter) (📥 51K / month · ⏱️ 11.05.2021):
+- [PyPi](https://pypi.org/project/starlette_exporter) (📥 49K / month · ⏱️ 11.05.2021):
 	```
 	pip install starlette_exporter
 	```
 </details>
-<details><summary><b><a href="https://github.com/Buuntu/fastapi-react">fastapi-react</a></b> (🥉15 ·  ⭐ 580) - Cookiecutter Template for FastAPI + React Projects. Using.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/pyropy/fastapi-socketio">fastapi-socketio</a></b> (🥉17 ·  ⭐ 60 · 📈) - Easily integrate socket.io with your FastAPI app. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/Buuntu/fastapi-react) (👨‍💻 9 · 🔀 79 · 📋 45 - 28% open · ⏱️ 20.03.2021):
+- [GitHub](https://github.com/pyropy/fastapi-socketio) (👨‍💻 3 · 🔀 5 · 📦 10 · 📋 12 - 58% open · ⏱️ 20.05.2021):
+
+	```
+	git clone https://github.com/pyropy/fastapi-socketio
+	```
+- [PyPi](https://pypi.org/project/fastapi-socketio) (📥 830 / month · ⏱️ 01.12.2020):
+	```
+	pip install fastapi-socketio
+	```
+</details>
+<details><summary><b><a href="https://github.com/Buuntu/fastapi-react">fastapi-react</a></b> (🥉15 ·  ⭐ 600) - Cookiecutter Template for FastAPI + React Projects. Using.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/Buuntu/fastapi-react) (👨‍💻 10 · 🔀 83 · 📋 45 - 28% open · ⏱️ 14.05.2021):
 
 	```
 	git clone https://github.com/Buuntu/fastapi-react
@@ -4828,24 +4851,12 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/comeuplater/fastapi_cache
 	```
-- [PyPi](https://pypi.org/project/fastapi_cache) (📥 2K / month · ⏱️ 26.07.2020):
+- [PyPi](https://pypi.org/project/fastapi_cache) (📥 1.7K / month · ⏱️ 26.07.2020):
 	```
 	pip install fastapi_cache
 	```
 </details>
-<details><summary><b><a href="https://github.com/pyropy/fastapi-socketio">fastapi-socketio</a></b> (🥉15 ·  ⭐ 59) - Easily integrate socket.io with your FastAPI app. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/pyropy/fastapi-socketio) (👨‍💻 2 · 🔀 3 · 📦 10 · 📋 12 - 66% open · ⏱️ 01.12.2020):
-
-	```
-	git clone https://github.com/pyropy/fastapi-socketio
-	```
-- [PyPi](https://pypi.org/project/fastapi-socketio) (📥 990 / month · ⏱️ 01.12.2020):
-	```
-	pip install fastapi-socketio
-	```
-</details>
-<details><summary><b><a href="https://github.com/dmontagu/fastapi_client">fastapi_client</a></b> (🥉10 ·  ⭐ 160) - FastAPI client generator. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/dmontagu/fastapi_client">fastapi_client</a></b> (🥉10 ·  ⭐ 170) - FastAPI client generator. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://fastapi.tiangolo.com/img/favicon.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/dmontagu/fastapi_client) (👨‍💻 8 · 🔀 13 · 📋 11 - 36% open · ⏱️ 11.02.2021):
 
@@ -4870,7 +4881,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/sontek/pyramid_celery
 	```
-- [PyPi](https://pypi.org/project/pyramid_celery) (📥 3.9K / month · 📦 12 · ⏱️ 24.12.2016):
+- [PyPi](https://pypi.org/project/pyramid_celery) (📥 4.1K / month · 📦 12 · ⏱️ 24.12.2016):
 	```
 	pip install pyramid_celery
 	```
@@ -4889,7 +4900,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/Pylons/pyramid_jinja2">pyramid_jinja2</a></b> (🥇22 ·  ⭐ 72 · 💀) - Jinja2 templating system bindings for the Pyramid web.. <code>❗Unlicensed</code> <code><img src="https://trypyramid.com/img/pyramid-16x16.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/Pylons/pyramid_jinja2">pyramid_jinja2</a></b> (🥇23 ·  ⭐ 72 · 💀) - Jinja2 templating system bindings for the Pyramid web.. <code>❗Unlicensed</code> <code><img src="https://trypyramid.com/img/pyramid-16x16.png" style="display:inline;" width="13" height="13"></code>
 </details>
 <br>
 
@@ -4899,7 +4910,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 
 <details><summary><b><a href="https://github.com/django-extensions/django-extensions">django-extensions</a></b> (🥇32 ·  ⭐ 5.4K) - This is a repository for collecting global custom.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/django-extensions/django-extensions) (👨‍💻 540 · 🔀 1K · 📦 70K · 📋 790 - 13% open · ⏱️ 02.05.2021):
+- [GitHub](https://github.com/django-extensions/django-extensions) (👨‍💻 540 · 🔀 1K · 📦 70K · 📋 790 - 13% open · ⏱️ 17.05.2021):
 
 	```
 	git clone https://github.com/django-extensions/django-extensions
@@ -4948,7 +4959,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/etianen/django-reversion
 	```
-- [PyPi](https://pypi.org/project/django-reversion) (📥 260K / month · 📦 4.2K · ⏱️ 22.01.2021):
+- [PyPi](https://pypi.org/project/django-reversion) (📥 270K / month · 📦 4.2K · ⏱️ 22.01.2021):
 	```
 	pip install django-reversion
 	```
@@ -4960,7 +4971,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/jazzband/django-model-utils
 	```
-- [PyPi](https://pypi.org/project/django-model-utils) (📥 650K / month · 📦 9.2K · ⏱️ 01.12.2020):
+- [PyPi](https://pypi.org/project/django-model-utils) (📥 630K / month · 📦 9.2K · ⏱️ 01.12.2020):
 	```
 	pip install django-model-utils
 	```
@@ -4995,7 +5006,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 </details>
 <details><summary><b><a href="https://github.com/adamchainz/django-cors-headers">django-cors-headers</a></b> (🥈31 ·  ⭐ 4.1K) - Django app for handling the server headers required.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/adamchainz/django-cors-headers) (👨‍💻 60 · 🔀 470 · 📦 67K · 📋 220 - 4% open · ⏱️ 11.05.2021):
+- [GitHub](https://github.com/adamchainz/django-cors-headers) (👨‍💻 60 · 🔀 470 · 📦 68K · 📋 220 - 4% open · ⏱️ 17.05.2021):
 
 	```
 	git clone https://github.com/adamchainz/django-cors-headers
@@ -5027,48 +5038,48 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 </details>
 <details><summary><b><a href="https://github.com/yourlabs/django-autocomplete-light">django-autocomplete-light</a></b> (🥈31 ·  ⭐ 1.5K) - A fresh approach to autocomplete implementations,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/yourlabs/django-autocomplete-light) (👨‍💻 180 · 🔀 420 · 📦 2.6K · 📋 790 - 23% open · ⏱️ 11.05.2021):
+- [GitHub](https://github.com/yourlabs/django-autocomplete-light) (👨‍💻 180 · 🔀 420 · 📦 2.6K · 📋 790 - 23% open · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/yourlabs/django-autocomplete-light
 	```
-- [PyPi](https://pypi.org/project/django-autocomplete-light) (📥 150K / month · 📦 1.4K · ⏱️ 13.10.2020):
+- [PyPi](https://pypi.org/project/django-autocomplete-light) (📥 150K / month · 📦 1.4K · ⏱️ 18.05.2021):
 	```
 	pip install django-autocomplete-light
 	```
 </details>
 <details><summary><b><a href="https://github.com/jieter/django-tables2">django-tables2</a></b> (🥈31 ·  ⭐ 1.4K) - django-tables2 - An app for creating HTML tables. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/jieter/django-tables2) (👨‍💻 130 · 🔀 370 · 📦 4K · 📋 510 - 9% open · ⏱️ 21.04.2021):
+- [GitHub](https://github.com/jieter/django-tables2) (👨‍💻 140 · 🔀 380 · 📦 4K · 📋 520 - 8% open · ⏱️ 15.05.2021):
 
 	```
 	git clone https://github.com/jieter/django-tables2
 	```
-- [PyPi](https://pypi.org/project/django-tables2) (📥 140K / month · 📦 1.7K · ⏱️ 10.01.2021):
+- [PyPi](https://pypi.org/project/django-tables2) (📥 140K / month · 📦 1.7K · ⏱️ 15.05.2021):
 	```
 	pip install django-tables2
 	```
 </details>
 <details><summary><b><a href="https://github.com/carltongibson/django-filter">django-filter</a></b> (🥈30 ·  ⭐ 3.4K) - A generic system for filtering Django QuerySets based on.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/carltongibson/django-filter) (👨‍💻 170 · 🔀 660 · 📦 57K · 📋 740 - 14% open · ⏱️ 29.04.2021):
+- [GitHub](https://github.com/carltongibson/django-filter) (👨‍💻 170 · 🔀 660 · 📦 58K · 📋 740 - 14% open · ⏱️ 14.05.2021):
 
 	```
 	git clone https://github.com/carltongibson/django-filter
 	```
-- [PyPi](https://pypi.org/project/django-filter) (📥 2.3M / month · 📦 17K · ⏱️ 27.09.2020):
+- [PyPi](https://pypi.org/project/django-filter) (📥 2.2M / month · 📦 17K · ⏱️ 27.09.2020):
 	```
 	pip install django-filter
 	```
 </details>
 <details><summary><b><a href="https://github.com/jazzband/django-taggit">django-taggit</a></b> (🥈30 ·  ⭐ 2.6K) - Simple tagging for django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/jazzband/django-taggit) (👨‍💻 130 · 🔀 550 · 📋 360 - 18% open · ⏱️ 07.05.2021):
+- [GitHub](https://github.com/jazzband/django-taggit) (👨‍💻 130 · 🔀 550 · 📋 360 - 18% open · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/jazzband/django-taggit
 	```
-- [PyPi](https://pypi.org/project/django-taggit) (📥 610K / month · 📦 5.6K · ⏱️ 22.05.2020):
+- [PyPi](https://pypi.org/project/django-taggit) (📥 590K / month · 📦 5.6K · ⏱️ 22.05.2020):
 	```
 	pip install django-taggit
 	```
@@ -5084,31 +5095,31 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/django-mptt/django-mptt
 	```
-- [PyPi](https://pypi.org/project/django-mptt) (📥 320K / month · 📦 6.3K · ⏱️ 18.01.2020):
+- [PyPi](https://pypi.org/project/django-mptt) (📥 350K / month · 📦 6.3K · ⏱️ 18.01.2020):
 	```
 	pip install django-mptt
 	```
 </details>
-<details><summary><b><a href="https://github.com/django-webpack/django-webpack-loader">django-webpack-loader</a></b> (🥈30 ·  ⭐ 2.2K) - Transparently use webpack with django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/django-webpack/django-webpack-loader">django-webpack-loader</a></b> (🥈30 ·  ⭐ 2.3K) - Transparently use webpack with django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/django-webpack/django-webpack-loader) (👨‍💻 41 · 🔀 300 · 📦 6.5K · 📋 150 - 25% open · ⏱️ 12.05.2021):
+- [GitHub](https://github.com/django-webpack/django-webpack-loader) (👨‍💻 42 · 🔀 300 · 📦 6.5K · 📋 150 - 22% open · ⏱️ 16.05.2021):
 
 	```
 	git clone https://github.com/owais/django-webpack-loader
 	```
-- [PyPi](https://pypi.org/project/django-webpack-loader) (📥 290K / month · 📦 1.9K · ⏱️ 12.05.2021):
+- [PyPi](https://pypi.org/project/django-webpack-loader) (📥 280K / month · 📦 1.9K · ⏱️ 12.05.2021):
 	```
 	pip install django-webpack-loader
 	```
 </details>
-<details><summary><b><a href="https://github.com/django-import-export/django-import-export">django-import-export</a></b> (🥈30 ·  ⭐ 2.1K · 📉) - Django application and library for importing and.. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/django-import-export/django-import-export">django-import-export</a></b> (🥈30 ·  ⭐ 2.1K) - Django application and library for importing and.. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/django-import-export/django-import-export) (👨‍💻 180 · 🔀 620 · 📦 10K · 📋 760 - 11% open · ⏱️ 05.05.2021):
 
 	```
 	git clone https://github.com/django-import-export/django-import-export
 	```
-- [PyPi](https://pypi.org/project/django-import-export) (📥 570K / month · 📦 2K · ⏱️ 31.12.2020):
+- [PyPi](https://pypi.org/project/django-import-export) (📥 520K / month · 📦 2K · ⏱️ 31.12.2020):
 	```
 	pip install django-import-export
 	```
@@ -5131,7 +5142,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 </details>
 <details><summary><b><a href="https://github.com/django-ckeditor/django-ckeditor">django-ckeditor</a></b> (🥈30 ·  ⭐ 1.9K) - Django admin CKEditor integration. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/django-ckeditor/django-ckeditor) (👨‍💻 120 · 🔀 650 · 📦 14K · 📋 490 - 23% open · ⏱️ 30.03.2021):
+- [GitHub](https://github.com/django-ckeditor/django-ckeditor) (👨‍💻 120 · 🔀 650 · 📦 15K · 📋 490 - 23% open · ⏱️ 30.03.2021):
 
 	```
 	git clone https://github.com/django-ckeditor/django-ckeditor
@@ -5164,19 +5175,19 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/django-compressor/django-compressor
 	```
-- [PyPi](https://pypi.org/project/django-compressor) (📥 320K / month · 📦 400 · ⏱️ 17.04.2021):
+- [PyPi](https://pypi.org/project/django-compressor) (📥 310K / month · 📦 400 · ⏱️ 17.04.2021):
 	```
 	pip install django-compressor
 	```
 </details>
 <details><summary><b><a href="https://github.com/zostera/django-bootstrap3">django-bootstrap3</a></b> (🥈29 ·  ⭐ 2.3K) - Bootstrap 3 integration with Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/zostera/django-bootstrap3) (👨‍💻 97 · 🔀 690 · 📦 15K · 📋 290 - 0% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/zostera/django-bootstrap3) (👨‍💻 97 · 🔀 690 · 📦 15K · 📋 290 - 1% open · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/zostera/django-bootstrap3
 	```
-- [PyPi](https://pypi.org/project/django-bootstrap3) (📥 97K / month · 📦 7.9K · ⏱️ 10.04.2021):
+- [PyPi](https://pypi.org/project/django-bootstrap3) (📥 95K / month · 📦 7.9K · ⏱️ 10.04.2021):
 	```
 	pip install django-bootstrap3
 	```
@@ -5211,12 +5222,12 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 </details>
 <details><summary><b><a href="https://github.com/rq/django-rq">django-rq</a></b> (🥈29 ·  ⭐ 1.4K) - A simple app that provides django integration for RQ (Redis Queue). <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/rq/django-rq) (👨‍💻 98 · 🔀 220 · 📦 1.4K · 📋 270 - 20% open · ⏱️ 07.05.2021):
+- [GitHub](https://github.com/rq/django-rq) (👨‍💻 98 · 🔀 220 · 📦 1.4K · 📋 280 - 21% open · ⏱️ 07.05.2021):
 
 	```
 	git clone https://github.com/rq/django-rq
 	```
-- [PyPi](https://pypi.org/project/django-rq) (📥 110K / month · 📦 780 · ⏱️ 31.03.2021):
+- [PyPi](https://pypi.org/project/django-rq) (📥 100K / month · 📦 780 · ⏱️ 31.03.2021):
 	```
 	pip install django-rq
 	```
@@ -5235,24 +5246,24 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 </details>
 <details><summary><b><a href="https://github.com/justquick/django-activity-stream">django-activity-stream</a></b> (🥈28 ·  ⭐ 1.9K) - Generate generic activity streams from the actions on.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/justquick/django-activity-stream) (👨‍💻 110 · 🔀 460 · 📦 620 · 📋 280 - 18% open · ⏱️ 28.03.2021):
+- [GitHub](https://github.com/justquick/django-activity-stream) (👨‍💻 110 · 🔀 470 · 📦 630 · 📋 290 - 18% open · ⏱️ 28.03.2021):
 
 	```
 	git clone https://github.com/justquick/django-activity-stream
 	```
-- [PyPi](https://pypi.org/project/django-activity-stream) (📥 25K / month · 📦 660 · ⏱️ 28.01.2021):
+- [PyPi](https://pypi.org/project/django-activity-stream) (📥 26K / month · 📦 660 · ⏱️ 28.01.2021):
 	```
 	pip install django-activity-stream
 	```
 </details>
 <details><summary><b><a href="https://github.com/matthewwithanm/django-imagekit">django-imagekit</a></b> (🥈28 ·  ⭐ 1.9K) - Automated image processing for Django. Currently v4.0. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/matthewwithanm/django-imagekit) (👨‍💻 70 · 🔀 230 · 📥 49 · 📦 5K · 📋 360 - 26% open · ⏱️ 13.02.2021):
+- [GitHub](https://github.com/matthewwithanm/django-imagekit) (👨‍💻 70 · 🔀 230 · 📥 49 · 📦 5.1K · 📋 360 - 26% open · ⏱️ 13.02.2021):
 
 	```
 	git clone https://github.com/matthewwithanm/django-imagekit
 	```
-- [PyPi](https://pypi.org/project/django-imagekit) (📥 87K / month · 📦 2K · ⏱️ 20.11.2017):
+- [PyPi](https://pypi.org/project/django-imagekit) (📥 85K / month · 📦 2K · ⏱️ 20.11.2017):
 	```
 	pip install django-imagekit
 	```
@@ -5275,19 +5286,19 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 </details>
 <details><summary><b><a href="https://github.com/Suor/django-cacheops">django-cacheops</a></b> (🥈28 ·  ⭐ 1.4K) - A slick ORM cache with automatic granular event-driven.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/Suor/django-cacheops) (👨‍💻 59 · 🔀 180 · 📦 480 · 📋 280 - 7% open · ⏱️ 03.05.2021):
+- [GitHub](https://github.com/Suor/django-cacheops) (👨‍💻 59 · 🔀 180 · 📦 490 · 📋 280 - 7% open · ⏱️ 03.05.2021):
 
 	```
 	git clone https://github.com/Suor/django-cacheops
 	```
-- [PyPi](https://pypi.org/project/django-cacheops) (📥 110K / month · 📦 180 · ⏱️ 03.05.2021):
+- [PyPi](https://pypi.org/project/django-cacheops) (📥 100K / month · 📦 180 · ⏱️ 03.05.2021):
 	```
 	pip install django-cacheops
 	```
 </details>
 <details><summary><b><a href="https://github.com/jazzband/django-constance">django-constance</a></b> (🥈28 ·  ⭐ 1.3K) - Dynamic Django settings. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/jazzband/django-constance) (👨‍💻 120 · 🔀 270 · 📦 780 · 📋 230 - 11% open · ⏱️ 17.03.2021):
+- [GitHub](https://github.com/jazzband/django-constance) (👨‍💻 120 · 🔀 270 · 📦 790 · 📋 230 - 11% open · ⏱️ 17.03.2021):
 
 	```
 	git clone https://github.com/jazzband/django-constance
@@ -5299,12 +5310,12 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 </details>
 <details><summary><b><a href="https://github.com/Koed00/django-q">django-q</a></b> (🥈28 ·  ⭐ 1.3K) - A multiprocessing distributed task queue for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/Koed00/django-q) (👨‍💻 57 · 🔀 180 · 📦 540 · 📋 320 - 61% open · ⏱️ 10.05.2021):
+- [GitHub](https://github.com/Koed00/django-q) (👨‍💻 59 · 🔀 180 · 📦 540 · 📋 320 - 60% open · ⏱️ 14.05.2021):
 
 	```
 	git clone https://github.com/Koed00/django-q
 	```
-- [PyPi](https://pypi.org/project/django-q) (📥 45K / month · 📦 130 · ⏱️ 26.02.2021):
+- [PyPi](https://pypi.org/project/django-q) (📥 47K / month · 📦 130 · ⏱️ 14.05.2021):
 	```
 	pip install django-q
 	```
@@ -5316,31 +5327,31 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/jrief/django-angular
 	```
-- [PyPi](https://pypi.org/project/django-angular) (📥 13K / month · 📦 470 · ⏱️ 05.05.2020):
+- [PyPi](https://pypi.org/project/django-angular) (📥 14K / month · 📦 470 · ⏱️ 05.05.2020):
 	```
 	pip install django-angular
 	```
 </details>
 <details><summary><b><a href="https://github.com/SmileyChris/easy-thumbnails">easy-thumbnails</a></b> (🥈28 ·  ⭐ 1.2K) - Easy thumbnails for Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/SmileyChris/easy-thumbnails) (👨‍💻 82 · 🔀 300 · 📦 7K · 📋 380 - 22% open · ⏱️ 22.01.2021):
+- [GitHub](https://github.com/SmileyChris/easy-thumbnails) (👨‍💻 82 · 🔀 300 · 📦 7.1K · 📋 380 - 22% open · ⏱️ 22.01.2021):
 
 	```
 	git clone https://github.com/SmileyChris/easy-thumbnails
 	```
-- [PyPi](https://pypi.org/project/easy-thumbnails) (📥 150K / month · 📦 4.1K · ⏱️ 23.11.2020):
+- [PyPi](https://pypi.org/project/easy-thumbnails) (📥 160K / month · 📦 4.1K · ⏱️ 23.11.2020):
 	```
 	pip install easy-thumbnails
 	```
 </details>
 <details><summary><b><a href="https://github.com/django-money/django-money">django-money</a></b> (🥈28 ·  ⭐ 1.1K) - Money fields for Django forms and models. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/django-money/django-money) (👨‍💻 93 · 🔀 250 · 📦 1.2K · 📋 290 - 14% open · ⏱️ 28.04.2021):
+- [GitHub](https://github.com/django-money/django-money) (👨‍💻 93 · 🔀 250 · 📦 1.2K · 📋 290 - 14% open · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/django-money/django-money
 	```
-- [PyPi](https://pypi.org/project/django-money) (📥 88K / month · 📦 370 · ⏱️ 04.02.2021):
+- [PyPi](https://pypi.org/project/django-money) (📥 87K / month · 📦 370 · ⏱️ 04.02.2021):
 	```
 	pip install django-money
 	```
@@ -5357,7 +5368,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	pip install django-redis-cache
 	```
 </details>
-<details><summary><b><a href="https://github.com/SmileyChris/django-countries">django-countries</a></b> (🥈28 ·  ⭐ 980) - A Django application that provides country choices for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/SmileyChris/django-countries">django-countries</a></b> (🥈28 ·  ⭐ 990) - A Django application that provides country choices for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/SmileyChris/django-countries) (👨‍💻 45 · 🔀 220 · 📋 230 - 3% open · ⏱️ 11.05.2021):
 
@@ -5369,9 +5380,9 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	pip install django-countries
 	```
 </details>
-<details><summary><b><a href="https://github.com/zostera/django-bootstrap4">django-bootstrap4</a></b> (🥈28 ·  ⭐ 900) - Bootstrap 4 integration with Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/zostera/django-bootstrap4">django-bootstrap4</a></b> (🥈28 ·  ⭐ 910) - Bootstrap 4 integration with Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/zostera/django-bootstrap4) (👨‍💻 140 · 🔀 220 · 📦 45K · 📋 140 - 9% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/zostera/django-bootstrap4) (👨‍💻 140 · 🔀 220 · 📦 45K · 📋 140 - 9% open · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/zostera/django-bootstrap4
@@ -5387,19 +5398,19 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 </details>
 <details><summary><b><a href="https://github.com/django-waffle/django-waffle">django-waffle</a></b> (🥈28 ·  ⭐ 840) - A feature flipper for Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/django-waffle/django-waffle) (👨‍💻 97 · 🔀 230 · 📦 620 · 📋 170 - 14% open · ⏱️ 13.04.2021):
+- [GitHub](https://github.com/django-waffle/django-waffle) (👨‍💻 98 · 🔀 230 · 📦 620 · 📋 170 - 14% open · ⏱️ 20.05.2021):
 
 	```
 	git clone https://github.com/django-waffle/django-waffle
 	```
-- [PyPi](https://pypi.org/project/django-waffle) (📥 180K / month · 📦 650 · ⏱️ 22.01.2021):
+- [PyPi](https://pypi.org/project/django-waffle) (📥 190K / month · 📦 650 · ⏱️ 22.01.2021):
 	```
 	pip install django-waffle
 	```
 </details>
 <details><summary><b><a href="https://github.com/typeddjango/django-stubs">django-stubs</a></b> (🥈28 ·  ⭐ 650) - PEP-484 stubs for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/typeddjango/django-stubs) (👨‍💻 110 · 🔀 150 · 📦 1.2K · 📋 280 - 40% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/typeddjango/django-stubs) (👨‍💻 110 · 🔀 150 · 📦 1.2K · 📋 280 - 40% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/typeddjango/django-stubs
@@ -5411,24 +5422,36 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 </details>
 <details><summary><b><a href="https://github.com/groveco/django-sql-explorer">django-sql-explorer</a></b> (🥉27 ·  ⭐ 1.8K) - Easily share data across your company via SQL.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/groveco/django-sql-explorer) (👨‍💻 81 · 🔀 290 · 📦 230 · 📋 230 - 6% open · ⏱️ 23.04.2021):
+- [GitHub](https://github.com/groveco/django-sql-explorer) (👨‍💻 82 · 🔀 300 · 📦 230 · 📋 230 - 6% open · ⏱️ 14.05.2021):
 
 	```
 	git clone https://github.com/groveco/django-sql-explorer
 	```
-- [PyPi](https://pypi.org/project/django-sql-explorer) (📥 21K / month · 📦 140 · ⏱️ 19.01.2021):
+- [PyPi](https://pypi.org/project/django-sql-explorer) (📥 20K / month · 📦 140 · ⏱️ 14.05.2021):
 	```
 	pip install django-sql-explorer
 	```
 </details>
+<details><summary><b><a href="https://github.com/AndrewIngram/django-extra-views">django-extra-views</a></b> (🥉27 ·  ⭐ 1.1K) - Django's class-based generic views are awesome, let's.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/AndrewIngram/django-extra-views) (👨‍💻 57 · 🔀 160 · 📦 1.4K · 📋 120 - 7% open · ⏱️ 15.03.2021):
+
+	```
+	git clone https://github.com/AndrewIngram/django-extra-views
+	```
+- [PyPi](https://pypi.org/project/django-extra-views) (📥 54K / month · 📦 990 · ⏱️ 20.12.2019):
+	```
+	pip install django-extra-views
+	```
+</details>
 <details><summary><b><a href="https://github.com/sehmaschine/django-filebrowser">django-filebrowser</a></b> (🥉27 ·  ⭐ 840) - Media-Management with Grappelli. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/sehmaschine/django-filebrowser) (👨‍💻 35 · 🔀 380 · 📦 690 · 📋 270 - 6% open · ⏱️ 22.04.2021):
+- [GitHub](https://github.com/sehmaschine/django-filebrowser) (👨‍💻 35 · 🔀 380 · 📦 700 · 📋 270 - 6% open · ⏱️ 22.04.2021):
 
 	```
 	git clone https://github.com/sehmaschine/django-filebrowser
 	```
-- [PyPi](https://pypi.org/project/django-filebrowser) (📥 8.2K / month · 📦 540 · ⏱️ 22.04.2021):
+- [PyPi](https://pypi.org/project/django-filebrowser) (📥 8.3K / month · 📦 540 · ⏱️ 22.04.2021):
 	```
 	pip install django-filebrowser
 	```
@@ -5440,14 +5463,14 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/mbi/django-rosetta
 	```
-- [PyPi](https://pypi.org/project/django-rosetta) (📥 46K / month · 📦 1.2K · ⏱️ 19.03.2021):
+- [PyPi](https://pypi.org/project/django-rosetta) (📥 45K / month · 📦 1.2K · ⏱️ 19.03.2021):
 	```
 	pip install django-rosetta
 	```
 </details>
 <details><summary><b><a href="https://github.com/spookylukey/django-paypal">django-paypal</a></b> (🥉27 ·  ⭐ 610) - A pluggable Django application for integrating PayPal.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/spookylukey/django-paypal) (👨‍💻 70 · 🔀 190 · 📦 1.5K · 📋 140 - 4% open · ⏱️ 08.04.2021):
+- [GitHub](https://github.com/spookylukey/django-paypal) (👨‍💻 70 · 🔀 190 · 📦 1.5K · 📋 150 - 4% open · ⏱️ 20.05.2021):
 
 	```
 	git clone https://github.com/spookylukey/django-paypal
@@ -5457,6 +5480,18 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	pip install django-paypal
 	```
 </details>
+<details><summary><b><a href="https://github.com/pydanny/cookiecutter-django">cookiecutter-django</a></b> (🥉26 ·  ⭐ 8.1K) - Cookiecutter Django is a framework for jumpstarting.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/pydanny/cookiecutter-django) (👨‍💻 320 · 🔀 2.1K · 📦 11 · 📋 980 - 14% open · ⏱️ 19.05.2021):
+
+	```
+	git clone https://github.com/pydanny/cookiecutter-django
+	```
+- [PyPi](https://pypi.org/project/cookiecutter-django) (📥 65 / month · 📦 1 · ⏱️ 15.01.2018):
+	```
+	pip install cookiecutter-django
+	```
+</details>
 <details><summary><b><a href="https://github.com/awesto/django-shop">django-shop</a></b> (🥉26 ·  ⭐ 2.6K) - A Django based shop system. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/awesto/django-shop) (👨‍💻 96 · 🔀 890 · 📦 180 · 📋 370 - 22% open · ⏱️ 28.02.2021):
@@ -5464,7 +5499,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/awesto/django-shop
 	```
-- [PyPi](https://pypi.org/project/django-shop) (📥 1.8K / month · 📦 160 · ⏱️ 02.02.2021):
+- [PyPi](https://pypi.org/project/django-shop) (📥 2K / month · 📦 160 · ⏱️ 02.02.2021):
 	```
 	pip install django-shop
 	```
@@ -5481,21 +5516,9 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	pip install django-polymorphic
 	```
 </details>
-<details><summary><b><a href="https://github.com/AndrewIngram/django-extra-views">django-extra-views</a></b> (🥉26 ·  ⭐ 1.1K) - Django's class-based generic views are awesome, let's.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/AndrewIngram/django-extra-views) (👨‍💻 57 · 🔀 160 · 📦 1.4K · 📋 120 - 7% open · ⏱️ 15.03.2021):
-
-	```
-	git clone https://github.com/AndrewIngram/django-extra-views
-	```
-- [PyPi](https://pypi.org/project/django-extra-views) (📥 54K / month · 📦 990 · ⏱️ 20.12.2019):
-	```
-	pip install django-extra-views
-	```
-</details>
 <details><summary><b><a href="https://github.com/stefanfoulis/django-phonenumber-field">django-phonenumber-field</a></b> (🥉26 ·  ⭐ 1.1K) - A django model and form field for normalised phone.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/stefanfoulis/django-phonenumber-field) (👨‍💻 94 · 🔀 280 · 📋 180 - 28% open · ⏱️ 15.04.2021):
+- [GitHub](https://github.com/stefanfoulis/django-phonenumber-field) (👨‍💻 95 · 🔀 280 · 📋 180 - 28% open · ⏱️ 20.05.2021):
 
 	```
 	git clone https://github.com/stefanfoulis/django-phonenumber-field
@@ -5512,19 +5535,19 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/jazzband/django-configurations
 	```
-- [PyPi](https://pypi.org/project/django-configurations) (📥 79K / month · 📦 1.3K · ⏱️ 03.12.2019):
+- [PyPi](https://pypi.org/project/django-configurations) (📥 80K / month · 📦 1.3K · ⏱️ 03.12.2019):
 	```
 	pip install django-configurations
 	```
 </details>
-<details><summary><b><a href="https://github.com/un1t/django-cleanup">django-cleanup</a></b> (🥉26 ·  ⭐ 620) - Automatically deletes old file for FileField and ImageField... <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/un1t/django-cleanup">django-cleanup</a></b> (🥉26 ·  ⭐ 630) - Automatically deletes old file for FileField and ImageField... <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/un1t/django-cleanup) (👨‍💻 16 · 🔀 52 · 📦 4.6K · 📋 42 - 7% open · ⏱️ 18.04.2021):
+- [GitHub](https://github.com/un1t/django-cleanup) (👨‍💻 16 · 🔀 52 · 📦 4.7K · 📋 43 - 4% open · ⏱️ 18.04.2021):
 
 	```
 	git clone https://github.com/un1t/django-cleanup
 	```
-- [PyPi](https://pypi.org/project/django-cleanup) (📥 65K / month · 📦 630 · ⏱️ 18.04.2021):
+- [PyPi](https://pypi.org/project/django-cleanup) (📥 63K / month · 📦 630 · ⏱️ 18.04.2021):
 	```
 	pip install django-cleanup
 	```
@@ -5536,26 +5559,14 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/typeddjango/djangorestframework-stubs
 	```
-- [PyPi](https://pypi.org/project/djangorestframework-stubs) (📥 110K / month · 📦 86 · ⏱️ 03.02.2021):
+- [PyPi](https://pypi.org/project/djangorestframework-stubs) (📥 120K / month · 📦 86 · ⏱️ 03.02.2021):
 	```
 	pip install djangorestframework-stubs
 	```
 </details>
-<details><summary><b><a href="https://github.com/pydanny/cookiecutter-django">cookiecutter-django</a></b> (🥉25 ·  ⭐ 8.1K) - Cookiecutter Django is a framework for jumpstarting.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/pydanny/cookiecutter-django) (👨‍💻 320 · 🔀 2.1K · 📦 11 · 📋 980 - 14% open · ⏱️ 07.05.2021):
-
-	```
-	git clone https://github.com/pydanny/cookiecutter-django
-	```
-- [PyPi](https://pypi.org/project/cookiecutter-django) (📥 71 / month · 📦 1 · ⏱️ 15.01.2018):
-	```
-	pip install cookiecutter-django
-	```
-</details>
 <details><summary><b><a href="https://github.com/viewflow/viewflow">viewflow</a></b> (🥉25 ·  ⭐ 2.1K) - Reusable workflow library for Django. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/viewflow/viewflow) (👨‍💻 29 · 🔀 340 · 📦 180 · 📋 250 - 6% open · ⏱️ 12.05.2021):
+- [GitHub](https://github.com/viewflow/viewflow) (👨‍💻 29 · 🔀 340 · 📦 180 · 📋 250 - 6% open · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/viewflow/viewflow
@@ -5572,19 +5583,19 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/jazzband/django-push-notifications
 	```
-- [PyPi](https://pypi.org/project/django-push-notifications) (📥 41K / month · 📦 170 · ⏱️ 11.03.2020):
+- [PyPi](https://pypi.org/project/django-push-notifications) (📥 40K / month · 📦 170 · ⏱️ 11.03.2020):
 	```
 	pip install django-push-notifications
 	```
 </details>
 <details><summary><b><a href="https://github.com/noripyt/django-cachalot">django-cachalot</a></b> (🥉25 ·  ⭐ 810) - No effort, no worry, maximum performance. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/noripyt/django-cachalot) (👨‍💻 25 · 🔀 110 · 📦 340 · 📋 130 - 12% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/noripyt/django-cachalot) (👨‍💻 25 · 🔀 110 · 📦 340 · 📋 130 - 9% open · ⏱️ 13.05.2021):
 
 	```
 	git clone https://github.com/noripyt/django-cachalot
 	```
-- [PyPi](https://pypi.org/project/django-cachalot) (📥 36K / month · 📦 160 · ⏱️ 13.05.2021):
+- [PyPi](https://pypi.org/project/django-cachalot) (📥 37K / month · 📦 160 · ⏱️ 13.05.2021):
 	```
 	pip install django-cachalot
 	```
@@ -5600,14 +5611,14 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/encode/django-vanilla-views
 	```
-- [PyPi](https://pypi.org/project/django-vanilla-views) (📥 5.4K / month · 📦 490 · ⏱️ 09.05.2021):
+- [PyPi](https://pypi.org/project/django-vanilla-views) (📥 5.5K / month · 📦 490 · ⏱️ 09.05.2021):
 	```
 	pip install django-vanilla-views
 	```
 </details>
 <details><summary><b><a href="https://github.com/bennylope/django-organizations">django-organizations</a></b> (🥉24 ·  ⭐ 830) - Multi-user accounts for Django projects. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/bennylope/django-organizations) (👨‍💻 43 · 🔀 160 · 📋 140 - 14% open · ⏱️ 16.04.2021):
+- [GitHub](https://github.com/bennylope/django-organizations) (👨‍💻 43 · 🔀 160 · 📋 140 - 12% open · ⏱️ 16.05.2021):
 
 	```
 	git clone https://github.com/bennylope/django-organizations
@@ -5617,9 +5628,9 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	pip install django-organizations
 	```
 </details>
-<details><summary><b><a href="https://github.com/rsinger86/django-lifecycle">django-lifecycle</a></b> (🥉24 ·  ⭐ 720) - Declarative model lifecycle hooks, an alternative to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/rsinger86/django-lifecycle">django-lifecycle</a></b> (🥉24 ·  ⭐ 730) - Declarative model lifecycle hooks, an alternative to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/rsinger86/django-lifecycle) (👨‍💻 22 · 🔀 41 · 📦 49 · 📋 30 - 23% open · ⏱️ 02.05.2021):
+- [GitHub](https://github.com/rsinger86/django-lifecycle) (👨‍💻 22 · 🔀 41 · 📦 51 · 📋 30 - 23% open · ⏱️ 02.05.2021):
 
 	```
 	git clone https://github.com/rsinger86/django-lifecycle
@@ -5631,12 +5642,12 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 </details>
 <details><summary><b><a href="https://github.com/django-dbbackup/django-dbbackup">django-dbbackup</a></b> (🥉24 ·  ⭐ 490) - Management commands to help backup and restore your.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/django-dbbackup/django-dbbackup) (👨‍💻 50 · 🔀 140 · 📦 660 · 📋 250 - 25% open · ⏱️ 25.12.2020):
+- [GitHub](https://github.com/django-dbbackup/django-dbbackup) (👨‍💻 50 · 🔀 140 · 📦 670 · 📋 250 - 25% open · ⏱️ 25.12.2020):
 
 	```
 	git clone https://github.com/django-dbbackup/django-dbbackup
 	```
-- [PyPi](https://pypi.org/project/django-dbbackup) (📥 44K / month · 📦 300 · ⏱️ 14.04.2020):
+- [PyPi](https://pypi.org/project/django-dbbackup) (📥 42K / month · 📦 300 · ⏱️ 14.04.2020):
 	```
 	pip install django-dbbackup
 	```
@@ -5648,7 +5659,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/jazzband/django-robots
 	```
-- [PyPi](https://pypi.org/project/django-robots) (📥 23K / month · 📦 1.1K · ⏱️ 04.01.2020):
+- [PyPi](https://pypi.org/project/django-robots) (📥 22K / month · 📦 1.1K · ⏱️ 04.01.2020):
 	```
 	pip install django-robots
 	```
@@ -5667,12 +5678,12 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 </details>
 <details><summary><b><a href="https://github.com/sobolevn/django-split-settings">django-split-settings</a></b> (🥉22 ·  ⭐ 720) - Organize Django settings into multiple files and.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/sobolevn/django-split-settings) (👨‍💻 18 · 🔀 50 · 📋 37 - 10% open · ⏱️ 10.05.2021):
+- [GitHub](https://github.com/sobolevn/django-split-settings) (👨‍💻 18 · 🔀 51 · 📋 37 - 10% open · ⏱️ 20.05.2021):
 
 	```
 	git clone https://github.com/sobolevn/django-split-settings
 	```
-- [PyPi](https://pypi.org/project/django-split-settings) (📥 58K / month · 📦 110 · ⏱️ 22.04.2020):
+- [PyPi](https://pypi.org/project/django-split-settings) (📥 56K / month · 📦 110 · ⏱️ 22.04.2020):
 	```
 	pip install django-split-settings
 	```
@@ -5703,24 +5714,24 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 </details>
 <details><summary><b><a href="https://github.com/vitalik/django-ninja">Django-Ninja</a></b> (🥉20 ·  ⭐ 1.1K) - Fast, Async-ready, Openapi, type hints based framework for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/vitalik/django-ninja) (👨‍💻 19 · 🔀 64 · 📋 100 - 32% open · ⏱️ 28.04.2021):
+- [GitHub](https://github.com/vitalik/django-ninja) (👨‍💻 20 · 🔀 65 · 📋 110 - 31% open · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/vitalik/django-ninja
 	```
-- [PyPi](https://pypi.org/project/django-ninja) (📥 5.2K / month · ⏱️ 28.04.2021):
+- [PyPi](https://pypi.org/project/django-ninja) (📥 5.4K / month · ⏱️ 18.05.2021):
 	```
 	pip install django-ninja
 	```
 </details>
 <details><summary><b><a href="https://github.com/browniebroke/django-codemod">django-codemod</a></b> (🥉14 ·  ⭐ 92) - A tool to automatically fix Django deprecations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/browniebroke/django-codemod) (👨‍💻 16 · 🔀 11 · 📥 70 · 📋 32 - 18% open · ⏱️ 10.05.2021):
+- [GitHub](https://github.com/browniebroke/django-codemod) (👨‍💻 16 · 🔀 10 · 📥 70 · 📋 33 - 21% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/browniebroke/django-codemod
 	```
-- [PyPi](https://pypi.org/project/django-codemod) (📥 780 / month · ⏱️ 04.05.2021):
+- [PyPi](https://pypi.org/project/django-codemod) (📥 760 / month · ⏱️ 16.05.2021):
 	```
 	pip install django-codemod
 	```
@@ -5745,37 +5756,37 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/pallets/jinja">jinja</a></b> (🥇36 ·  ⭐ 7.8K · 📉) - A very fast and expressive template engine. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/pallets/jinja">jinja</a></b> (🥇36 ·  ⭐ 7.8K) - A very fast and expressive template engine. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/pallets/jinja) (👨‍💻 280 · 🔀 1.4K · 📥 52K · 📦 630K · 📋 760 - 4% open · ⏱️ 11.05.2021):
+- [GitHub](https://github.com/pallets/jinja) (👨‍💻 280 · 🔀 1.4K · 📥 52K · 📦 640K · 📋 770 - 4% open · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/pallets/jinja
 	```
-- [PyPi](https://pypi.org/project/jinja2) (📥 53M / month · 📦 190K · ⏱️ 11.05.2021):
+- [PyPi](https://pypi.org/project/jinja2) (📥 53M / month · 📦 190K · ⏱️ 18.05.2021):
 	```
 	pip install jinja2
 	```
-- [Conda](https://anaconda.org/conda-forge/jinja2) (📥 9.6M · ⏱️ 13.05.2021):
+- [Conda](https://anaconda.org/conda-forge/jinja2) (📥 9.7M · ⏱️ 19.05.2021):
 	```
 	conda install -c conda-forge jinja2
 	```
 </details>
 <details><summary><b><a href="https://github.com/certbot/certbot">certbot</a></b> (🥇34 ·  ⭐ 28K) - Certbot is EFF's tool to obtain certs from Let's Encrypt and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/certbot/certbot) (👨‍💻 470 · 🔀 3.1K · 📥 4.3K · 📦 900 · 📋 4.9K - 12% open · ⏱️ 12.05.2021):
+- [GitHub](https://github.com/certbot/certbot) (👨‍💻 470 · 🔀 3.1K · 📥 4.4K · 📦 900 · 📋 4.9K - 12% open · ⏱️ 17.05.2021):
 
 	```
 	git clone https://github.com/certbot/certbot
 	```
-- [PyPi](https://pypi.org/project/certbot) (📥 170K / month · 📦 360 · ⏱️ 05.05.2021):
+- [PyPi](https://pypi.org/project/certbot) (📥 150K / month · 📦 360 · ⏱️ 05.05.2021):
 	```
 	pip install certbot
 	```
 </details>
 <details><summary><b><a href="https://github.com/rthalley/dnspython">dnspython</a></b> (🥇34 ·  ⭐ 1.7K) - a powerful DNS toolkit for python. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-- [GitHub](https://github.com/rthalley/dnspython) (👨‍💻 82 · 🔀 380 · 📦 54K · 📋 350 - 2% open · ⏱️ 10.05.2021):
+- [GitHub](https://github.com/rthalley/dnspython) (👨‍💻 83 · 🔀 380 · 📦 55K · 📋 350 - 2% open · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/rthalley/dnspython
@@ -5807,32 +5818,32 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 </details>
 <details><summary><b><a href="https://github.com/secdev/scapy">scapy</a></b> (🥇33 ·  ⭐ 6.3K) - Scapy: the Python-based interactive packet manipulation program &.. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/secdev/scapy) (👨‍💻 340 · 🔀 1.4K · 📦 5.1K · 📋 1.2K - 5% open · ⏱️ 11.05.2021):
+- [GitHub](https://github.com/secdev/scapy) (👨‍💻 340 · 🔀 1.4K · 📦 5.1K · 📋 1.2K - 5% open · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/secdev/scapy
 	```
-- [PyPi](https://pypi.org/project/scapy) (📥 1.6M / month · 📦 1.6K · ⏱️ 19.04.2021):
+- [PyPi](https://pypi.org/project/scapy) (📥 1.5M / month · 📦 1.6K · ⏱️ 19.04.2021):
 	```
 	pip install scapy
 	```
-- [Conda](https://anaconda.org/conda-forge/scapy) (📥 9.9K · ⏱️ 19.04.2021):
+- [Conda](https://anaconda.org/conda-forge/scapy) (📥 10K · ⏱️ 19.04.2021):
 	```
 	conda install -c conda-forge scapy
 	```
 </details>
 <details><summary><b><a href="https://github.com/pallets/itsdangerous">itsdangerous</a></b> (🥇33 ·  ⭐ 2.2K) - Safely pass trusted data to untrusted environments and back. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/pallets/itsdangerous) (👨‍💻 36 · 🔀 180 · 📦 420K · 📋 95 - 1% open · ⏱️ 11.05.2021):
+- [GitHub](https://github.com/pallets/itsdangerous) (👨‍💻 36 · 🔀 180 · 📦 420K · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/pallets/itsdangerous
 	```
-- [PyPi](https://pypi.org/project/itsdangerous) (📥 23M / month · 📦 100K · ⏱️ 11.05.2021):
+- [PyPi](https://pypi.org/project/itsdangerous) (📥 24M / month · 📦 100K · ⏱️ 18.05.2021):
 	```
 	pip install itsdangerous
 	```
-- [Conda](https://anaconda.org/conda-forge/itsdangerous) (📥 1.8M · ⏱️ 13.05.2021):
+- [Conda](https://anaconda.org/conda-forge/itsdangerous) (📥 1.9M · ⏱️ 18.05.2021):
 	```
 	conda install -c conda-forge itsdangerous
 	```
@@ -5844,26 +5855,26 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/sivel/speedtest-cli
 	```
-- [PyPi](https://pypi.org/project/speedtest-cli) (📥 160K / month · 📦 900 · ⏱️ 08.04.2021):
+- [PyPi](https://pypi.org/project/speedtest-cli) (📥 150K / month · 📦 900 · ⏱️ 08.04.2021):
 	```
 	pip install speedtest-cli
 	```
 </details>
 <details><summary><b><a href="https://github.com/twisted/twisted">twisted</a></b> (🥈31 ·  ⭐ 4.3K) - Event-driven networking engine written in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/twisted/twisted) (👨‍💻 220 · 🔀 1K · 📦 41K · ⏱️ 10.05.2021):
+- [GitHub](https://github.com/twisted/twisted) (👨‍💻 220 · 🔀 1K · 📦 41K · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/twisted/twisted
 	```
-- [PyPi](https://pypi.org/project/twisted) (📥 1.9M / month · 📦 19K · ⏱️ 28.02.2021):
+- [PyPi](https://pypi.org/project/twisted) (📥 1.8M / month · 📦 19K · ⏱️ 28.02.2021):
 	```
 	pip install twisted
 	```
 </details>
 <details><summary><b><a href="https://github.com/RDFLib/rdflib">rdflib</a></b> (🥈31 ·  ⭐ 1.4K) - RDFLib is a Python library for working with RDF, a simple yet powerful.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/RDFLib/rdflib) (👨‍💻 160 · 🔀 420 · 📦 5.7K · 📋 850 - 30% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/RDFLib/rdflib) (👨‍💻 160 · 🔀 420 · 📦 5.8K · 📋 860 - 30% open · ⏱️ 17.05.2021):
 
 	```
 	git clone https://github.com/RDFLib/rdflib
@@ -5875,6 +5886,18 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 - [Conda](https://anaconda.org/conda-forge/rdflib) (📥 160K · ⏱️ 13.01.2021):
 	```
 	conda install -c conda-forge rdflib
+	```
+</details>
+<details><summary><b><a href="https://github.com/SecureAuthCorp/impacket">impacket</a></b> (🥈30 ·  ⭐ 6.8K · 📈) - Impacket is a collection of Python classes for working with.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/SecureAuthCorp/impacket) (👨‍💻 150 · 🔀 1.9K · 📥 52K · 📦 910 · 📋 700 - 22% open · ⏱️ 19.05.2021):
+
+	```
+	git clone https://github.com/SecureAuthCorp/impacket
+	```
+- [PyPi](https://pypi.org/project/impacket) (📥 47K / month · 📦 360 · ⏱️ 23.11.2020):
+	```
+	pip install impacket
 	```
 </details>
 <details><summary><b><a href="https://github.com/miracle2k/webassets">webassets</a></b> (🥈30 ·  ⭐ 890) - Asset management for Python web development. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
@@ -5904,7 +5927,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	pip install pyopenssl
 	```
-- [Conda](https://anaconda.org/conda-forge/pyopenssl) (📥 9.8M · ⏱️ 15.12.2020):
+- [Conda](https://anaconda.org/conda-forge/pyopenssl) (📥 9.9M · ⏱️ 15.12.2020):
 	```
 	conda install -c conda-forge pyopenssl
 	```
@@ -5916,7 +5939,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/netaddr/netaddr
 	```
-- [PyPi](https://pypi.org/project/netaddr) (📥 2.8M / month · 📦 8.8K · ⏱️ 03.07.2020):
+- [PyPi](https://pypi.org/project/netaddr) (📥 2.7M / month · 📦 8.8K · ⏱️ 03.07.2020):
 	```
 	pip install netaddr
 	```
@@ -5927,42 +5950,46 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 </details>
 <details><summary><b><a href="https://github.com/jupyter/terminado">terminado</a></b> (🥈30 ·  ⭐ 280) - Terminals served by tornado websockets. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/jupyter/terminado) (👨‍💻 29 · 🔀 67 · 📋 55 - 45% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/jupyter/terminado) (👨‍💻 31 · 🔀 69 · 📋 54 - 42% open · ⏱️ 18.05.2021):
 
 	```
 	git clone https://github.com/jupyter/terminado
 	```
-- [PyPi](https://pypi.org/project/terminado) (📥 11M / month · 📦 14K · ⏱️ 11.05.2021):
+- [PyPi](https://pypi.org/project/terminado) (📥 11M / month · 📦 14K · ⏱️ 18.05.2021):
 	```
 	pip install terminado
 	```
-- [Conda](https://anaconda.org/conda-forge/terminado) (📥 3.6M · ⏱️ 13.05.2021):
+- [Conda](https://anaconda.org/conda-forge/terminado) (📥 3.7M · ⏱️ 13.05.2021):
 	```
 	conda install -c conda-forge terminado
 	```
 </details>
-<details><summary><b><a href="https://github.com/SecureAuthCorp/impacket">impacket</a></b> (🥈29 ·  ⭐ 6.7K) - Impacket is a collection of Python classes for working with network.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/SecureAuthCorp/impacket) (👨‍💻 150 · 🔀 1.9K · 📥 51K · 📦 900 · 📋 700 - 23% open · ⏱️ 04.05.2021):
-
-	```
-	git clone https://github.com/SecureAuthCorp/impacket
-	```
-- [PyPi](https://pypi.org/project/impacket) (📥 48K / month · 📦 360 · ⏱️ 23.11.2020):
-	```
-	pip install impacket
-	```
-</details>
 <details><summary><b><a href="https://github.com/hellysmile/fake-useragent">fake-useragent</a></b> (🥈29 ·  ⭐ 2.4K · 💤) - up to date simple useragent faker with real world.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/hellysmile/fake-useragent) (👨‍💻 7 · 🔀 340 · 📦 9.1K · 📋 84 - 41% open · ⏱️ 22.09.2020):
+- [GitHub](https://github.com/hellysmile/fake-useragent) (👨‍💻 7 · 🔀 340 · 📦 9.2K · 📋 84 - 41% open · ⏱️ 22.09.2020):
 
 	```
 	git clone https://github.com/hellysmile/fake-useragent
 	```
-- [PyPi](https://pypi.org/project/fake-useragent) (📥 960K / month · 📦 1.2K · ⏱️ 04.10.2018):
+- [PyPi](https://pypi.org/project/fake-useragent) (📥 1M / month · 📦 1.2K · ⏱️ 04.10.2018):
 	```
 	pip install fake-useragent
+	```
+</details>
+<details><summary><b><a href="https://github.com/saghul/aiodns">aiodns</a></b> (🥈29 ·  ⭐ 390 · 📈) - Simple DNS resolver for asyncio. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/saghul/aiodns) (👨‍💻 24 · 🔀 51 · 📦 16K · 📋 61 - 8% open · ⏱️ 15.05.2021):
+
+	```
+	git clone https://github.com/saghul/aiodns
+	```
+- [PyPi](https://pypi.org/project/aiodns) (📥 780K / month · 📦 1.5K · ⏱️ 14.05.2021):
+	```
+	pip install aiodns
+	```
+- [Conda](https://anaconda.org/conda-forge/aiodns) (📥 64K · ⏱️ 22.01.2020):
+	```
+	conda install -c conda-forge aiodns
 	```
 </details>
 <details><summary><b><a href="https://github.com/sqlalchemy/mako">Mako</a></b> (🥈29 ·  ⭐ 140) - Mako Templates for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -5995,7 +6022,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 </details>
 <details><summary><b><a href="https://github.com/kbandla/dpkt">dpkt</a></b> (🥈28 ·  ⭐ 800) - fast, simple packet creation / parsing, with definitions for the basic.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/kbandla/dpkt) (👨‍💻 50 · 🔀 220 · 📦 760 · 📋 340 - 21% open · ⏱️ 26.04.2021):
+- [GitHub](https://github.com/kbandla/dpkt) (👨‍💻 51 · 🔀 220 · 📦 770 · 📋 340 - 21% open · ⏱️ 14.05.2021):
 
 	```
 	git clone https://github.com/kbandla/dpkt
@@ -6009,7 +6036,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	conda install -c conda-forge dpkt
 	```
 </details>
-<details><summary><b><a href="https://github.com/pyca/pynacl">pynacl</a></b> (🥈28 ·  ⭐ 780) - Python binding to the Networking and Cryptography (NaCl) library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/pyca/pynacl">pynacl</a></b> (🥈28 ·  ⭐ 770) - Python binding to the Networking and Cryptography (NaCl) library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/pyca/pynacl) (👨‍💻 56 · 🔀 170 · 📋 250 - 16% open · ⏱️ 12.05.2021):
 
@@ -6020,14 +6047,14 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	pip install pynacl
 	```
-- [Conda](https://anaconda.org/conda-forge/pynacl) (📥 990K · ⏱️ 19.04.2021):
+- [Conda](https://anaconda.org/conda-forge/pynacl) (📥 1M · ⏱️ 19.04.2021):
 	```
 	conda install -c conda-forge pynacl
 	```
 </details>
 <details><summary><b><a href="https://github.com/kjd/idna">idna</a></b> (🥈28 ·  ⭐ 150) - Internationalized Domain Names for Python (IDNA 2008 and UTS #46). <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/kjd/idna) (👨‍💻 18 · 🔀 61 · 📋 56 - 7% open · ⏱️ 29.01.2021):
+- [GitHub](https://github.com/kjd/idna) (👨‍💻 18 · 🔀 61 · 📋 57 - 8% open · ⏱️ 29.01.2021):
 
 	```
 	git clone https://github.com/kjd/idna
@@ -6036,26 +6063,26 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	pip install idna
 	```
-- [Conda](https://anaconda.org/conda-forge/idna) (📥 9.9M · ⏱️ 05.01.2021):
+- [Conda](https://anaconda.org/conda-forge/idna) (📥 10M · ⏱️ 05.01.2021):
 	```
 	conda install -c conda-forge idna
 	```
 </details>
 <details><summary><b><a href="https://github.com/Gallopsled/pwntools">pwntools</a></b> (🥉27 ·  ⭐ 7.9K) - CTF framework and exploit development library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Gallopsled/pwntools) (👨‍💻 180 · 🔀 1.4K · 📦 350 · 📋 820 - 13% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/Gallopsled/pwntools) (👨‍💻 180 · 🔀 1.4K · 📦 360 · 📋 830 - 13% open · ⏱️ 17.05.2021):
 
 	```
 	git clone https://github.com/Gallopsled/pwntools
 	```
-- [PyPi](https://pypi.org/project/pwntools) (📥 34K / month · 📦 64 · ⏱️ 30.04.2021):
+- [PyPi](https://pypi.org/project/pwntools) (📥 32K / month · 📦 64 · ⏱️ 30.04.2021):
 	```
 	pip install pwntools
 	```
 </details>
 <details><summary><b><a href="https://github.com/PiotrDabkowski/Js2Py">Js2Py</a></b> (🥉27 ·  ⭐ 1.5K) - JavaScript to Python Translator & JavaScript interpreter written in 100%.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/PiotrDabkowski/Js2Py) (👨‍💻 24 · 🔀 170 · 📦 2.2K · 📋 200 - 48% open · ⏱️ 01.04.2021):
+- [GitHub](https://github.com/PiotrDabkowski/Js2Py) (👨‍💻 24 · 🔀 170 · 📦 2.3K · 📋 200 - 47% open · ⏱️ 01.04.2021):
 
 	```
 	git clone https://github.com/PiotrDabkowski/Js2Py
@@ -6072,29 +6099,13 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/marshmallow-code/webargs
 	```
-- [PyPi](https://pypi.org/project/webargs) (📥 540K / month · 📦 800 · ⏱️ 08.04.2021):
+- [PyPi](https://pypi.org/project/webargs) (📥 530K / month · 📦 800 · ⏱️ 08.04.2021):
 	```
 	pip install webargs
 	```
 - [Conda](https://anaconda.org/conda-forge/webargs) (📥 130K · ⏱️ 08.04.2021):
 	```
 	conda install -c conda-forge webargs
-	```
-</details>
-<details><summary><b><a href="https://github.com/saghul/aiodns">aiodns</a></b> (🥉27 ·  ⭐ 380 · 📈) - Simple DNS resolver for asyncio. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/saghul/aiodns) (👨‍💻 22 · 🔀 49 · 📦 16K · 📋 59 - 11% open · ⏱️ 11.05.2021):
-
-	```
-	git clone https://github.com/saghul/aiodns
-	```
-- [PyPi](https://pypi.org/project/aiodns) (📥 780K / month · 📦 1.5K · ⏱️ 02.03.2019):
-	```
-	pip install aiodns
-	```
-- [Conda](https://anaconda.org/conda-forge/aiodns) (📥 62K · ⏱️ 22.01.2020):
-	```
-	conda install -c conda-forge aiodns
 	```
 </details>
 <details><summary><b><a href="https://github.com/shon/httpagentparser">httpagentparser</a></b> (🥉27 ·  ⭐ 200) - Python HTTP Agent Parser. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -6104,38 +6115,46 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/shon/httpagentparser
 	```
-- [PyPi](https://pypi.org/project/httpagentparser) (📥 130K / month · 📦 480 · ⏱️ 12.01.2021):
+- [PyPi](https://pypi.org/project/httpagentparser) (📥 140K / month · 📦 480 · ⏱️ 12.01.2021):
 	```
 	pip install httpagentparser
 	```
 </details>
 <details><summary><b><a href="https://github.com/r0x0r/pywebview">pywebview</a></b> (🥉26 ·  ⭐ 2.4K) - Build GUI for your Python program with JavaScript, HTML, and CSS. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/r0x0r/pywebview) (👨‍💻 69 · 🔀 320 · 📦 410 · 📋 530 - 7% open · ⏱️ 12.04.2021):
+- [GitHub](https://github.com/r0x0r/pywebview) (👨‍💻 70 · 🔀 320 · 📦 420 · 📋 540 - 7% open · ⏱️ 20.05.2021):
 
 	```
 	git clone https://github.com/r0x0r/pywebview
 	```
-- [PyPi](https://pypi.org/project/pywebview) (📥 5.2K / month · 📦 84 · ⏱️ 04.12.2020):
+- [PyPi](https://pypi.org/project/pywebview) (📥 5.9K / month · 📦 84 · ⏱️ 04.12.2020):
 	```
 	pip install pywebview
 	```
 </details>
 <details><summary><b><a href="https://github.com/twisted/klein">klein</a></b> (🥉26 ·  ⭐ 770) - werkzeug + twisted.web. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/twisted/klein) (👨‍💻 47 · 🔀 120 · 📦 1.4K · 📋 150 - 48% open · ⏱️ 12.05.2021):
+- [GitHub](https://github.com/twisted/klein) (👨‍💻 48 · 🔀 120 · 📦 1.4K · 📋 150 - 48% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/twisted/klein
 	```
-- [PyPi](https://pypi.org/project/klein) (📥 35K / month · 📦 730 · ⏱️ 08.06.2020):
+- [PyPi](https://pypi.org/project/klein) (📥 37K / month · 📦 730 · ⏱️ 08.06.2020):
 	```
 	pip install klein
 	```
 </details>
-<details><summary><b><a href="https://github.com/Kozea/Radicale">Radicale</a></b> (🥉25 ·  ⭐ 2.1K) - A simple CalDAV (calendar) and CardDAV (contact) server. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/mirumee/saleor">saleor</a></b> (🥉24 ·  ⭐ 11K) - A modular, high performance, headless e-commerce platform built.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://graphql.org/img/logo.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/Kozea/Radicale) (👨‍💻 90 · 🔀 330 · 📦 90 · 📋 780 - 33% open · ⏱️ 30.03.2021):
+- [GitHub](https://github.com/mirumee/saleor) (👨‍💻 200 · 🔀 3.6K · 📋 3K - 6% open · ⏱️ 19.05.2021):
+
+	```
+	git clone https://github.com/mirumee/saleor
+	```
+</details>
+<details><summary><b><a href="https://github.com/Kozea/Radicale">Radicale</a></b> (🥉24 ·  ⭐ 2.1K) - A simple CalDAV (calendar) and CardDAV (contact) server. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/Kozea/Radicale) (👨‍💻 90 · 🔀 330 · 📦 90 · 📋 780 - 33% open · ⏱️ 13.05.2021):
 
 	```
 	git clone https://github.com/Kozea/Radicale
@@ -6145,34 +6164,26 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	pip install radicale
 	```
 </details>
-<details><summary><b><a href="https://github.com/mirumee/saleor">saleor</a></b> (🥉24 ·  ⭐ 11K) - A modular, high performance, headless e-commerce platform built.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://graphql.org/img/logo.svg" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/mirumee/saleor) (👨‍💻 200 · 🔀 3.6K · 📋 3K - 6% open · ⏱️ 13.05.2021):
-
-	```
-	git clone https://github.com/mirumee/saleor
-	```
-</details>
 <details><summary><b><a href="https://github.com/nabla-c0d3/sslyze">sslyze</a></b> (🥉23 ·  ⭐ 2.5K) - Fast and powerful SSL/TLS scanning library. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/nabla-c0d3/sslyze) (👨‍💻 57 · 🔀 360 · 📥 90K · 📋 430 - 4% open · ⏱️ 11.04.2021):
+- [GitHub](https://github.com/nabla-c0d3/sslyze) (👨‍💻 57 · 🔀 360 · 📥 90K · 📋 430 - 5% open · ⏱️ 11.04.2021):
 
 	```
 	git clone https://github.com/nabla-c0d3/sslyze
 	```
-- [PyPi](https://pypi.org/project/sslyze) (📥 160K / month · 📦 30 · ⏱️ 22.02.2021):
+- [PyPi](https://pypi.org/project/sslyze) (📥 170K / month · 📦 30 · ⏱️ 22.02.2021):
 	```
 	pip install sslyze
 	```
 </details>
 <details><summary><b><a href="https://github.com/WeblateOrg/weblate">weblate</a></b> (🥉22 ·  ⭐ 2.4K) - Web based localization tool with tight version control integration. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/WeblateOrg/weblate) (👨‍💻 1.1K · 🔀 600 · 📥 1.1K · 📦 18 · 📋 3.8K - 7% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/WeblateOrg/weblate) (👨‍💻 1.1K · 🔀 600 · 📥 1.1K · 📦 18 · 📋 3.8K - 7% open · ⏱️ 20.05.2021):
 
 	```
 	git clone https://github.com/WeblateOrg/weblate
 	```
-- [PyPi](https://pypi.org/project/weblate) (📥 3.8K / month · ⏱️ 08.05.2021):
+- [PyPi](https://pypi.org/project/weblate) (📥 3.1K / month · ⏱️ 08.05.2021):
 	```
 	pip install weblate
 	```
@@ -6184,7 +6195,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/aiortc/aiortc
 	```
-- [PyPi](https://pypi.org/project/aiortc) (📥 44K / month · 📦 12 · ⏱️ 07.03.2021):
+- [PyPi](https://pypi.org/project/aiortc) (📥 46K / month · 📦 12 · ⏱️ 07.03.2021):
 	```
 	pip install aiortc
 	```
@@ -6196,14 +6207,14 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/jeffknupp/sandman2
 	```
-- [PyPi](https://pypi.org/project/sandman2) (📥 270 / month · 📦 6 · ⏱️ 08.09.2020):
+- [PyPi](https://pypi.org/project/sandman2) (📥 210 / month · 📦 6 · ⏱️ 08.09.2020):
 	```
 	pip install sandman2
 	```
 </details>
 <details><summary><b><a href="https://github.com/stamparm/maltrail">maltrail</a></b> (🥉21 ·  ⭐ 4K) - Malicious traffic detection system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/stamparm/maltrail) (👨‍💻 30 · 🔀 750 · 📋 280 - 20% open · ⏱️ 13.05.2021):
+- [GitHub](https://github.com/stamparm/maltrail) (👨‍💻 30 · 🔀 750 · 📋 280 - 19% open · ⏱️ 20.05.2021):
 
 	```
 	git clone https://github.com/stamparm/maltrail
@@ -6211,7 +6222,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 </details>
 <details><summary><b><a href="https://github.com/healthchecks/healthchecks">healthchecks</a></b> (🥉20 ·  ⭐ 3.8K) - A cron monitoring tool written in Python & Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/healthchecks/healthchecks) (👨‍💻 60 · 🔀 460 · 📋 380 - 17% open · ⏱️ 12.05.2021):
+- [GitHub](https://github.com/healthchecks/healthchecks) (👨‍💻 60 · 🔀 460 · 📋 380 - 18% open · ⏱️ 12.05.2021):
 
 	```
 	git clone https://github.com/healthchecks/healthchecks
@@ -6224,7 +6235,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/thp/urlwatch
 	```
-- [PyPi](https://pypi.org/project/urlwatch) (📥 3.1K / month · 📦 2 · ⏱️ 10.04.2021):
+- [PyPi](https://pypi.org/project/urlwatch) (📥 3K / month · 📦 2 · ⏱️ 10.04.2021):
 	```
 	pip install urlwatch
 	```
@@ -6236,7 +6247,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	```
 	git clone https://github.com/pyload/pyload
 	```
-- [PyPi](https://pypi.org/project/pyload-ng) (📥 2K / month · ⏱️ 28.04.2021):
+- [PyPi](https://pypi.org/project/pyload-ng) (📥 2.1K / month · ⏱️ 28.04.2021):
 	```
 	pip install pyload-ng
 	```
@@ -6249,33 +6260,33 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 	git clone https://github.com/arachnys/cabot
 	```
 </details>
-<details><summary><b><a href="https://github.com/florimondmanca/asgi-lifespan">asgi-lifespan</a></b> (🥉17 ·  ⭐ 69 · 💤) - Programmatic startup/shutdown of ASGI apps. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/florimondmanca/asgi-lifespan">asgi-lifespan</a></b> (🥉17 ·  ⭐ 70 · 💤) - Programmatic startup/shutdown of ASGI apps. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/florimondmanca/asgi-lifespan) (👨‍💻 1 · 🔀 4 · 📦 110 · 📋 12 - 8% open · ⏱️ 30.08.2020):
+- [GitHub](https://github.com/florimondmanca/asgi-lifespan) (👨‍💻 1 · 🔀 4 · 📦 120 · 📋 12 - 8% open · ⏱️ 30.08.2020):
 
 	```
 	git clone https://github.com/florimondmanca/asgi-lifespan
 	```
-- [PyPi](https://pypi.org/project/asgi-lifespan) (📥 20K / month · ⏱️ 07.06.2020):
+- [PyPi](https://pypi.org/project/asgi-lifespan) (📥 21K / month · ⏱️ 07.06.2020):
 	```
 	pip install asgi-lifespan
 	```
 </details>
 <details><summary>Show 13 hidden projects...</summary>
 
-- <b><a href="https://github.com/zeromq/pyzmq">pyzmq</a></b> (🥈32 ·  ⭐ 2.8K · 📉) - PyZMQ: Python bindings for zeromq. <code><a href="https://tldrlegal.com/search?q=Revised%20BSD">❗️Revised BSD</a></code>
+- <b><a href="https://github.com/zeromq/pyzmq">pyzmq</a></b> (🥈32 ·  ⭐ 2.8K) - PyZMQ: Python bindings for zeromq. <code><a href="https://tldrlegal.com/search?q=Revised%20BSD">❗️Revised BSD</a></code>
 - <b><a href="https://github.com/postmanlabs/httpbin">httpbin</a></b> (🥈30 ·  ⭐ 9.8K · 💀) - HTTP Request & Response Service, written in Python + Flask. <code><a href="http://bit.ly/3hkKRql">ISC</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/Anorov/PySocks">PySocks</a></b> (🥈29 ·  ⭐ 1K · 💀) - A SOCKS proxy client and wrapper for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://github.com/phihag/ipaddress">ipaddress</a></b> (🥉26 ·  ⭐ 89 · 💀) - Python 3.3+'s ipaddress for older Python versions. <code><a href="http://bit.ly/35wkF7y">Python-2.0</a></code>
 - <b><a href="https://github.com/eudicots/Cactus">Cactus</a></b> (🥉24 ·  ⭐ 3.4K · 💀) - Static site generator for designers. Uses Python and Django.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/joepie91/python-whois">python-whois</a></b> (🥉24 ·  ⭐ 360 · 💀) - A python module for retrieving and parsing WHOIS data. <code><a href="https://tldrlegal.com/search?q=WTFPL">❗️WTFPL</a></code>
 - <b><a href="https://github.com/hyde/hyde">hyde</a></b> (🥉23 ·  ⭐ 1.6K · 💀) - A Python Static Website Generator. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/joepie91/python-whois">python-whois</a></b> (🥉23 ·  ⭐ 360 · 💀) - A python module for retrieving and parsing WHOIS data. <code><a href="https://tldrlegal.com/search?q=WTFPL">❗️WTFPL</a></code>
 - <b><a href="https://github.com/constverum/ProxyBroker">ProxyBroker</a></b> (🥉22 ·  ⭐ 2.5K · 💀) - Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/seomoz/reppy">reppy</a></b> (🥉22 ·  ⭐ 160 · 💀) - Modern robots.txt Parser for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/gaojiuli/toapi">toapi</a></b> (🥉19 ·  ⭐ 3.1K · 💀) - Every web site provides APIs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/vladris/tinkerer">tinkerer</a></b> (🥉19 ·  ⭐ 300 · 💀) - Python blogging engine. <code><a href="https://tldrlegal.com/search?q=BSD-2-Clause-FreeBSD">❗️BSD-2-Clause-FreeBSD</a></code>
+- <b><a href="https://github.com/vladris/tinkerer">tinkerer</a></b> (🥉18 ·  ⭐ 300 · 💀) - Python blogging engine. <code><a href="https://tldrlegal.com/search?q=BSD-2-Clause-FreeBSD">❗️BSD-2-Clause-FreeBSD</a></code>
 - <b><a href="https://github.com/datalib/libextract">libextract</a></b> (🥉14 ·  ⭐ 490 · 💀) - Extract data from websites using basic statistical magic. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/ip2location/ip2trace-python">IP2Trace</a></b> (🥉10 ·  ⭐ 4 · 🐣) - A Python tool to display geolocation information in the traceroute. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/ip2location/ip2trace-python">IP2Trace</a></b> (🥉9 ·  ⭐ 4 · 🐣) - A Python tool to display geolocation information in the traceroute. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
 
 ---
