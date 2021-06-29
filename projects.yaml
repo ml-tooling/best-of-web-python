@@ -709,6 +709,14 @@ projects:
   - name: timing-asgi
     github_id: steinnes/timing-asgi
     category: monitoring
+  - name: opentracing-python
+    github_id: opentracing/opentracing-python
+    category: monitoring
+    pypi_id: opentracing
+  - name: opentelemetry-python
+    github_id: open-telemetry/opentelemetry-python
+    category: monitoring
+    pypi_id: opentelemetry-api
     # labels: asgi
     pypi_id: timing-asgi
   - name: flask-state
@@ -1387,6 +1395,10 @@ projects:
     github_id: h2oai/wave
     category: web-ui
     pypi_id: wave
+  - name: Streamlit
+    pypi_id: streamlit
+    github_id: streamlit/streamlit
+    category: web-ui
   - name: Wooey
     github_id: wooey/wooey
     category: web-ui
@@ -1599,6 +1611,11 @@ projects:
     category: admin-ui
     labels: ["django"]
     pypi_id: django-smuggler
+  - name: python-jose
+    github_id: mpdavis/python-jose
+    category: auth
+    conda_id: conda-forge/python-jose
+    pypi_id: python-jose
   - name: django-rest-framework-simplejwt
     github_id: SimpleJWT/django-rest-framework-simplejwt
     category: auth
@@ -2692,3 +2709,72 @@ projects:
   - name: IP2Trace
     github_id: ip2location/ip2trace-python
     pypi_id: IP2Trace
+  - name: fastapi-crudrouter
+    github_id: awtkns/fastapi-crudrouter
+    category: fastapi-utils
+    labels: ["fastapi"]
+    pypi_id: fastapi-crudrouter
+  - name: fastapi-admin
+    github_id: fastapi-admin/fastapi-admin
+    category: fastapi-utils
+    labels: ["fastapi"]
+    pypi_id: fastapi-admin
+  - name: tifffile
+    github_id: cgohlke/tifffile
+    category: file-formats
+    conda_id: conda-forge/tifffile
+    pypi_id: tifffile
+  - name: flask_jsondash
+    github_id: christabor/flask_jsondash
+    category: flask-utils
+    labels: ["flask"]
+    pypi_id: flask_jsondash
+  - name: flask-ngrok
+    github_id: gstaff/flask-ngrok
+    category: flask-utils
+    labels: ["flask"]
+    pypi_id: flask-ngrok
+  - name: graphene-pydantic
+    github_id: graphql-python/graphene-pydantic
+    category: graphql
+    labels: ["graphql"]
+    pypi_id: graphene-pydantic
+  - name: graphene-mongo
+    github_id: graphql-python/graphene-mongo
+    category: graphql
+    labels: ["graphql"]
+    conda_id: conda-forge/graphene-mongo
+    pypi_id: graphene-mongo
+  - name: pyngrok
+    github_id: alexdlaird/pyngrok
+    category: others
+    conda_id: conda-forge/pyngrok
+    pypi_id: pyngrok
+  - name: streaming-form-data
+    github_id: siddhantgoel/streaming-form-data
+    category: others
+    pypi_id: streaming-form-data
+  - name: trustme
+    github_id: python-trio/trustme
+    category: others
+    pypi_id: trustme
+  - name: web3.py
+    github_id: ethereum/web3.py
+    category: others
+    pypi_id: web3
+  - name: justpy
+    github_id: elimintz/justpy
+    category: web-frameworks
+    pypi_id: justpy
+  - name: pytrends
+    github_id: GeneralMills/pytrends
+    category: web-scraping
+    pypi_id: pytrends
+  - name: Scrapera
+    github_id: DarshanDeshpande/Scrapera
+    category: web-scraping
+    pypi_id: scrapera
+  - name: idom
+    github_id: idom-team/idom
+    category: web-ui
+    pypi_id: idom
