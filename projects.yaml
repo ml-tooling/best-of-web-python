@@ -866,6 +866,10 @@ projects:
     category: rpc
     labels: ["fastapi"]
     pypi_id: fastapi-jsonrpc
+  - name: lambdarest
+    github_id: sloev/python-lambdarest
+    category: serverless
+    pypi_id: lambdarest
   - name: Zappa
     github_id: Miserlou/Zappa
     category: serverless
