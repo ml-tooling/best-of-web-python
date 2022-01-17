@@ -99,8 +99,8 @@ projects:
   - name: xadmin
     github_id: sshwsfc/xadmin
     category: admin-ui
-    license: BSD-3-Clause
     pypi_id: xadmin2
+    license: BSD-3-Clause
   - name: fastapi-admin
     github_id: fastapi-admin/fastapi-admin
     category: admin-ui
@@ -248,13 +248,14 @@ projects:
     pypi_id: feincms
   - name: Kotti
     github_id: Kotti/Kotti
-    license: "BSD"
     category: cms
+    license: BSD
   - name: Django-Ninja
     github_id: vitalik/django-ninja
     category: django-utils
-    license: "MIT"
+    conda_id: conda-forge/django-ninja
     pypi_id: django-ninja
+    license: MIT
   - name: channels
     github_id: django/channels
     category: django-utils
@@ -264,10 +265,11 @@ projects:
   - name: django-storages
     github_id: jschneier/django-storages
     category: django-utils
-    description: "Django-storages is a project to provide a variety of storage backends in a single library."
     labels: ["django"]
     conda_id: conda-forge/django-storages
     pypi_id: django-storages
+    description: Django-storages is a project to provide a variety of storage backends
+      in a single library.
   - name: django-import-export
     github_id: django-import-export/django-import-export
     category: django-utils
@@ -323,6 +325,7 @@ projects:
     github_id: typeddjango/django-stubs
     category: django-utils
     labels: ["django"]
+    conda_id: conda-forge/django-stubs
     pypi_id: django-stubs
   - name: django-cacheops
     github_id: Suor/django-cacheops
@@ -394,6 +397,7 @@ projects:
   - name: yagmail
     github_id: kootenpv/yagmail
     category: email
+    conda_id: conda-forge/yagmail
     pypi_id: yagmail
   - name: modoboa
     github_id: modoboa/modoboa
@@ -420,6 +424,7 @@ projects:
   - name: offlineimap
     github_id: OfflineIMAP/offlineimap
     category: email
+    conda_id: conda-forge/offlineimap
     pypi_id: offlineimap
   - name: fastapi-mail
     github_id: sabuhish/fastapi-mail
@@ -528,6 +533,7 @@ projects:
     github_id: alecthomas/flask_injector
     category: flask-utils
     labels: ["flask"]
+    conda_id: conda-forge/flask-injector
     pypi_id: flask_injector
   - name: flask-rebar
     github_id: plangrid/flask-rebar
@@ -573,8 +579,8 @@ projects:
   - name: deform
     github_id: Pylons/deform
     category: forms
-    license: BSD-3-Clause
     pypi_id: deform
+    license: BSD-3-Clause
   - name: graphene
     github_id: graphql-python/graphene
     category: graphql
@@ -589,8 +595,8 @@ projects:
     pypi_id: graphene-django
   - name: ariadne
     github_id: mirumee/ariadne
-    labels: ["graphql"]
     category: graphql
+    labels: ["graphql"]
     pypi_id: ariadne
   - name: flask-graphql
     github_id: graphql-python/flask-graphql
@@ -616,6 +622,7 @@ projects:
   - name: html5lib-python
     github_id: html5lib/html5lib-python
     category: html-processing
+    conda_id: conda-forge/html5lib
     pypi_id: html5lib
   - name: requests
     github_id: psf/requests
@@ -679,6 +686,7 @@ projects:
   - name: python-zeep
     github_id: mvantellingen/python-zeep
     category: http-clients
+    conda_id: conda-forge/zeep
     pypi_id: zeep
   - name: httpstat
     github_id: reorx/httpstat
@@ -712,12 +720,12 @@ projects:
   - name: opentracing-python
     github_id: opentracing/opentracing-python
     category: monitoring
+    conda_id: conda-forge/opentracing
     pypi_id: opentracing
   - name: opentelemetry-python
     github_id: open-telemetry/opentelemetry-python
     category: monitoring
-    pypi_id: opentelemetry-api
-    # labels: asgi
+    conda_id: conda-forge/opentelemetry-api
     pypi_id: timing-asgi
   - name: flask-state
     github_id: yoobool/flask-state
@@ -747,13 +755,15 @@ projects:
     labels: ["pyramid", "openapi"]
     pypi_id: pyramid_openapi3
   - name: openapi-python-client
-    github_id: triaxtec/openapi-python-client
+    github_id: openapi-generators/openapi-python-client
     category: openapi-utils
     labels: ["openapi"]
+    conda_id: conda-forge/openapi-python-client
     pypi_id: openapi-python-client
   - name: certbot
     github_id: certbot/certbot
     category: others
+    conda_id: conda-forge/certbot-apache
     pypi_id: certbot
   - name: scapy
     github_id: secdev/scapy
@@ -773,6 +783,7 @@ projects:
   - name: speedtest-cli
     github_id: sivel/speedtest-cli
     category: others
+    conda_id: conda-forge/speedtest-cli
     pypi_id: speedtest-cli
   - name: impacket
     github_id: SecureAuthCorp/impacket
@@ -816,6 +827,7 @@ projects:
   - name: python-user-agents
     github_id: selwin/python-user-agents
     category: others
+    conda_id: conda-forge/user-agents
     pypi_id: user-agents
   - name: aiortc
     github_id: aiortc/aiortc
@@ -921,7 +933,7 @@ projects:
   - name: mangum
     github_id: jordaneremieff/mangum
     category: servers
-    labels: ["fastapi"] #asgi
+    labels: ["fastapi"]
     pypi_id: mangum
   - name: whitenoise
     github_id: evansd/whitenoise
@@ -949,15 +961,16 @@ projects:
     pypi_id: jinja2
   - name: Mako
     github_id: sqlalchemy/mako
-    category: others # templating
+    category: others
     conda_id: conda-forge/mako
     pypi_id: mako
   - name: pyramid_jinja2
     github_id: Pylons/pyramid_jinja2
     category: pyramid-utils
     labels: ["pyramid"]
-    licenses: BSD-based
+    conda_id: anaconda/pyramid_jinja2
     pypi_id: pyramid_jinja2
+    licenses: BSD-based
   - name: mitmproxy
     github_id: mitmproxy/mitmproxy
     category: testing
@@ -995,6 +1008,7 @@ projects:
   - name: webtest
     github_id: Pylons/webtest
     category: testing
+    conda_id: conda-forge/webtest
     pypi_id: webtest
   - name: django-test-plus
     github_id: revsys/django-test-plus
@@ -1010,6 +1024,7 @@ projects:
     github_id: Pylons/pyramid_debugtoolbar
     category: testing
     labels: ["pyramid"]
+    conda_id: conda-forge/pyramid_debugtoolbar
     pypi_id: pyramid_debugtoolbar
   - name: aioresponses
     github_id: pnuckowski/aioresponses
@@ -1031,11 +1046,12 @@ projects:
     github_id: klen/mixer
     category: testing
     labels: ["flask", "django"]
-    license: BSD-3-Clause
     pypi_id: mixer
+    license: BSD-3-Clause
   - name: SeleniumLibrary
     github_id: robotframework/SeleniumLibrary
     category: testing
+    conda_id: conda-forge/robotframework-seleniumlibrary
     pypi_id: robotframework-seleniumlibrary
   - name: pyresttest
     github_id: svanoort/pyresttest
@@ -1060,13 +1076,12 @@ projects:
     category: testing
     pypi_id: helium
   - name: aresponses
-    github_id: CircleUp/aresponses
+    github_id: aresponses/aresponses
     category: testing
     pypi_id: aresponses
   - name: async-asgi-testclient
     github_id: vinissimus/async-asgi-testclient
     category: testing
-    # labels: asgi
     pypi_id: async-asgi-testclient
   - name: python-mocket
     github_id: mindflayer/python-mocket
@@ -1078,6 +1093,7 @@ projects:
   - name: discord.py
     github_id: Rapptz/discord.py
     category: third-party-apis
+    conda_id: conda-forge/discord.py
     pypi_id: discord.py
   - name: tweepy
     github_id: tweepy/tweepy
@@ -1111,6 +1127,7 @@ projects:
   - name: spotipy
     github_id: plamere/spotipy
     category: third-party-apis
+    conda_id: conda-forge/spotipy
     pypi_id: spotipy
   - name: pyTelegramBotAPI
     github_id: eternnoir/pyTelegramBotAPI
@@ -1131,7 +1148,7 @@ projects:
     category: third-party-apis
     pypi_id: instapy
   - name: twitter
-    github_id: sixohsix/twitter
+    github_id: python-twitter-tools/twitter
     category: third-party-apis
     pypi_id: twitter
   - name: tushare
@@ -1141,6 +1158,7 @@ projects:
   - name: pytube
     github_id: pytube/pytube
     category: third-party-apis
+    conda_id: conda-forge/pytube
     pypi_id: pytube
   - name: facebook-sdk
     github_id: mobolic/facebook-sdk
@@ -1199,8 +1217,8 @@ projects:
   - name: Django Facebook
     github_id: tschellenbach/Django-facebook
     category: third-party-apis
-    license: BSD-3-Clause
     pypi_id: django-facebook
+    license: BSD-3-Clause
   - name: telepot
     github_id: nickoala/telepot
     category: third-party-apis
@@ -1232,9 +1250,11 @@ projects:
   - name: scdl
     github_id: flyingrub/scdl
     category: third-party-apis
+    pypi_id: scdl
   - name: python-slack-sdk
     github_id: slackapi/python-slack-sdk
     category: third-party-apis
+    conda_id: conda-forge/slack-sdk
     pypi_id: slack-sdk
   - name: GHunt
     github_id: mxrch/GHunt
@@ -1283,12 +1303,13 @@ projects:
     pypi_id: sanic
   - name: CherryPy
     github_id: cherrypy/cherrypy
-    pypi_id: cherrypy
     category: web-frameworks
+    conda_id: anaconda/cherrypy
+    pypi_id: cherrypy
   - name: emmett
     github_id: emmett-framework/emmett
-    pypi_id: emmett
     category: web-frameworks
+    pypi_id: emmett
   - name: bottle
     github_id: bottlepy/bottle
     category: web-frameworks
@@ -1341,6 +1362,7 @@ projects:
     github_id: Cornices/cornice
     category: web-frameworks
     labels: ["pyramid"]
+    conda_id: anaconda/cornice
     pypi_id: cornice
   - name: hug
     github_id: hugapi/hug
@@ -1351,8 +1373,8 @@ projects:
     github_id: pgjones/quart
     category: web-frameworks
     conda_id: conda-forge/quart
-    description: "Quart is a Python ASGI web microframework with the same API as Flask."
     pypi_id: quart
+    description: Quart is a Python ASGI web microframework with the same API as Flask.
   - name: responder
     github_id: taoufik07/responder
     category: web-frameworks
@@ -1364,8 +1386,8 @@ projects:
     pypi_id: masonite
   - name: web2py
     github_id: web2py/web2py
-    license: LGPL-3.0
     category: web-frameworks
+    license: LGPL-3.0
   - name: japronto
     github_id: squeaky-pl/japronto
     category: web-frameworks
@@ -1377,6 +1399,7 @@ projects:
   - name: webpy
     github_id: webpy/webpy
     category: web-frameworks
+    conda_id: conda-forge/web.py
     pypi_id: web.py
   - name: flask-mongorest
     github_id: closeio/flask-mongorest
@@ -1393,16 +1416,17 @@ projects:
     pypi_id: ruia
   - name: dirsearch
     github_id: maurosoria/dirsearch
-    license: GPL-2.0
     category: web-scraping
+    pypi_id: dirsearch
+    license: GPL-2.0
   - name: wave
     github_id: h2oai/wave
     category: web-ui
     pypi_id: wave
   - name: Streamlit
-    pypi_id: streamlit
     github_id: streamlit/streamlit
     category: web-ui
+    pypi_id: streamlit
   - name: Wooey
     github_id: wooey/wooey
     category: web-ui
@@ -1414,8 +1438,8 @@ projects:
     pypi_id: FlaskBB
   - name: Misago
     github_id: rafalp/Misago
-    license: GPL-2.0
     category: web-ui
+    license: GPL-2.0
   - name: websocket-client
     github_id: websocket-client/websocket-client
     category: websocket
@@ -1449,141 +1473,137 @@ projects:
   - name: autobahn-python
     github_id: crossbario/autobahn-python
     category: websocket
+    conda_id: conda-forge/autobahn
     pypi_id: autobahn
   - name: Flask-Excel
     github_id: pyexcel-webwares/Flask-Excel
-    pypi_id: flask-excel
     category: flask-utils
+    pypi_id: flask-excel
   - name: salmon
     github_id: moggers87/salmon
-    pypi_id: salmon-mail
     category: email
+    pypi_id: salmon-mail
   - name: gain
     github_id: gaojiuli/gain
-    pypi_id: gain
     category: web-scraping
+    pypi_id: gain
   - name: fastapi-code-generator
     github_id: koxudaxi/fastapi-code-generator
-    pypi_id: fastapi-code-generator
-    labels: ["fastapi", "openapi"]
     category: fastapi-utils
+    labels: ["fastapi", "openapi"]
+    pypi_id: fastapi-code-generator
   - name: nginx-ui
     github_id: schenkd/nginx-ui
-    dockerhub_id: schenkd/nginx-ui
     category: admin-ui
+    dockerhub_id: schenkd/nginx-ui
   - name: fastapi_cache
     github_id: comeuplater/fastapi_cache
-    pypi_id: fastapi_cache
-    labels: ["fastapi"]
     category: fastapi-utils
-  # Web Scraping & Crawling
-  - name: beautifulsoup4
-    # Add github repo
-    pypi_id: beautifulsoup4
-    conda_id: conda-forge/beautifulsoup4
-    show: True
-    category: web-scraping
+    labels: ["fastapi"]
+    pypi_id: fastapi_cache
   - name: Cola
     github_id: qinxuye/cola
-    pypi_id: cola
     category: web-scraping
+    pypi_id: cola
   - name: Lassie
     github_id: michaelhelmick/lassie
-    pypi_id: lassie
     category: web-scraping
+    pypi_id: lassie
   - name: feedparser
     github_id: kurtmckee/feedparser
-    pypi_id: feedparser
     category: web-scraping
+    conda_id: conda-forge/feedparser
+    pypi_id: feedparser
   - name: gallery-dl
-    pypi_id: gallery-dl
     github_id: mikf/gallery-dl
     category: third-party-apis
+    pypi_id: gallery-dl
   - name: AutoScraper
     github_id: alirezamika/autoscraper
+    category: web-scraping
     pypi_id: autoscraper
-    category: web-scraping
   - name: soupsieve
-    pypi_id: soupsieve
     github_id: facelessuser/soupsieve
-    conda_id: conda-forge/soupsieve
     category: web-scraping
+    conda_id: conda-forge/soupsieve
+    pypi_id: soupsieve
   - name: Photon
-    pypi_id: photon
     github_id: s0md3v/Photon
     category: web-scraping
+    pypi_id: photon
   - name: Pattern
-    pypi_id: pattern
     github_id: clips/pattern
-    conda_id: conda-forge/pattern
     category: web-scraping
+    conda_id: conda-forge/pattern
+    pypi_id: pattern
   - name: lazynlp
     github_id: chiphuyen/lazynlp
-    license: MIT
-    # TODO: add package manager
     category: web-scraping
+    license: MIT
   - name: micawber
-    pypi_id: micawber
     github_id: coleifer/micawber
     category: web-scraping
+    conda_id: conda-forge/micawber
+    pypi_id: micawber
   - name: Google Images Download
     github_id: hardikvasa/google-images-download
-    pypi_id: google_images_download
     category: third-party-apis
+    pypi_id: google_images_download
   - name: Requests-HTML
-    pypi_id: requests-html
     github_id: psf/requests-html
     category: html-processing
+    pypi_id: requests-html
   - name: Scrapy
-    pypi_id: scrapy
     github_id: scrapy/scrapy
+    category: web-scraping
     conda_id: conda-forge/scrapy
-    category: web-scraping
+    pypi_id: scrapy
   - name: newspaper3k
-    pypi_id: newspaper3k
     github_id: codelucas/newspaper
-    conda_id: conda-forge/newspaper3k
     category: web-scraping
+    conda_id: conda-forge/newspaper3k
+    pypi_id: newspaper3k
   - name: youtube-dl
     github_id: ytdl-org/youtube-dl
+    category: third-party-apis
+    conda_id: conda-forge/youtube-dl
     pypi_id: youtube_dl
     brew_id: youtube-dl
-    conda_id: conda-forge/youtube-dl
-    category: third-party-apis
   - name: You-Get
     github_id: soimort/you-get
+    category: web-scraping
+    conda_id: conda-forge/you-get
     pypi_id: you-get
     brew_id: you-get
-    category: web-scraping
   - name: MechanicalSoup
     github_id: MechanicalSoup/MechanicalSoup
-    pypi_id: MechanicalSoup
-    conda_id: conda-forge/mechanicalsoup
     category: web-scraping
+    conda_id: conda-forge/mechanicalsoup
+    pypi_id: MechanicalSoup
   - name: Grab
     github_id: lorien/grab
-    pypi_id: grab
     category: web-scraping
+    pypi_id: grab
   - name: gazpacho
     github_id: maxhumber/gazpacho
-    pypi_id: gazpacho
     category: web-scraping
+    pypi_id: gazpacho
   - name: Transistor
     github_id: bomquote/transistor
-    pypi_id: transistor
     category: web-scraping
+    pypi_id: transistor
   - name: pyspider
     github_id: binux/pyspider
-    pypi_id: pyspider
     category: web-scraping
+    pypi_id: pyspider
   - name: WikiExtractor
     github_id: attardi/wikiextractor
-    pypi_id: wikiextractor
     category: third-party-apis
+    pypi_id: wikiextractor
   - name: Public APIs
     github_id: public-apis/public-apis
-    resource: True
     category: third-party-apis
+    resource: true
   - name: django-grappelli
     github_id: sehmaschine/django-grappelli
     category: admin-ui
@@ -1621,7 +1641,7 @@ projects:
     conda_id: conda-forge/python-jose
     pypi_id: python-jose
   - name: django-rest-framework-simplejwt
-    github_id: SimpleJWT/django-rest-framework-simplejwt
+    github_id: jazzband/djangorestframework-simplejwt
     category: auth
     labels: ["django"]
     pypi_id: djangorestframework-simplejwt
@@ -1643,14 +1663,16 @@ projects:
     labels: ["django"]
     pypi_id: django-rest-knox
   - name: fastapi-users
-    github_id: frankie567/fastapi-users
+    github_id: fastapi-users/fastapi-users
     category: auth
     labels: ["fastapi"]
+    conda_id: conda-forge/fastapi-users
     pypi_id: fastapi-users
   - name: dj-rest-auth
-    github_id: jazzband/dj-rest-auth
+    github_id: iMerica/dj-rest-auth
     category: auth
     labels: ["django"]
+    conda_id: conda-forge/dj-rest-auth
     pypi_id: dj-rest-auth
   - name: django-stronghold
     github_id: mgrouchy/django-stronghold
@@ -1669,12 +1691,12 @@ projects:
     pypi_id: flask-praetorian
   - name: fastapi-permissions
     github_id: holgi/fastapi-permissions
-    license: "THE BEER-WARE LICENSE"
     category: auth
     labels: ["fastapi"]
     pypi_id: fastapi-permissions
+    license: THE BEER-WARE LICENSE
   - name: cookiecutter-django
-    github_id: pydanny/cookiecutter-django
+    github_id: cookiecutter/cookiecutter-django
     category: django-utils
     labels: ["django"]
     pypi_id: cookiecutter-django
@@ -1699,6 +1721,7 @@ projects:
     github_id: carltongibson/django-filter
     category: django-utils
     labels: ["django"]
+    conda_id: conda-forge/django-filter
     pypi_id: django-filter
   - name: django-reversion
     github_id: etianen/django-reversion
@@ -1709,11 +1732,13 @@ projects:
     github_id: django-mptt/django-mptt
     category: django-utils
     labels: ["django"]
+    conda_id: anaconda/django-mptt
     pypi_id: django-mptt
   - name: django-webpack-loader
-    github_id: owais/django-webpack-loader
+    github_id: django-webpack/django-webpack-loader
     category: django-utils
     labels: ["django"]
+    conda_id: conda-forge/django-webpack-loader
     pypi_id: django-webpack-loader
   - name: django-model-utils
     github_id: jazzband/django-model-utils
@@ -1749,6 +1774,7 @@ projects:
     github_id: jazzband/sorl-thumbnail
     category: django-utils
     labels: ["django"]
+    conda_id: conda-forge/sorl-thumbnail
     pypi_id: sorl-thumbnail
   - name: django-autocomplete-light
     github_id: yourlabs/django-autocomplete-light
@@ -1759,6 +1785,7 @@ projects:
     github_id: jieter/django-tables2
     category: django-utils
     labels: ["django"]
+    conda_id: conda-forge/django-tables2
     pypi_id: django-tables2
   - name: django-rq
     github_id: rq/django-rq
@@ -1804,6 +1831,7 @@ projects:
     github_id: django-polymorphic/django-polymorphic
     category: django-utils
     labels: ["django"]
+    conda_id: conda-forge/django_polymorphic
     pypi_id: django-polymorphic
   - name: django-extra-views
     github_id: AndrewIngram/django-extra-views
@@ -1824,6 +1852,7 @@ projects:
     github_id: sebleier/django-redis-cache
     category: django-utils
     labels: ["django"]
+    conda_id: conda-forge/django-redis-cache
     pypi_id: django-redis-cache
   - name: django-jenkins
     github_id: kmmbvnr/django-jenkins
@@ -1849,12 +1878,14 @@ projects:
     github_id: django-waffle/django-waffle
     category: django-utils
     labels: ["django"]
+    conda_id: conda-forge/django-waffle
     pypi_id: django-waffle
   - name: django-schedule
     github_id: thauber/django-schedule
     category: django-utils
-    licenses: BSD-3-Clause
     labels: ["django"]
+    pypi_id: django-schedule-frinat
+    licenses: BSD-3-Clause
   - name: django-summernote
     github_id: summernote/django-summernote
     category: django-utils
@@ -1864,6 +1895,7 @@ projects:
     github_id: mbi/django-rosetta
     category: django-utils
     labels: ["django"]
+    conda_id: conda-forge/django-rosetta
     pypi_id: django-rosetta
   - name: django-floppyforms
     github_id: jazzband/django-floppyforms
@@ -1874,11 +1906,13 @@ projects:
     github_id: bennylope/django-organizations
     category: django-utils
     labels: ["django"]
+    conda_id: conda-forge/django-organizations
     pypi_id: django-organizations
   - name: django-configurations
     github_id: jazzband/django-configurations
     category: django-utils
     labels: ["django"]
+    conda_id: conda-forge/django-configurations
     pypi_id: django-configurations
   - name: django-cachalot
     github_id: noripyt/django-cachalot
@@ -1895,6 +1929,7 @@ projects:
     github_id: un1t/django-cleanup
     category: django-utils
     labels: ["django"]
+    conda_id: conda-forge/django-cleanup
     pypi_id: django-cleanup
   - name: django-paypal
     github_id: spookylukey/django-paypal
@@ -1907,7 +1942,7 @@ projects:
     labels: ["django"]
     pypi_id: django-solo
   - name: django-dbbackup
-    github_id: django-dbbackup/django-dbbackup
+    github_id: jazzband/django-dbbackup
     category: django-utils
     labels: ["django"]
     pypi_id: django-dbbackup
@@ -1981,7 +2016,7 @@ projects:
     conda_id: conda-forge/flask-marshmallow
     pypi_id: flask-marshmallow
   - name: flask-caching
-    github_id: sh4nks/flask-caching
+    github_id: pallets-eco/flask-caching
     category: flask-utils
     labels: ["flask"]
     conda_id: conda-forge/flask-caching
@@ -2007,12 +2042,13 @@ projects:
     github_id: cenobites/flask-jsonrpc
     category: flask-utils
     labels: ["flask"]
-    license: BSD-3-Clause
     pypi_id: rpc
+    license: BSD-3-Clause
   - name: flask-paginate
     github_id: lixxu/flask-paginate
     category: flask-utils
     labels: ["flask"]
+    conda_id: conda-forge/flask-paginate
     pypi_id: flask-paginate
   - name: flask-s3
     github_id: e-dard/flask-s3
@@ -2029,7 +2065,7 @@ projects:
     labels: ["flask"]
     pypi_id: Flask-Opentracing
   - name: flask-wtf
-    github_id: lepture/flask-wtf
+    github_id: wtforms/flask-wtf
     category: forms
     labels: ["flask"]
     conda_id: conda-forge/flask-wtf
@@ -2042,6 +2078,7 @@ projects:
   - name: WeasyPrint
     github_id: Kozea/WeasyPrint
     category: html-processing
+    conda_id: conda-forge/weasyprint
     pypi_id: weasyprint
   - name: pyquery
     github_id: gawel/pyquery
@@ -2102,8 +2139,8 @@ projects:
     github_id: getsentry/sentry
     category: monitoring
     conda_id: conda-forge/sentry-sdk
-    show: True
     pypi_id: sentry
+    show: true
   - name: Flask-MonitoringDashboard
     github_id: flask-dashboard/Flask-MonitoringDashboard
     category: monitoring
@@ -2113,37 +2150,37 @@ projects:
     github_id: OAI/OpenAPI-Specification
     category: openapi-utils
     labels: ["openapi"]
-    resource: True
+    resource: true
   - name: swagger-ui
     github_id: swagger-api/swagger-ui
     category: openapi-utils
     labels: ["openapi"]
   - name: swagger-codegen
     github_id: swagger-api/swagger-codegen
-    maven_id: io.swagger.codegen.v3.swagger-codegen-maven-plugin
     category: openapi-utils
     labels: ["openapi"]
+    maven_id: io.swagger.codegen.v3.swagger-codegen-maven-plugin
   - name: OpenAPI Generator
     github_id: OpenAPITools/openapi-generator
-    maven_id: org.openapitools.openapi-generator
-    pypi_id: openapi-generator-cli
-    npm_id: "@openapitools/openapi-generator-cli"
     category: openapi-utils
     labels: ["openapi"]
+    pypi_id: openapi-generator-cli
+    maven_id: org.openapitools.openapi-generator
+    npm_id: '@openapitools/openapi-generator-cli'
   - name: redoc
     github_id: Redocly/redoc
     category: openapi-utils
     labels: ["openapi"]
   - name: OpenAPI-to-GraphQL
     github_id: IBM/openapi-to-graphql
-    npm_id: openapi-to-graphql-cli
     category: openapi-utils
     labels: ["openapi", "graphql"]
+    npm_id: openapi-to-graphql-cli
   - name: Spectacle
     github_id: sourcey/spectacle
-    npm_id: spectacle-docs
     category: openapi-utils
     labels: ["openapi"]
+    npm_id: spectacle-docs
   - name: django-rest-swagger
     github_id: marcgibbons/django-rest-swagger
     category: openapi-utils
@@ -2159,22 +2196,24 @@ projects:
     github_id: axnsan12/drf-yasg
     category: openapi-utils
     labels: ["openapi", "django"]
+    conda_id: conda-forge/drf-yasg
     pypi_id: drf-yasg
   - name: saleor
-    github_id: mirumee/saleor
+    github_id: saleor/saleor
     category: others
-    license: "BSD-3-Clause"
     labels: ["django", "graphql"]
+    license: BSD-3-Clause
   - name: twisted
     github_id: twisted/twisted
     category: others
+    conda_id: conda-forge/twisted
     pypi_id: twisted
   - name: pyzmq
     github_id: zeromq/pyzmq
     category: others
-    license: "Revised BSD"
     conda_id: conda-forge/pyzmq
     pypi_id: pyzmq
+    license: Revised BSD
   - name: ProxyBroker
     github_id: constverum/Proxybroker
     category: others
@@ -2182,10 +2221,12 @@ projects:
   - name: fake-useragent
     github_id: hellysmile/fake-useragent
     category: others
+    conda_id: conda-forge/fake-useragent
     pypi_id: fake-useragent
   - name: Js2Py
     github_id: PiotrDabkowski/Js2Py
     category: others
+    conda_id: conda-forge/js2py
     pypi_id: js2py
   - name: PySocks
     github_id: Anorov/PySocks
@@ -2222,6 +2263,7 @@ projects:
   - name: asgi-lifespan
     github_id: florimondmanca/asgi-lifespan
     category: others
+    conda_id: conda-forge/asgi-lifespan
     pypi_id: asgi-lifespan
   - name: spyne
     github_id: arskom/spyne
@@ -2234,19 +2276,19 @@ projects:
     pypi_id: huxley
   - name: Mockoon
     github_id: mockoon/mockoon
-    labels: ["openapi"]
     category: testing
+    labels: ["openapi"]
   - name: Prism
     github_id: stoplightio/prism
-    npm_id: "@stoplight/prism-cli"
-    labels: ["openapi"]
     category: testing
+    labels: ["openapi"]
+    npm_id: '@stoplight/prism-cli'
   - name: Dredd
     github_id: apiaryio/dredd
-    npm_id: dredd
-    pypi_id: dredd_hooks
-    labels: ["openapi"]
     category: testing
+    labels: ["openapi"]
+    pypi_id: dredd_hooks
+    npm_id: dredd
   - name: pyppeteer
     github_id: miyakogi/pyppeteer
     category: testing
@@ -2270,6 +2312,7 @@ projects:
     github_id: pytest-dev/pytest-django
     category: testing
     labels: ["django"]
+    conda_id: conda-forge/pytest-django
     pypi_id: pytest-django
   - name: flask-testing
     github_id: jarus/flask-testing
@@ -2343,22 +2386,24 @@ projects:
   - name: sockjs-tornado
     github_id: mrjoes/sockjs-tornado
     category: websocket
+    conda_id: conda-forge/sockjs-tornado
     pypi_id: sockjs-tornado
   - name: tornadio2
     github_id: mrjoes/tornadio2
     category: websocket
-    license: Apache-2.0
     pypi_id: tornadio2
+    license: Apache-2.0
   - name: libextract
     github_id: datalib/libextract
+    pypi_id: libextract
   - name: httpagentparser
     github_id: shon/httpagentparser
-    pypi_id: httpagentparser
     category: others
+    pypi_id: httpagentparser
   - name: GraphQL Specification
     github_id: graphql/graphql-spec
-    resource: True
     category: graphql
+    resource: true
   - name: Flask-GraphQL-Auth
     github_id: NovemberOscar/Flask-GraphQL-Auth
     category: graphql
@@ -2377,6 +2422,7 @@ projects:
   - name: graphql-relay-py
     github_id: graphql-python/graphql-relay-py
     category: graphql
+    conda_id: conda-forge/graphql-relay
     pypi_id: graphql-relay
   - name: python-graphql-client
     github_id: prisma-labs/python-graphql-client
@@ -2392,128 +2438,138 @@ projects:
     pypi_id: tartiflette-aiohttp
   - name: Hypercorn
     github_id: pgjones/hypercorn
-    description: "Hypercorn is an ASGI Server based on Hyper libraries and inspired by Gunicorn."
-    pypi_id: hypercorn
     category: servers
+    pypi_id: hypercorn
+    description: Hypercorn is an ASGI Server based on Hyper libraries and inspired by
+      Gunicorn.
   - name: Yarl
     github_id: aio-libs/yarl
-    pypi_id: yarl
-    conda_id: conda-forge/yarl
     category: url-utils
+    conda_id: conda-forge/yarl
+    pypi_id: yarl
   - name: gevent
     github_id: gevent/gevent
-    pypi_id: gevent
-    conda_id: conda-forge/gevent
     category: servers
+    conda_id: conda-forge/gevent
+    pypi_id: gevent
   - name: Meinheld
     github_id: mopemope/meinheld
-    pypi_id: meinheld
     category: servers
+    conda_id: conda-forge/meinheld
+    pypi_id: meinheld
   - name: OpenAPI Spec validator
     github_id: p1c2u/openapi-spec-validator
-    pypi_id: openapi-spec-validator
     category: openapi-utils
+    conda_id: conda-forge/openapi-spec-validator
+    pypi_id: openapi-spec-validator
   - name: openapi-core
     github_id: p1c2u/openapi-core
-    pypi_id: openapi-core
     category: openapi-utils
+    conda_id: conda-forge/openapi-core
+    pypi_id: openapi-core
   - name: fastapi-socketio
     github_id: pyropy/fastapi-socketio
-    pypi_id: fastapi-socketio
-    labels: ["fastapi"]
     category: fastapi-utils
+    labels: ["fastapi"]
+    pypi_id: fastapi-socketio
   - name: Strawberry GraphQL
     github_id: strawberry-graphql/strawberry
-    pypi_id: strawberry-graphql
-    labels: ["graphql"]
     category: graphql
+    labels: ["graphql"]
+    pypi_id: strawberry-graphql
   - name: Starlette Prometheus
     github_id: perdy/starlette-prometheus
-    pypi_id: starlette-prometheus
-    labels: ["fastapi"]
     category: monitoring
+    labels: ["fastapi"]
+    pypi_id: starlette-prometheus
   - name: starlette context
     github_id: tomwojcik/starlette-context
-    pypi_id: starlette-context
-    labels: ["fastapi"]
     category: monitoring
+    labels: ["fastapi"]
+    pypi_id: starlette-context
   - name: Spectree
     github_id: 0b01001001/spectree
-    pypi_id: spectree
-    labels: ["openapi"]
     category: openapi-utils
+    labels: ["openapi"]
+    pypi_id: spectree
   - name: datamodel-code-generator
     github_id: koxudaxi/datamodel-code-generator
-    pypi_id: datamodel-code-generator
-    labels: ["openapi"]
     category: openapi-utils
+    labels: ["openapi"]
+    pypi_id: datamodel-code-generator
   - name: AutoRest
     github_id: Azure/autorest
-    labels: ["openapi"]
     category: openapi-utils
+    labels: ["openapi"]
   - name: apispec
     github_id: marshmallow-code/apispec
-    pypi_id: apispec
-    labels: ["openapi"]
     category: openapi-utils
+    labels: ["openapi"]
+    conda_id: conda-forge/apispec
+    pypi_id: apispec
   - name: Locust
     github_id: locustio/locust
-    pypi_id: locust
     category: testing
+    conda_id: conda-forge/locust
+    pypi_id: locust
   - name: vcrpy
     github_id: kevin1024/vcrpy
-    pypi_id: vcrpy
     category: testing
+    conda_id: conda-forge/vcrpy
+    pypi_id: vcrpy
   - name: Model Bakery
     github_id: model-bakers/model_bakery
-    pypi_id: model_bakery
-    labels: ["django"]
     category: testing
+    labels: ["django"]
+    conda_id: conda-forge/model_bakery
+    pypi_id: model_bakery
   - name: GoAccess
     github_id: allinurl/goaccess
-    apt_id: goaccess
-    brew_id: goaccess
     category: monitoring
+    brew_id: goaccess
+    apt_id: goaccess
   - name: Kong
     github_id: kong/kong
-    dockerhub_id: kong
-    license: Apache-2.0
     category: api-proxies
+    license: Apache-2.0
+    dockerhub_id: kong
   - name: tyk
     github_id: TykTechnologies/tyk
     category: api-proxies
     license: MPL-2.0
   - name: ngxtop
     github_id: lebinh/ngxtop
-    pypi_id: ngxtop
     category: monitoring
+    pypi_id: ngxtop
   - name: snallygaster
     github_id: hannob/snallygaster
-    pypi_id: snallygaster
     category: web-scraping
+    pypi_id: snallygaster
   - name: ghapi
     github_id: fastai/ghapi
-    pypi_id: ghapi
     category: third-party-apis
+    pypi_id: ghapi
   - name: tartiflette-asgi
     github_id: tartiflette/tartiflette-asgi
-    pypi_id: tartiflette-asgi
-    labels: ["graphql"]
     category: graphql
+    labels: ["graphql"]
+    pypi_id: tartiflette-asgi
   - name: djangorestframework-stubs
     github_id: typeddjango/djangorestframework-stubs
     category: django-utils
     labels: ["django"]
+    conda_id: conda-forge/djangorestframework-stubs
     pypi_id: djangorestframework-stubs
   - name: markdown-include
     github_id: cmacmackin/markdown-include
     category: markdown
+    conda_id: conda-forge/markdown-include
     pypi_id: markdown-include
   - name: pymdown-extensions
     github_id: facelessuser/pymdown-extensions
     category: markdown
-    pypi_id: pymdown-extensions
     conda_id: conda-forge/pymdown-extensions
+    pypi_id: pymdown-extensions
   - name: tinkerer
     github_id: vladris/tinkerer
     category: others
@@ -2521,8 +2577,8 @@ projects:
   - name: grpc
     github_id: grpc/grpc
     category: rpc
-    pypi_id: grpcio
     conda_id: conda-forge/grpcio
+    pypi_id: grpcio
   - name: guillotina
     github_id: plone/guillotina
     category: web-frameworks
@@ -2530,6 +2586,7 @@ projects:
   - name: yandex-tank
     github_id: yandex/yandex-tank
     category: testing
+    pypi_id: yandextank
   - name: golem
     github_id: golemhq/golem
     category: testing
@@ -2556,17 +2613,18 @@ projects:
     pypi_id: flama
   - name: Prometheus Client
     github_id: prometheus/client_python
-    description: "Python client for the Prometheus monitoring system."
     category: monitoring
+    conda_id: conda-forge/prometheus_client
     pypi_id: prometheus-client
+    description: Python client for the Prometheus monitoring system.
   - name: best-of-ml-python - DB Clients
     github_id: ml-tooling/best-of-ml-python
-    category: "third-party-apis"
-    resource: True
-    description: "Collection of python database client libraries"
+    category: third-party-apis
+    description: Collection of python database client libraries
+    resource: true
   - name: itsdangerous
     github_id: pallets/itsdangerous
-    category: others # security
+    category: others
     conda_id: conda-forge/itsdangerous
     pypi_id: itsdangerous
   - name: livereload
@@ -2607,6 +2665,7 @@ projects:
   - name: stripe
     github_id: stripe/stripe-python
     category: third-party-apis
+    conda_id: anaconda/stripe
     pypi_id: stripe
   - name: hvac
     github_id: hvac/hvac
@@ -2644,7 +2703,7 @@ projects:
     conda_id: conda-forge/google-auth
     pypi_id: google-auth
   - name: Flask-OpenID
-    github_id: mitsuhiko/flask-openid
+    github_id: pallets-eco/flask-openid
     category: auth
     labels: ["flask"]
     conda_id: conda-forge/flask-openid
@@ -2658,9 +2717,10 @@ projects:
     github_id: rycus86/prometheus_flask_exporter
     category: monitoring
     labels: ["flask"]
+    conda_id: conda-forge/prometheus_flask_exporter
     pypi_id: prometheus-flask-exporter
   - name: flask-swagger
-    github_id: gangverk/flask-swagger
+    github_id: getsling/flask-swagger
     category: openapi-utils
     labels: ["flask"]
     conda_id: conda-forge/flask-swagger
@@ -2682,7 +2742,7 @@ projects:
     pypi_id: terminado
   - name: certifi
     github_id: certifi/python-certifi
-    category: others #security
+    category: others
     conda_id: conda-forge/certifi
     pypi_id: certifi
   - name: selenium
@@ -2704,11 +2764,13 @@ projects:
     github_id: FactoryBoy/factory_boy
     category: testing
     labels: ["django"]
+    conda_id: conda-forge/factory_boy
     pypi_id: factory_boy
   - name: drf-spectacular
     github_id: tfranzel/drf-spectacular
     category: openapi-utils
     labels: ["openapi"]
+    conda_id: conda-forge/drf-spectacular
     pypi_id: drf-spectacular
   - name: IP2Trace
     github_id: ip2location/ip2trace-python
@@ -2718,7 +2780,7 @@ projects:
     category: fastapi-utils
     labels: ["fastapi"]
     pypi_id: fastapi-crudrouter
-  - name: fastapi-admin
+  - name: fastapi-admin/fastapi-admin
     github_id: fastapi-admin/fastapi-admin
     category: fastapi-utils
     labels: ["fastapi"]
@@ -2761,10 +2823,12 @@ projects:
   - name: trustme
     github_id: python-trio/trustme
     category: others
+    conda_id: conda-forge/trustme
     pypi_id: trustme
   - name: web3.py
     github_id: ethereum/web3.py
     category: others
+    conda_id: conda-forge/web3
     pypi_id: web3
   - name: justpy
     github_id: elimintz/justpy
@@ -2773,6 +2837,7 @@ projects:
   - name: pytrends
     github_id: GeneralMills/pytrends
     category: web-scraping
+    conda_id: conda-forge/pytrends
     pypi_id: pytrends
   - name: Scrapera
     github_id: DarshanDeshpande/Scrapera
