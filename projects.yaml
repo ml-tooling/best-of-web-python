@@ -2847,3 +2847,25 @@ projects:
     github_id: idom-team/idom
     category: web-ui
     pypi_id: idom
+  - name: fastapi-lazy
+    github_id: yezz123/fastapi-lazy
+    category: fastapi-utils
+    labels: ["fastapi"]
+    pypi_id: fastapi-lazy
+  - name: proxy.py
+    github_id: abhinavsingh/proxy.py
+    category: others
+    pypi_id: proxy.py
+  - name: notion-sdk-py
+    github_id: ramnes/notion-sdk-py
+    category: third-party-apis
+    conda_id: conda-forge/notion-client
+    pypi_id: notion-client
+  - name: PyWebIO
+    github_id: pywebio/PyWebIO
+    category: web-ui
+    pypi_id: pywebio
+  - name: python-react
+    github_id: markfinger/python-react
+    category: web-ui
+    pypi_id: react
