@@ -2869,3 +2869,8 @@ projects:
     github_id: markfinger/python-react
     category: web-ui
     pypi_id: react
+  - name: fastapi-mvc
+    github_id: rszamszur/fastapi-mvc
+    category: fastapi-utils
+    labels: ["fastapi"]
+    pypi_id: fastapi-mvc
