@@ -2874,3 +2874,15 @@ projects:
     category: fastapi-utils
     labels: ["fastapi"]
     pypi_id: fastapi-mvc
+  - name: pyscript
+    github_id: pyscript/pyscript
+    category: web-ui
+  - name: trame
+    github_id: Kitware/trame
+    category: web-ui
+    pypi_id: trame
+  - name: sqladmin
+    github_id: aminalaee/sqladmin
+    category: fastapi-utils
+    labels: ["fastapi"]
+    pypi_id: sqladmin
