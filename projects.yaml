@@ -2750,6 +2750,10 @@ projects:
     category: testing
     conda_id: conda-forge/selenium
     pypi_id: selenium
+  - name: playwright
+    category: testing
+    conda_id: microsoft/playwright
+    pypi_id: playwright
   - name: coverage
     github_id: nedbat/coveragepy
     category: testing
