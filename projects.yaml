@@ -1423,6 +1423,10 @@ projects:
     github_id: h2oai/wave
     category: web-ui
     pypi_id: wave
+  - name: Panel
+    github_id: holoviz/panel
+    category: web-ui
+    pypi_id: panel
   - name: Streamlit
     github_id: streamlit/streamlit
     category: web-ui
