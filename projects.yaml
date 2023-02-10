@@ -2890,3 +2890,8 @@ projects:
     category: fastapi-utils
     labels: ["fastapi"]
     pypi_id: sqladmin
+  - name: robyn
+    github_id: sansyrox/robyn
+    category: web-frameworks
+    conda_id: conda-forge/robyn
+    pypi_id: robyn
