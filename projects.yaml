@@ -2895,3 +2895,7 @@ projects:
     category: web-frameworks
     conda_id: conda-forge/robyn
     pypi_id: robyn
+  - name: robyn
+    github_id: zauberzeug/nicegui
+    category: web-frameworks
+    pypi_id: nicegui   
