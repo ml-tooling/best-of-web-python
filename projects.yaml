@@ -878,6 +878,10 @@ projects:
     category: rpc
     labels: ["fastapi"]
     pypi_id: fastapi-jsonrpc
+  - name: ucall
+    github_id: unum-cloud/ucall
+    category: rpc
+    pypi_id: ucall
   - name: lambdarest
     github_id: sloev/python-lambdarest
     category: serverless
