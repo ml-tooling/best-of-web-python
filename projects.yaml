@@ -86,6 +86,12 @@ projects:
     labels: ["flask"]
     conda_id: conda-forge/flask-admin
     pypi_id: flask-admin
+  - name: starlette-admin
+    github_id: jowilf/starlette-admin
+    category: admin-ui
+    labels: ["fastapi"]
+    conda_id: conda-forge/starlette-admin
+    pypi_id: starlette-admin
   - name: django-debug-toolbar
     github_id: jazzband/django-debug-toolbar
     category: admin-ui
