@@ -2909,3 +2909,10 @@ projects:
     category: web-frameworks
     conda_id: conda-forge/robyn
     pypi_id: robyn
+  - name: NiceGUI
+    github_id: zauberzeug/nicegui
+    category: web-ui
+    conda_id: conda-forge/nicegui
+    pypi_id: nicegui
+    dockerhub_id: zauberzeug/nicegui
+    license: MIT
