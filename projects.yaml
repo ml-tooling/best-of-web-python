@@ -2916,3 +2916,7 @@ projects:
     pypi_id: nicegui
     dockerhub_id: zauberzeug/nicegui
     license: MIT
+  - name: view.py
+    github_id: ZeroIntensity/view.py
+    category: web-frameworks
+    pypi_id: view.py
