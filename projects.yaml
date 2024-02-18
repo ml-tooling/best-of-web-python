@@ -2920,3 +2920,8 @@ projects:
     github_id: ZeroIntensity/view.py
     category: web-frameworks
     pypi_id: view.py
+  - name: litestar
+    github_id: litestar-org/litestar
+    category: web-frameworks
+    labels: ["openapi"]
+    pypi_id: litestar
