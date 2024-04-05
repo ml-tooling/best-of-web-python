@@ -2925,3 +2925,8 @@ projects:
     category: web-frameworks
     labels: ["openapi"]
     pypi_id: litestar
+  - name: httpx-ws
+    github_id: frankie567/httpx-ws
+    category: websocket
+    conda_id: conda-forge/httpx-ws
+    pypi_id: httpx-ws
