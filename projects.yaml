@@ -2930,3 +2930,8 @@ projects:
     category: websocket
     conda_id: conda-forge/httpx-ws
     pypi_id: httpx-ws
+  - name: posthog
+    github_id: PostHog/posthog
+    category: monitoring
+    pypi_id: posthog
+    
