@@ -2934,4 +2934,8 @@ projects:
     github_id: PostHog/posthog
     category: monitoring
     pypi_id: posthog
+  - name: structlog
+    github_id: hynek/structlog
+    category: others
+    pypi_id: structlog
     
