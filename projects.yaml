@@ -2939,3 +2939,7 @@ projects:
     category: others
     pypi_id: structlog
     
+  - name: vedika-sdk
+    github_id: vedika-io/vedika-sdk-python
+    category: third-party-apis
+    pypi_id: vedika-sdk
