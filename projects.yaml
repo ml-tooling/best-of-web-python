@@ -1245,6 +1245,10 @@ projects:
     github_id: ping/instagram_private_api
     category: third-party-apis
     pypi_id: instagram_private_api
+  - name: instagrapi
+    github_id: subzeroid/instagrapi
+    category: third-party-apis
+    pypi_id: instagrapi
   - name: pyshorteners
     github_id: ellisonleao/pyshorteners
     category: third-party-apis
