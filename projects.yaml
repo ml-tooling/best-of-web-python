@@ -2939,3 +2939,8 @@ projects:
     category: others
     pypi_id: structlog
     
+  - name: iploop-sdk
+    github_id: Iploop/proxyclaw
+    category: web-scraping
+    pypi_id: iploop-sdk
+    description: "Residential proxy SDK with 66 site presets and built-in anti-detection (TLS fingerprinting, Chrome headers). 2M+ IPs, 195+ countries."
