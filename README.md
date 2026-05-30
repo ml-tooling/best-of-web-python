@@ -3332,6 +3332,7 @@ _Libraries for web scraping, crawling, downloading, and mining as well as librar
 - <b><a href="https://github.com/DarshanDeshpande/Scrapera">Scrapera</a></b> (🥉13 ·  ⭐ 310 · 💀) - A universal package of scraper scripts for humans. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/bomquote/transistor">Transistor</a></b> (🥉13 ·  ⭐ 210 · 💀) - Transistor, a Python web scraping framework for intelligent use.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/Iploop/proxyclaw">iploop-sdk</a></b> (🥉12 ·  ⭐ 7 · 🐣) - Residential proxy SDK with 66 site presets and built-in anti-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- [humanbrowser](https://humanbrowser.cloud) - Pay-as-you-go browser automation and scraping service with residential proxies, captcha solving, and AI tasks; unused balance never expires.
 </details>
 <br>
 
