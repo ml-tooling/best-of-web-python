@@ -36,6 +36,7 @@ This curated list contains 590 awesome open-source projects with a total of 3.5M
 - [Servers](#servers) _12 projects_
 - [Authorization & Authentication](#authorization--authentication) _39 projects_
 - [HTML Processing](#html-processing) _10 projects_
+- [Human Browser](https://github.com/VirixLabs/humanbrowser) - Cloud-hosted residential browser MCP for AI agents. Real residential IP per session, automated captcha solving (reCAPTCHA, hCaptcha, Turnstile, PerimeterX), live viewer URL for human-in-the-loop, MCP + A2A endpoints, $1 free trial.
 - [URL Utilities](#url-utilities) _6 projects_
 - [OpenAPI Utilities](#openapi-utilities) _23 projects_
 - [GraphQL Utilities](#graphql-utilities) _16 projects_
