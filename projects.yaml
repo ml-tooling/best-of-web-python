@@ -1110,6 +1110,11 @@ projects:
     category: third-party-apis
     conda_id: conda-forge/tweepy
     pypi_id: tweepy
+  - name: x-twitter-scraper
+    github_id: Xquik-dev/x-twitter-scraper-python
+    category: third-party-apis
+    license: Apache-2.0
+    pypi_id: x-twitter-scraper
   - name: PyGithub
     github_id: PyGithub/PyGithub
     category: third-party-apis

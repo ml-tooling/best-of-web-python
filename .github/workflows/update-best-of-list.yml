@@ -7,6 +7,7 @@ on:
       version:
         description: "Version to use for this update"
         required: false
+        type: string
   schedule:
     - cron: "0 16 * * 4" # Every thursday at 4pm
 
@@ -18,18 +19,30 @@ jobs:
   update-best-of-list:
     runs-on: ubuntu-latest
     steps:
-      - if: ${{ github.event.inputs != null  &&  github.event.inputs.version != null }}
+      - if: ${{ inputs.version != '' }}
         name: set-version-from-input
-        run: echo "VERSION=${{ github.event.inputs.version }}" >> $GITHUB_ENV
-      - if: ${{ ! (env.VERSION != null && env.VERSION != '') }}
+        shell: bash
+        env:
+          INPUT_VERSION: ${{ inputs.version }}
+        run: |
+          if [[ ! "$INPUT_VERSION" =~ ^[0-9A-Za-z][0-9A-Za-z._-]{0,63}$ ]] \
+            || ! git check-ref-format "refs/tags/$INPUT_VERSION" >/dev/null 2>&1 \
+            || ! git check-ref-format --branch "${BRANCH_PREFIX}${INPUT_VERSION}" >/dev/null 2>&1; then
+            echo "::error::Version must use 1-64 alphanumeric, dot, underscore, or hyphen characters."
+            exit 1
+          fi
+          printf 'VERSION=%s\n' "$INPUT_VERSION" >> "$GITHUB_ENV"
+      - if: ${{ inputs.version == '' }}
         name: set-version-via-date
-        run: echo "VERSION=$(date '+%Y.%m.%d')" >> $GITHUB_ENV
+        run: printf 'VERSION=%s\n' "$(date '+%Y.%m.%d')" >> "$GITHUB_ENV"
       - uses: actions/checkout@v4
       - name: check-version-tag
         shell: bash
         run: |
           git fetch --tags --force
-          git show-ref --tags --verify --quiet -- "refs/tags/${{ env.VERSION }}" && echo "VERSION=$(date '+%Y.%m.%d-%H.%M')" >> $GITHUB_ENV || exit 0
+          if git show-ref --tags --verify --quiet -- "refs/tags/$VERSION"; then
+            printf 'VERSION=%s\n' "$(date '+%Y.%m.%d-%H.%M')" >> "$GITHUB_ENV"
+          fi
       - name: create-update-branch
         uses: peterjgrainger/action-create-branch@v3.0.0
         env:
@@ -61,13 +74,14 @@ jobs:
       - name: create-pull-request
         shell: bash
         run: |
-          # Stops script execution if a command has an error
-          set -e
-          curl -fsSL https://github.com/github/hub/raw/master/script/get | bash -s 2.14.2
-          bin/hub pull-request -b ${{ env.DEFAULT_BRANCH }} -h ${{ env.BRANCH_PREFIX }}${{ env.VERSION  }} --no-edit -m "Best-of update: ${{ env.VERSION  }}" -m "To finish this update: Select <code>Merge pull request</code> below and <code>Confirm merge</code>. Also, make sure to publish the created draft release in the [releases section](../releases) as well." || true
-          rm bin/hub
+          gh pr create \
+            --base "$DEFAULT_BRANCH" \
+            --head "${BRANCH_PREFIX}${VERSION}" \
+            --title "Best-of update: $VERSION" \
+            --body "To finish this update: Select <code>Merge pull request</code> below and <code>Confirm merge</code>. Also, make sure to publish the created draft release in the [releases section](../releases) as well." \
+            || true
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: create-release
         uses: actions/create-release@v1
         env:
