@@ -1411,6 +1411,10 @@ projects:
     category: web-frameworks
     conda_id: conda-forge/web.py
     pypi_id: web.py
+  - name: invisible_playwright
+    github_id: feder-cr/invisible_playwright
+    category: web-scraping
+    labels: ["playwright"]
   - name: flask-mongorest
     github_id: closeio/flask-mongorest
     category: web-frameworks
