@@ -2944,3 +2944,8 @@ projects:
     category: web-scraping
     pypi_id: iploop-sdk
     description: "Residential proxy SDK with 66 site presets and built-in anti-detection (TLS fingerprinting, Chrome headers). 2M+ IPs, 195+ countries."
+  - name: indexgap
+    github_id: borisowlexa2010-star/IndexGap
+    pypi_id: indexgap
+    category: testing
+    description: "Audits generated web pages — invented facts, template-wide breakage, near-duplicates, hreflang. Zero dependencies."
