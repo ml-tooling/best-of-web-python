@@ -2857,6 +2857,9 @@ projects:
     category: web-scraping
     conda_id: conda-forge/pytrends
     pypi_id: pytrends
+  - name: google-trends-429
+    github_id: tallyrake/google-trends-429
+    category: web-scraping
   - name: Scrapera
     github_id: DarshanDeshpande/Scrapera
     category: web-scraping
