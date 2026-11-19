@@ -1424,6 +1424,12 @@ projects:
     github_id: howie6879/ruia
     category: web-scraping
     pypi_id: ruia
+  - name: proxy-scraper
+    github_id: maximilianfeix/proxy-scraper
+    category: web-scraping
+    pypi_id: proxy-scraper-cli
+    conda_id: conda-forge/proxy-scraper-cli
+    license: MIT
   - name: dirsearch
     github_id: maurosoria/dirsearch
     category: web-scraping
