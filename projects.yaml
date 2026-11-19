@@ -2944,3 +2944,7 @@ projects:
     category: web-scraping
     pypi_id: iploop-sdk
     description: "Residential proxy SDK with 66 site presets and built-in anti-detection (TLS fingerprinting, Chrome headers). 2M+ IPs, 195+ countries."
+  - name: Swarmauri SDK
+    github_id: swarmauri/swarmauri-sdk
+    pypi_id: swarmauri
+    description: Composable Python SDK with API integrations, middleware, billing providers, and storage adapters.
