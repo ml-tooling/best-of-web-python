@@ -2,19 +2,19 @@
 
 _Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
 
-- <b><a href="https://github.com/pallets/flask">flask</a></b> (🥇38 ·  ⭐ 75K · 📈) - The Python micro framework for building web applications. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/marshmallow-code/apispec">apispec</a></b> (🥇30 ·  ⭐ 1.2K · 📈) - A pluggable API specification generator. Currently supports the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/11/favicon.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/mherrmann/helium">selenium-python-helium</a></b> (🥉22 ·  ⭐ 8.3K · 📈) - Lighter browser automation based on Selenium. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/lazybird/django-solo">django-solo</a></b> (🥉22 ·  ⭐ 960 · 📈) - Helps working with singletons - things like global.. <code>❗Unlicensed</code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/Iploop/proxyclaw">iploop-sdk</a></b> (🥉11 · 📈) - Residential proxy SDK with 66 site presets and built-in anti-detection (TLS.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/LonamiWebs/Telethon">Telethon</a></b> (🥇36 ·  ⭐ 12K · 💤) - Pure Python 3 MTProto API Telegram client library, for bots too!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Gallopsled/pwntools">pwntools</a></b> (🥈29 ·  ⭐ 14K · 📈) - CTF framework and exploit development library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/twilio/twilio-python">twilio</a></b> (🥈29 ·  ⭐ 2.1K · 📈) - A Python module for communicating with the Twilio API and generating.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/frankie567/httpx-ws">httpx-ws</a></b> (🥉26 ·  ⭐ 150 · 📈) - WebSocket support for HTTPX. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/django-compressor/django-compressor">django-compressor</a></b> (🥉25 ·  ⭐ 2.9K · 📈) - Compresses linked and inline javascript or CSS into a.. <code>❗Unlicensed</code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code>
 
 ## 📉 Trending Down
 
 _Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
 
-- <b><a href="https://github.com/psf/requests">requests</a></b> (🥇38 ·  ⭐ 55K · 📉) - A simple, yet elegant, HTTP library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/executablebooks/markdown-it-py">markdown-it-py</a></b> (🥈32 ·  ⭐ 1.4K · 📉) - Markdown parser, done right. 100% CommonMark support,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/twisted/twisted">twisted</a></b> (🥇31 ·  ⭐ 6K · 📉) - Event-driven networking engine written in Python. <code>❗Unlicensed</code>
-- <b><a href="https://pypi.org/p/aiodns">aiodns</a></b> (🥉23 ·  ⭐ 590 · 📉) - Simple DNS resolver for asyncio. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/django-commons/django-robots/">django-robots</a></b> (🥉21 ·  ⭐ 470 · 📉) - Robots exclusion application for Django, complementing.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/aws/chalice">chalice</a></b> (🥈28 ·  ⭐ 11K · 📉) - Python Serverless Microframework for AWS. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/jazzband/django-widget-tweaks">django-widget-tweaks</a></b> (🥉24 ·  ⭐ 2.2K · 💤) - Tweak the form field rendering in templates, not in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://django-formtools.readthedocs.io/en/latest/">django-formtools</a></b> (🥉23 ·  ⭐ 880 · 📉) - A set of high-level abstractions for Django forms. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/lordjabez/requestium">requestium</a></b> (🥉19 ·  ⭐ 1.8K · 📉) - Integration layer between Requests and Selenium for automation.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/alirezamika/autoscraper">AutoScraper</a></b> (🥉16 ·  ⭐ 6.2K · 💀) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
